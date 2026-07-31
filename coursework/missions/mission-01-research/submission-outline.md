@@ -1,5 +1,13 @@
 # Mission 01 — Notion 제출 개요
 
+작성 정본:
+
+- 리서치 결과: `coursework/case-study/research/docs/findings/research_findings.md`
+- 통합 인사이트·문제 정의:
+  `coursework/case-study/research/docs/findings/sprint1_insight_summary.md`
+- 어피니티 근거 카드:
+  `coursework/case-study/research/data/synthesis/interview_affinity_cards.md`
+
 ## A. 리서치 보고서
 
 1. 프로젝트 배경과 초기 가설
