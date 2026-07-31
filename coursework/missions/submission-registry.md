@@ -7,7 +7,7 @@ Notion과 Figma의 실제 제출 링크를 기록하는 단일 문서다. 링크
 |---:|---|---|---|---|
 | 1 | 리서치 보고서 | Notion | 미등록 | 작성 전 |
 | 1 | 인사이트 요약본 | Notion | 미등록 | 작성 전 |
-| 1 | 인터뷰 어피니티 분석 | FigJam | [열기](https://www.figma.com/board/qKtJMdMAKEDExU2ldiBssP/%EC%B5%9C%EB%AA%85%ED%95%98%EB%8B%98?node-id=0-1&t=AIZuJl63RxEyFrKm-1) | 1차 분석 완료·수동 재분류 대기 |
+| 1 | 인터뷰 어피니티 분석 | FigJam | [재분류 v2 열기](https://www.figma.com/board/qKtJMdMAKEDExU2ldiBssP/%EC%B5%9C%EB%AA%85%ED%95%98%EB%8B%98?node-id=13-302) | 수동 재분류 완료 |
 | 2 | 스토리보드·사용자 시나리오 | Figma | 미등록 | 대기 |
 | 2 | 기능 정의 문서 | Notion 또는 문서 | 미등록 | 대기 |
 | 2 | IA·플로우차트 | Figma | 미등록 | 대기 |

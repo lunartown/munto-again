@@ -1,5 +1,8 @@
 # 문토 소셜링 콘텐츠 분석 — 1차 결과
 
+> Sprint 1의 인터뷰 통합 인사이트, Fishbone·5 Whys, 핵심 문제와 초기 가설은
+> [Sprint 1 인사이트 요약](sprint1_insight_summary.md)을 정본으로 사용한다.
+
 ## 분석 범위
 
 - 수집 시점: 2026-07-30

@@ -4,18 +4,19 @@
 지속 가능성을 조사하는 프로젝트다.
 
 초기에는 `소개팅형 모임 증가가 취미 사용자 이탈을 만든다`는 가설에서 출발했지만,
-리뷰와 인터뷰에서 소개팅 자체보다 **활동 유형별 운영 노동, 문제 행동 관리, 플랫폼의
-지원 범위**가 더 중요한 원인 후보로 나타났다. 현재는 하나의 결론을 확정하지 않고 경쟁
-가설을 추가 인터뷰로 비교하는 단계다.
+리뷰와 인터뷰에서 소개팅 자체보다 **활동 유형별 운영 포맷, 문제 행동 관리, 플랫폼의
+지원 범위**가 더 중심적인 구조로 나타났다. Sprint 1에서는 `모임의 품질과 지속 여부가
+호스트 역량에 좌우되지만 플랫폼 지원은 부족하다`를 핵심 문제로 선정했다.
 
 ## 지금 먼저 볼 문서
 
 1. [프로젝트 계획](docs/project/research_plan.md)
 2. [타임라인](docs/project/timeline.md)
 3. [통합 조사 결과](docs/findings/research_findings.md)
-4. [인터뷰 가이드](docs/methods/interview_guide.md)
-5. [인터뷰 인덱스](docs/interviews/README.md)
-6. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
+4. [Sprint 1 인사이트 요약](docs/findings/sprint1_insight_summary.md)
+5. [인터뷰 가이드](docs/methods/interview_guide.md)
+6. [인터뷰 인덱스](docs/interviews/README.md)
+7. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
 
 ## 리서치 모듈 구조
 
@@ -80,6 +81,7 @@ python3 scripts/validation/validate_qual_data.py
 - Google Play 정성 리뷰 카드 93장
 - App Store 비교 리뷰 카드 42장
 - 익명화 인터뷰 5건: 주최자, 참여자, 참여자 겸 운영자 사례
-- 인터뷰 근거 카드 31장과 AI 1차 어피니티 군집 5개
+- 인터뷰 근거 카드 31장, AI 1차 군집과 사람의 수동 재분류 6개
+- Fishbone·5 Whys, 핵심 문제 정의와 Sprint 2 초기 가설
 
 현재 단계와 다음 작업은 [타임라인](docs/project/timeline.md)을 단일 기준으로 사용한다.
