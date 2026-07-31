@@ -1,0 +1,7 @@
+source_id,source_type,source_name,source_url,published_period,time_bucket,quality_level,intended_use,collection_status,notes
+S001,app_review,Google Play 문토 앱,https://play.google.com/store/apps/details?hl=ko&id=kr.munto.app,2021-06~2026-07,unknown,high,기간별 별점·저평점 주제 변화와 최근 리뷰 발화 분석,reviewed,공개 텍스트 리뷰 1200건 시계열 분석; 최신순 120건 중 표본 65건과 발화 카드 93장 별도 정성 분석; 검증 표본 20장 일치 80%; 독립 사람 코더 미실시; 작성자 정보 미수집
+S002,blog,문토 소셜링 실제 참여 후기,https://news0858.tistory.com/8,2025-03,recent,medium,긍정 경험과 비용 부담 반례 확인,to_review,개인 블로그이므로 경험 진위 별도 판단
+S003,blog,한강 피크닉 소셜링 후기,https://abk99.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EC%8D%A8%EB%B3%B8-%EB%AC%B8%ED%86%A0-%ED%9B%84%EA%B8%B0-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EB%82%98%EC%81%98%EC%A7%80-%EC%95%8A%EC%95%98%EB%8D%98-%ED%95%9C%EA%B0%95-%ED%94%BC%ED%81%AC%EB%8B%89-%EC%86%8C%EC%85%9C%EB%A7%81,2024,middle,medium,취미 목적 참여 경험과 반례 확인,to_review,개인 블로그
+S004,blog,문토 소모임 기대와 현실 비교,https://wldp16tjd.tistory.com/10,2025,recent,low,후보 발화 탐색,to_review,검색 최적화형 글 가능성 검토
+S005,product_analysis,Disquiet 문토 프로덕트 분석,https://disquiet.io/articles/DMsLxP,2022,early,medium,초기 서비스 구조와 경험 비교,to_review,초창기 비교 자료
+S006,app_review,Apple App Store 문토 앱,https://apps.apple.com/kr/app/id1535886772,2024-04~2025-06,middle,high,Google Play 핵심 패턴의 플랫폼 간 재현 여부 확인,reviewed,공개 피드 원자료 50건; 최신순 저평점 20건과 고평점 반례 10건; 27건 포함·카드 42장; 작성자 정보 미수집; 동일 AI 원문 검토

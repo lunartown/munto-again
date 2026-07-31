@@ -1,0 +1,31 @@
+﻿review_id,rating,review_date,sample_group,screening_status,exclusion_reason,generated_card_count,review_status
+12817594399,1,2025-06-25,1-3점,included,,2,reviewed
+12779255589,1,2025-06-15,1-3점,included,,5,reviewed
+12775350030,1,2025-06-14,1-3점,included,,1,reviewed
+12771672470,2,2025-06-13,1-3점,included,,3,reviewed
+12764248398,3,2025-06-11,1-3점,excluded,의미를 판단할 수 없는 미완성 문장,0,reviewed
+12751810763,3,2025-06-08,1-3점,included,,1,reviewed
+12682998475,1,2025-05-21,1-3점,included,,3,reviewed
+12677314409,1,2025-05-20,1-3점,included,,1,reviewed
+12658909742,1,2025-05-15,1-3점,included,,1,reviewed
+12587611257,3,2025-04-26,1-3점,included,,1,reviewed
+12556730027,1,2025-04-18,1-3점,excluded,평점과 상반된 짧은 감상만 있어 맥락을 판단할 수 없음,0,reviewed
+12538903996,3,2025-04-13,1-3점,included,,1,reviewed
+12514664882,1,2025-04-07,1-3점,included,,3,reviewed
+12500684017,3,2025-04-03,1-3점,included,,1,reviewed
+12485415934,1,2025-03-30,1-3점,included,,1,reviewed
+12372005061,1,2025-03-01,1-3점,included,,1,reviewed
+12260872739,1,2025-02-02,1-3점,included,,3,reviewed
+12084703850,1,2024-12-20,1-3점,included,,2,reviewed
+12082781625,1,2024-12-19,1-3점,included,,1,reviewed
+11936916402,1,2024-11-10,1-3점,included,,1,reviewed
+12827053972,5,2025-06-28,4-5점_반례,included,,1,reviewed
+12655340576,4,2025-05-14,4-5점_반례,included,,1,reviewed
+12564940538,5,2025-04-20,4-5점_반례,included,,2,reviewed
+12545444556,5,2025-04-15,4-5점_반례,included,,1,reviewed
+12536922593,5,2025-04-12,4-5점_반례,included,,1,reviewed
+12513851630,5,2025-04-07,4-5점_반례,included,,1,reviewed
+12210539333,5,2025-01-20,4-5점_반례,excluded,감사 표현만 있어 상황·행동 근거가 없음,0,reviewed
+12178038125,4,2025-01-12,4-5점_반례,included,,1,reviewed
+11902854727,5,2024-11-02,4-5점_반례,included,,1,reviewed
+11718954312,5,2024-09-13,4-5점_반례,included,,1,reviewed

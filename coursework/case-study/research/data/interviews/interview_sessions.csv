@@ -1,0 +1,6 @@
+participant_id,interview_date,minutes,service_experience,last_used_period,current_status,original_goal,recruitment_channel,notes_consent,recording_consent,anonymized,interviewer,session_status,notes
+H01,2026-07-30 17:20,10,동행클럽,,,,부트캠프 동료,Y,Y,Y,최명하,completed,"ZEP 화상 인터뷰, 녹음 동의·녹화 없음"
+U01,2026-07-30 17:35,10,당근,,,,부트캠프 동료,Y,Y,Y,최명하,completed,"ZEP 화상 인터뷰, 녹음 동의·녹화 없음"
+HU01,2026-07-31 09:00,15,"문토, 소모임, 당근",,,,부트캠프 동료,Y,Y,Y,최명하,completed,"ZEP 화상 인터뷰, 녹음 동의·녹화 없음"
+U02,2026-07-31 09:30,10,Meetup,,,,부트캠프 동료,Y,Y,Y,최명하,completed,"ZEP 화상 인터뷰, 녹음 동의·녹화 없음"
+HU02,2026-07-31 09:50,20,"Meetup, 당근",,,,부트캠프 동료,Y,Y,Y,최명하,completed,"ZEP 화상 인터뷰, 녹음 동의·녹화 없음"

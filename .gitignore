@@ -1,0 +1,31 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# JavaScript / TypeScript
+node_modules/
+.next/
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Generated local artifacts
+tmp/
+.cache/
+

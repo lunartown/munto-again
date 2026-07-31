@@ -1,0 +1,4 @@
+﻿period,total_reviews,average_rating,rating_1_count,rating_1_share,low_1_3_count,low_1_3_share,low_share_ci95_low,low_share_ci95_high,high_4_5_count,high_4_5_share
+early_2021_2022,724,4.112,103,0.1423,165,0.2279,0.1988,0.2598,559,0.7721
+middle_2023_2024,327,3.869,58,0.1774,100,0.3058,0.2584,0.3578,227,0.6942
+recent_2025_2026,149,3.174,50,0.3356,76,0.5101,0.4306,0.5891,73,0.4899
