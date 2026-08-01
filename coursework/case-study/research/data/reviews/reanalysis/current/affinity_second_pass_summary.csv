@@ -1,0 +1,26 @@
+﻿affinity_group,affinity_group_name,experience_lane,card_count,unique_review_count,april_burst_unique_reviews,other_recent_unique_reviews,low_rating_unique_reviews,high_rating_unique_reviews,positive_cards,negative_cards,mixed_cards,neutral_cards,status
+C01,이용을 막는 앱 오류·기능 실패,experience_condition,34,25,4,21,19,6,3,17,1,13,second_pass_complete_not_problem_definition
+C02,앱 사용 편의와 정보 표현,experience_condition,17,15,6,9,3,12,7,3,0,7,second_pass_complete_not_problem_definition
+C03,모임 성사 여부의 불확실성,experience_condition,10,7,0,7,7,0,1,8,0,1,second_pass_complete_not_problem_definition
+C04,환불 기준과 비용 책임의 공정성,experience_condition,8,4,0,4,4,0,1,4,0,3,second_pass_complete_not_problem_definition
+C05,문제 발생 시 문의·해결 가능성,experience_condition,10,8,0,8,7,1,0,4,0,6,second_pass_complete_not_problem_definition
+C06,규칙 집행과 제재의 일관성,experience_condition,11,10,1,9,9,1,0,8,0,3,second_pass_complete_not_problem_definition
+C07,호스트·참여자·정보의 신뢰성,experience_condition,14,11,1,10,9,2,0,3,0,11,second_pass_complete_not_problem_definition
+C08,참여 전 사람과 모임을 판단할 단서,experience_condition,6,6,1,5,1,5,2,1,0,3,second_pass_complete_not_problem_definition
+C09,가격·수수료 대비 가치,experience_condition,22,15,1,14,12,3,2,3,2,15,second_pass_complete_not_problem_definition
+C10,수익 구조가 모임 구성에 미치는 영향,experience_condition,5,5,1,4,5,0,0,0,0,5,second_pass_complete_not_problem_definition
+C11,연애·파티 목적과 기대의 일치,experience_condition,14,9,1,8,5,4,4,0,0,10,second_pass_complete_not_problem_definition
+C12,특정 목적의 과다 노출로 인한 탐색 방해,experience_condition,8,7,2,5,5,2,0,3,1,4,second_pass_complete_not_problem_definition
+C13,원치 않는 접근과 관계 경계,experience_condition,2,2,0,2,1,1,0,1,0,1,second_pass_complete_not_problem_definition
+C14,필터·추천·검색을 통한 발견 가능성,experience_condition,10,9,0,9,2,7,4,1,4,1,second_pass_complete_not_problem_definition
+C15,지역별 모임 공급의 격차,experience_condition,8,7,1,6,5,2,0,3,0,5,second_pass_complete_not_problem_definition
+C16,모임 유형과 선택 폭,experience_condition,8,7,2,5,1,6,3,3,0,2,second_pass_complete_not_problem_definition
+V01,취미를 함께하며 얻는 활동 가치,experienced_value,37,32,20,12,3,29,24,2,0,11,second_pass_complete_not_problem_definition
+V02,새로운 활동을 시도하고 취향을 발견하는 가치,experienced_value,15,11,8,3,0,11,9,2,0,4,second_pass_complete_not_problem_definition
+V03,잘 맞는 사람과 편안하게 관계 맺는 가치,experienced_value,27,21,14,7,1,20,16,3,1,7,second_pass_complete_not_problem_definition
+V04,반복 모임이 만드는 관계·활동의 지속성,experienced_value,5,5,1,4,0,5,3,0,0,2,second_pass_complete_not_problem_definition
+H01,호스트가 모임을 개설·운영하는 조건,host_experience,5,5,1,4,0,5,2,0,0,3,second_pass_complete_not_problem_definition
+R01,재참여·지속 이용,behavioral_result,6,6,1,5,0,6,2,0,0,4,second_pass_complete_not_problem_definition
+R02,이용 중단·외부 이동,behavioral_result,11,9,1,8,7,2,1,2,1,7,second_pass_complete_not_problem_definition
+R03,추천·소개를 통한 유입과 확산,behavioral_result,7,6,4,2,0,6,7,0,0,0,second_pass_complete_not_problem_definition
+X00,맥락 부족 또는 단독 의미 없음,hold,42,21,4,17,8,13,4,2,0,36,second_pass_complete_not_problem_definition

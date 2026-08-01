@@ -1,0 +1,7 @@
+﻿interview_group,interview_group_name,interview_card_count,interview_participant_count,google_play_current_group_ids,google_play_current_unique_reviews,google_play_current_denominator,app_store_group_ids,app_store_unique_reviews,app_store_denominator,cross_source_relation,decision_status
+A,참여 전 실제 목적·방식·조건을 예측하기 어렵다,6,4,C07|C08|C11|C12|C14|C15|C16,40,119,C07|C08|C11|C12|C14|C15|C16,17,50,direct_repetition,evidence_comparison_only_not_final_problem
+B,반복 가능한 상호작용 포맷이 경험을 좌우한다,6,3,V01|V02|V03,49,119,V01|V02|V03,10,50,interview_led_review_outcomes_are_indirect,evidence_comparison_only_not_final_problem
+C,모임 품질·지속이 호스트 역량에 의존하지만 지원은 부족하다,7,3,H01|C03|C06|C07,26,119,H01|C06|C07,15,50,interview_led_partial_review_repetition,evidence_comparison_only_not_final_problem
+D,위험 판단·퇴출·사건 대응 체계가 부족하다,4,3,C06|C07|C08,23,119,C06|C07|C08,14,50,direct_repetition,evidence_comparison_only_not_final_problem
+E,반복 참여와 작은 기여 구조가 관계·소속감을 만든다,3,1,V04|R01,9,119,R01,1,50,single_interview_with_limited_review_support,evidence_comparison_only_not_final_problem
+F,앱 완성도와 내부 운영 도구 부족이 신뢰·잔존을 낮춘다,3,2,C01|C02|R02,43,119,C01|C02|R02,24,50,direct_repetition,evidence_comparison_only_not_final_problem

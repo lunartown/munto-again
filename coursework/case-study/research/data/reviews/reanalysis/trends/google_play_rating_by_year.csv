@@ -1,0 +1,7 @@
+﻿period,collected_review_count,average_rating,one_star_count,low_1_to_3_count,low_1_to_3_share,high_4_to_5_count,high_4_to_5_share,interpretation_limit
+2021,199,3.884,34,56,0.2814,143,0.7186,collected_corpus_only_not_review_volume_or_growth
+2022,525,4.198,69,109,0.2076,416,0.7924,collected_corpus_only_not_review_volume_or_growth
+2023,261,3.989,40,73,0.2797,188,0.7203,collected_corpus_only_not_review_volume_or_growth
+2024,66,3.394,18,27,0.4091,39,0.5909,collected_corpus_only_not_review_volume_or_growth
+2025,77,3.026,28,42,0.5455,35,0.4545,collected_corpus_only_not_review_volume_or_growth
+2026,72,3.333,22,34,0.4722,38,0.5278,collected_corpus_only_not_review_volume_or_growth

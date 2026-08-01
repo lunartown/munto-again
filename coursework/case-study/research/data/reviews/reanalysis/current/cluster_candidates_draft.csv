@@ -1,0 +1,12 @@
+﻿cluster_candidate,cluster_candidate_name,card_count,unique_review_count,april_burst_unique_reviews,other_recent_unique_reviews,low_rating_unique_reviews,event_declared_unique_reviews,representative_card_ids,status
+P01,앱 접근·기본 기능,49,40,8,32,25,1,OCR083|OCR258|OCR307,candidate_requires_researcher_review
+P02,취소·환불·문의 해결,26,14,0,14,13,0,OCR167|OCR306|OCR145,candidate_requires_researcher_review
+P03,규칙·제재·신뢰,21,16,3,13,12,1,OCR009|OCR021|OCR091,candidate_requires_researcher_review
+P04,비용·상업화,26,19,2,17,16,1,OCR287|OCR151|OCR272,candidate_requires_researcher_review
+P05,소개팅·술·파티 성격,21,14,3,11,9,1,OCR210|OCR257|OCR153,candidate_requires_researcher_review
+P06,탐색·지역·공급,28,22,6,16,8,2,OCR048|OCR197|OCR313,candidate_requires_researcher_review
+P07,취미·활동·새로운 경험,47,35,21,14,1,2,OCR106|OCR077|OCR047,candidate_requires_researcher_review
+P08,사람·관계·대화,23,19,13,6,1,1,OCR059|OCR101|OCR043,candidate_requires_researcher_review
+P09,반복 이용·운영 지속,21,17,4,13,3,1,OCR229|OCR293|OCR198,candidate_requires_researcher_review
+P10,이용 중단·외부 이동,7,6,0,6,6,0,OCR142|OCR288|OCR039,candidate_requires_researcher_review
+U00,미분류,61,28,6,22,11,2,OCR218|OCR184|OCR305,candidate_requires_researcher_review

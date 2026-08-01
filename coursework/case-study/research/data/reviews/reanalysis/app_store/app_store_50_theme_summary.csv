@@ -1,0 +1,22 @@
+﻿theme_id,theme_name,unique_review_count,share_of_50,low_rating_reviews,high_rating_reviews,comparison_status
+C01,앱 오류·기능 실패,14,0.28,8,6,separate_source_not_yet_triangulated
+C02,앱 사용 편의와 정보 표현,4,0.08,2,2,separate_source_not_yet_triangulated
+C04,환불 기준과 비용 책임,1,0.02,1,0,separate_source_not_yet_triangulated
+C05,문의·문제 해결,3,0.06,1,2,separate_source_not_yet_triangulated
+C06,규칙 집행과 제재,5,0.1,5,0,separate_source_not_yet_triangulated
+C07,호스트·참여자·정보 신뢰,8,0.16,7,1,separate_source_not_yet_triangulated
+C08,참여 전 판단 단서,3,0.06,2,1,separate_source_not_yet_triangulated
+C09,가격·수수료 대비 가치,4,0.08,3,1,separate_source_not_yet_triangulated
+C10,수익 구조와 상업화 인식,4,0.08,4,0,separate_source_not_yet_triangulated
+C11,연애·파티 목적 경험,3,0.06,2,1,separate_source_not_yet_triangulated
+C12,특정 목적 과다 노출,1,0.02,1,0,separate_source_not_yet_triangulated
+C13,원치 않는 접근·알림,3,0.06,3,0,separate_source_not_yet_triangulated
+C14,필터·검색·발견,4,0.08,2,2,separate_source_not_yet_triangulated
+C15,지역별 공급·장소,2,0.04,2,0,separate_source_not_yet_triangulated
+C16,모임 선택 폭,5,0.1,4,1,separate_source_not_yet_triangulated
+V01,함께하는 취미 활동 가치,5,0.1,0,5,separate_source_not_yet_triangulated
+V02,새로운 시도·취향 발견,1,0.02,0,1,separate_source_not_yet_triangulated
+V03,잘 맞는 사람·관계 가치,6,0.12,1,5,separate_source_not_yet_triangulated
+H01,호스트 개설·운영 조건,3,0.06,1,2,separate_source_not_yet_triangulated
+R01,재참여·지속 이용,1,0.02,0,1,separate_source_not_yet_triangulated
+R02,이용 중단·외부 이동,10,0.2,10,0,separate_source_not_yet_triangulated
