@@ -12,11 +12,12 @@
 
 1. [프로젝트 계획](docs/project/research_plan.md)
 2. [타임라인](docs/project/timeline.md)
-3. [통합 조사 결과](docs/findings/research_findings.md)
-4. [Sprint 1 인사이트 요약](docs/findings/sprint1_insight_summary.md)
-5. [인터뷰 가이드](docs/methods/interview_guide.md)
-6. [인터뷰 인덱스](docs/interviews/README.md)
-7. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
+3. [Sprint 1.5 Current-State Audit](docs/project/sprint1_5_current_state_audit.md)
+4. [통합 조사 결과](docs/findings/research_findings.md)
+5. [Sprint 1 인사이트 요약](docs/findings/sprint1_insight_summary.md)
+6. [인터뷰 가이드](docs/methods/interview_guide.md)
+7. [인터뷰 인덱스](docs/interviews/README.md)
+8. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
 
 ## 리서치 모듈 구조
 
