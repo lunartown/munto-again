@@ -4,13 +4,15 @@
 최종 포트폴리오까지 미션 1~10을 완수하기 위한 통합 워크스페이스**다. 필요하면 이후
 실제 제품 개발까지 확장한다.
 
-현재는 미션 1의 문제 탐색 단계다. 과정 관련 자료는 모두 `coursework` 안에서 관리하고,
+현재는 Sprint 1을 마치고 Sprint 1.5 현행 플로우 분석을 시작하는 단계다. 과정 관련 자료는 모두 `coursework` 안에서 관리하고,
 실제 제품 개발을 선택할 때만 `development`를 사용한다.
 
 ## 최우선 작업 흐름
 
 ```text
 미션 1  사용자 리서치·어피니티·핵심 문제
+  ↓
+Sprint 1.5  문토 Current-State Audit·리뉴얼 범위
   ↓
 미션 2  시나리오·JTBD·기능·IA·와이어프레임
   ↓
@@ -53,6 +55,7 @@ munto-again/
 - 전체 미션 지도: [coursework/missions/README.md](coursework/missions/README.md)
 - 제출물 레지스트리: [coursework/missions/submission-registry.md](coursework/missions/submission-registry.md)
 - 리서치 현황: [coursework/case-study/research/docs/project/timeline.md](coursework/case-study/research/docs/project/timeline.md)
+- Sprint 1.5 계획: [coursework/case-study/research/docs/project/sprint1_5_current_state_audit.md](coursework/case-study/research/docs/project/sprint1_5_current_state_audit.md)
 - 경쟁 가설: [coursework/case-study/research/docs/project/research_plan.md](coursework/case-study/research/docs/project/research_plan.md)
 - 제품 브리프: [coursework/case-study/product/product-brief.md](coursework/case-study/product/product-brief.md)
 - 제품 로드맵: [coursework/case-study/product/roadmap.md](coursework/case-study/product/roadmap.md)

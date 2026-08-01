@@ -16,8 +16,8 @@
 |---:|---|---|---|---|
 | 미션 | 실행용 요약 | 원문 | 제출 형태 | 선행 조건 | 상태 |
 |---:|---|---|---|---|---|
-| 1 | [리서치](mission-01-research/README.md) | [원문](mission-01-research/brief-verbatim.md) | Notion 2종 | 없음 | 진행 중 |
-| 2 | [UX 정의](mission-02-ux-definition/README.md) | [원문](mission-02-ux-definition/brief-verbatim.md) | 문서 + Figma | 핵심 문제 승인 | 대기 |
+| 1 | [리서치](mission-01-research/README.md) | [원문](mission-01-research/brief-verbatim.md) | Notion 2종 + FigJam 2종 | 없음 | 검토 필요 |
+| 2 | [UX 정의](mission-02-ux-definition/README.md) | [원문](mission-02-ux-definition/brief-verbatim.md) | 문서 + Figma | Sprint 1.5 현행 플로우·핵심 문제 승인 | 대기 |
 | 3 | [상세 UI](mission-03-ui-design/README.md) | [원문](mission-03-ui-design/brief-verbatim.md) | Figma | 와이어프레임 승인 | 대기 |
 | 4 | [디자인 시스템](mission-04-design-system/README.md) | [원문](mission-04-design-system/brief-verbatim.md) | Figma | 상세 UI | 대기 |
 | 5 | [반응형 프로토타입](mission-05-responsive-prototype/README.md) | [원문](mission-05-responsive-prototype/brief-verbatim.md) | Figma | UI·컴포넌트 | 대기 |
@@ -41,6 +41,6 @@
 
 ## 현재 중요한 사실
 
-미션 1은 인터뷰 7건과 리뷰 근거의 통합 분석, 핵심 문제 선정, Notion 보고서·요약본
-동기화까지 완료됐다. 현재 남은 작업은 두 Notion 결과물의 최종 표시 상태를 검토하고
-제출 가능 상태로 전환하는 것이다. 이 검토 전에는 미션 2의 핵심 기능을 확정하지 않는다.
+미션 1은 인터뷰 7건과 리뷰 근거의 통합 분석, 핵심 문제 선정, Notion·FigJam 결과물
+정리까지 완료됐다. 현재는 Sprint 1.5에서 문토의 현행 플로우를 분석하고 있으며, 이
+분석 전에는 미션 2의 핵심 기능을 확정하지 않는다.
