@@ -14,8 +14,6 @@
 
 | 미션 | 목표 | 제출 형태 | 선행 조건 | 상태 |
 |---:|---|---|---|---|
-| 미션 | 실행용 요약 | 원문 | 제출 형태 | 선행 조건 | 상태 |
-|---:|---|---|---|---|---|
 | 1 | [리서치](mission-01-research/README.md) | [원문](mission-01-research/brief-verbatim.md) | Notion 2종 + FigJam 2종 | 없음 | 검토 필요 |
 | 2 | [UX 정의](mission-02-ux-definition/README.md) | [원문](mission-02-ux-definition/brief-verbatim.md) | 문서 + Figma | Sprint 1.5 현행 플로우·핵심 문제 승인 | 대기 |
 | 3 | [상세 UI](mission-03-ui-design/README.md) | [원문](mission-03-ui-design/brief-verbatim.md) | Figma | 와이어프레임 승인 | 대기 |
@@ -41,6 +39,6 @@
 
 ## 현재 중요한 사실
 
-미션 1은 인터뷰 7건과 리뷰 근거의 통합 분석, 핵심 문제 선정, Notion·FigJam 결과물
-정리까지 완료됐다. 현재는 Sprint 1.5에서 문토의 현행 플로우를 분석하고 있으며, 이
-분석 전에는 미션 2의 핵심 기능을 확정하지 않는다.
+미션 1은 인터뷰 7건과 리뷰 근거의 통합 분석, 핵심 문제 선정, Notion·FigJam 결과물까지
+자료를 확보했으며 제출 전 전체 검토를 진행 중이다. 현재는 Sprint 1.5에서 문토의 현행
+플로우를 분석하고 있으며, 이 분석 전에는 미션 2의 핵심 기능을 확정하지 않는다.

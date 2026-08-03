@@ -6,6 +6,8 @@
 ## 포함하는 것
 
 - `product-brief.md`: 대상, 문제, 가치, 성공지표와 비범위
+- `target-user-selection-matrix.md`: 사용자 후보 비교와 Sprint 2 핵심 타깃 선정 근거
+- `primary-user-scenario.md`: Sprint 2의 단일 Job Statement와 주요 사용자 시나리오
 - `roadmap.md`: 단계별 승인 조건과 작업 순서
 - `requirements/`: 승인된 기능·정책 단위의 요구사항
 - `experiments/`: 아직 제품으로 확정되지 않은 가설과 검증 결과

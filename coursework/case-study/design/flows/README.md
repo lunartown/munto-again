@@ -5,7 +5,10 @@
 
 ## 파일 역할
 
+- `entry-point-inventory.md`: 홈·추천·검색·카테고리·콘텐츠 유형별 진입점
+- `current-state-model-v2.md`: 탐색 표면과 콘텐츠 유형별 상태를 분리한 분석 모델
 - `current-state-munto.md`: 리뉴얼 전 문토의 실제 현재 플로우
+- `current-state-socialing.mmd`, `current-state-club.mmd`, `current-state-challenge.mmd`: 유형별 상태 전이 원본
 - `flow-evidence-matrix.md`: 현재 플로우와 Sprint 1 근거 연결
 - `target-state-participation.md`: Sprint 2 개선 플로우 초안
 

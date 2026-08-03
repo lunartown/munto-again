@@ -1,23 +1,31 @@
 # Research — 문토 모임 생태계
 
-문토를 중심으로 오프라인 모임 플랫폼의 참여 경험, 운영자 노동, 신뢰·안전 구조와 모임의
-지속 가능성을 조사하는 프로젝트다.
+Sprint 1에서 실제로 거친 가설 변경, 조사 선택, 검증·보류 판단과 산출물 연결은
+[`../SPRINT1-MASTER-ARCHIVE.md`](../SPRINT1-MASTER-ARCHIVE.md)에 통합해 기록했다.
+
+프로젝트 전체 폴더 구조와 정본 규칙은 [`../PROJECT-INDEX.md`](../PROJECT-INDEX.md)에 기록했다.
+
+문토를 중심으로 지속형 소모임의 참여 경험, 운영자 노동, 신뢰·안전 구조와 활동의
+지속 가능성을 조사하는 프로젝트다. 현재 설계 대상은 문토의 `클럽`이며, 소셜링 모집글과
+리뷰는 탐색 문제를 이해하기 위한 보조 근거로 사용한다.
 
 초기에는 `소개팅형 모임 증가가 취미 사용자 이탈을 만든다`는 가설에서 출발했지만,
-리뷰와 인터뷰에서 소개팅 자체보다 **참여 전 운영 조건의 예측 가능성, 문제 행동 관리,
-플랫폼의 보호 범위**가 더 중심적인 구조로 나타났다. Sprint 1에서는 `참여 전 운영 약속의
-불투명성 + 문제 발생 후 보호 흐름의 불명확성`을 핵심 문제로 선정했다.
+리뷰와 인터뷰를 다시 대조한 결과, 인터뷰 7명 중 6명의 경험은 반복 참여형 소모임에
+가까웠다. 따라서 현재 핵심 문제는 `클럽을 고를 때 활동 목적·반복 방식·
+구성원 분위기·운영 규칙·최근 활동을 비교하기 어렵다`로 좁혔다. 문제 발생 후 보호 흐름은
+별도 발견으로 보존하지만 이번 설계 범위에는 포함하지 않는다.
 
 ## 지금 먼저 볼 문서
 
 1. [프로젝트 계획](docs/project/research_plan.md)
 2. [타임라인](docs/project/timeline.md)
 3. [Sprint 1.5 Current-State Audit](docs/project/sprint1_5_current_state_audit.md)
-4. [통합 조사 결과](docs/findings/research_findings.md)
-5. [Sprint 1 인사이트 요약](docs/findings/sprint1_insight_summary.md)
-6. [인터뷰 가이드](docs/methods/interview_guide.md)
-7. [인터뷰 인덱스](docs/interviews/README.md)
-8. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
+4. [Sprint 1 의사결정 로그](docs/project/decision-log.md)
+5. [통합 조사 결과](docs/findings/research_findings.md)
+6. [Sprint 1 인사이트 요약](docs/findings/sprint1_insight_summary.md)
+7. [인터뷰 가이드](docs/methods/interview_guide.md)
+8. [인터뷰 인덱스](docs/interviews/README.md)
+9. [인터뷰 어피니티 카드](data/synthesis/interview_affinity_cards.md)
 
 ## 리서치 모듈 구조
 

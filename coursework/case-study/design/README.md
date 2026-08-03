@@ -2,6 +2,10 @@
 
 제품 요구사항을 검증 가능한 사용자 흐름과 구현 가능한 시각 체계로 바꾸는 영역이다.
 
+Sprint 1 전체 과정의 결정·근거·산출물 지도는 [`SPRINT1-MASTER-ARCHIVE.md`](../SPRINT1-MASTER-ARCHIVE.md)를 정본으로 참조한다.
+
+전체 폴더 구조와 저장 규칙은 [`PROJECT-INDEX.md`](../PROJECT-INDEX.md)를 함께 참조한다.
+
 ## 구조
 
 - `flows/`: 사용자 여정, 태스크 플로, 상태와 예외

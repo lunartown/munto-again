@@ -1,0 +1,47 @@
+flowchart LR
+  appStart["앱 진입"] --> home["홈"]
+
+  home -->|"챌린지 섹션·탭"| challengeHome["챌린지 홈"]
+  home -->|"찜"| liked["찜 목록"]
+  liked -->|"저장한 챌린지 선택"| challengeDetail["챌린지 상세"]
+  home -->|"검색"| search["검색 화면"]
+  search -.->|"결과 선택?"| challengeHome
+
+  challengeHome --> challengeDetail
+
+  challengeDetail --> detailInfo["상세 정보 확인"]
+  detailInfo --> choice{"참여할까?"}
+  choice -->|"아니오"| browse["상세에 머묾"]
+  choice -->|"예"| questions["참여 질문"]
+  questions --> feeCheck{"참가비 있음?"}
+  feeCheck -->|"예"| payment["결제·환불 확인"]
+  feeCheck -->|"아니오"| applied
+  payment --> applied["참여 신청"]
+  applied -.-> waiting["참여 대기(가설)\n(챌린지 전용 화면 미확인)"]
+  waiting -.->|"24시간 경과(가설)"| autoCanceled["자동 취소 완료\n(전액환불 정책 미확인)"]
+  waiting -.->|"거절(가설)"| rejected["거절\n(정책 미확인)"]
+  waiting -.->|"상태 확인"| historyHub["마이페이지·모임내역\n참여/대기/진행중\n(진행중은 호스트 개설 목록, 참여자 무관)"]
+  waiting --> waitCancelChoice{"대기 중 취소할까?"}
+  waitCancelChoice -->|"예"| waitCanceled["대기 취소\n(경고 점수 없음·전액환불)"]
+  waitCancelChoice -->|"아니오"| waiting
+  waiting -->|"승인 완료"| confirmed["참여 확정"]
+  confirmed -.->|"상태 확인"| historyHub
+  historyHub -.->|"참여 포기"| withdrawn["참여 포기\n(정책 미확인)"]
+  confirmed --> dailyCert["매일 인증\n(사진 촬영 업로드)"]
+  dailyCert --> teatime["오프라인 티타임\n(챌린지 종료 후 대면 모임)"]
+
+  classDef screen fill:#E0EDFF,stroke:#4D8DD8,color:#1F2937
+  classDef action fill:#E8F7EE,stroke:#4BA86A,color:#1F2937
+  classDef decision fill:#FFE5E5,stroke:#C24A4A,color:#1F2937
+  classDef state fill:#EEE8FF,stroke:#785ABD,color:#1F2937
+  classDef note fill:#FFF3D9,stroke:#BF8B35,color:#1F2937
+  classDef deferred fill:#F1F2F4,stroke:#9CA3AF,color:#4B5563
+  classDef exit fill:#F5F5F5,stroke:#6B7280,color:#374151
+
+  class appStart,home,challengeHome,search,liked,challengeDetail,historyHub screen
+  class questions,payment action
+  class choice,waitCancelChoice,feeCheck decision
+  class applied,confirmed,dailyCert,teatime state
+  class waiting,waitCanceled,autoCanceled,rejected deferred
+  class withdrawn note
+  class browse exit
