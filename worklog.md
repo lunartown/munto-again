@@ -74,17 +74,20 @@
 - Sprint 02의 `SPRINT1.5-MASTER-ARCHIVE`와 `current-state-audit`를 `sprints/sprint-02/sprint-02.md`로 통합
 - Sprint 02 내부의 `Sprint 1.5` 명칭을 `Sprint 02`로 정리
 
+### 2026-08-04 — Sprint 02 재시작
+
+- Sprint 02 기존 산출물을 처음부터 다시 진행하기로 결정
+- `sprints/sprint-02/product/roadmap.md` 삭제
+- `sprints/sprint-02/product/target-user-selection-matrix.md` 삭제
+- `sprints/sprint-02/sprint-02.md` 기존 내용(Current-State Audit 통합본) 비움
+
 ## 현재 상태
 
 - Sprint 01: 작업 완료
-- Sprint 02: 진행 중
-- Sprint 02 산출물: Current User Flow 완료, User Scenario - Storyboard·IA 작업 중
-- Notion Tasks: `노션 문서 정리하기` 진행 중, `IA 작성` 진행 중
+- Sprint 02: 재시작 — 기존 산출물 정리, 신규 작업 시작 전
 - 저장소 구조: 기존 작업 아카이브 이동 완료, 새 작업 영역 생성 완료
 
 ## 다음 작업
 
-1. Notion 문서 정리
-2. IA 작성
-3. User Scenario - Storyboard 작성
-4. Sprint 02의 기능 정의·플로우·와이어프레임 작성
+1. Sprint 02 목표·범위 재정의
+2. Sprint 02 신규 작업 계획 수립
