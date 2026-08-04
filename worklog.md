@@ -71,6 +71,8 @@
 - `AGENTS.md`와 `CLAUDE.md` 생성
 - Sprint 01의 `SPRINT1-MASTER-ARCHIVE`, `decision-log`, `research-plan`을 `sprints/sprint-01/sprint-01.md`로 통합
 - 통합 후 중복된 Sprint 01 문서 삭제
+- Sprint 02의 `SPRINT1.5-MASTER-ARCHIVE`와 `current-state-audit`를 `sprints/sprint-02/sprint-02.md`로 통합
+- Sprint 02 내부의 `Sprint 1.5` 명칭을 `Sprint 02`로 정리
 
 ## 현재 상태
 

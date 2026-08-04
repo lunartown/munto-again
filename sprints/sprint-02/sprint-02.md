@@ -1,10 +1,8 @@
-# Munto Redesign — Sprint 1.5 Master Archive
+# Sprint 02
 
-> 목적: Sprint 1.5에서 문토의 실제 화면·진입점·콘텐츠 유형별 상태를 조사한 계획, 캡처 근거,
-> 확인된 사실, 근거 매핑, 남은 공백을 한 곳에서 추적한다. 5개로 흩어져 있던 문서
-> (`sprint1_5_current_state_audit.md`, `current-state-model-v2.md`,
-> `flow-evidence-matrix.md`, `entry-point-inventory.md`, mermaid 3종)를 하나의 서사로
-> 합친 것이며, 각 원본은 삭제하지 않고 정본으로 유지한다.
+> 목적: Sprint 02에서 문토의 실제 화면·진입점·콘텐츠 유형별 상태를 조사한 계획, 캡처 근거,
+> 확인된 사실, 근거 매핑, 남은 공백을 한 곳에서 추적한다. 기존에 흩어져 있던 현재 상태
+> 분석 내용을 이 문서에 통합한다.
 
 기준일: 2026-08-03
 
@@ -16,7 +14,7 @@
 - `미확인`: 화면 또는 근거를 아직 확보하지 못함
 - 화면 캡처는 CS-01~CS-62 번호를 부여했고, 실제 확보한 파일은 39장이다
   (`../../archive/research/data/current_state/screenshots/`).
-- Sprint 1.5는 새로운 문제를 찾는 리서치가 아니라, Sprint 1에서 정의한 문제를 문토의
+- Sprint 02는 새로운 문제를 찾는 리서치가 아니라, Sprint 1에서 정의한 문제를 문토의
   현재 화면·흐름에 연결하는 현재 상태 분석이다.
 - 이 단계의 결과물은 기능 확정이 아니라 Sprint 2가 다룰 리뉴얼 범위를 좁히기 위한
   근거다.
@@ -28,7 +26,7 @@ Sprint 1에서 다음 문제를 확인했다.
 > 사용자는 클럽에 가입하기 전에 활동 목적·반복 방식·구성원 분위기·운영 규칙·최근 활동
 > 이력을 비교하기 어렵다.
 
-이 문제만으로는 어떤 화면을 어떻게 바꿔야 하는지 결정할 수 없다. Sprint 1.5에서는
+이 문제만으로는 어떤 화면을 어떻게 바꿔야 하는지 결정할 수 없다. Sprint 02에서는
 문토의 현재 플로우에서 사용자가 어떤 정보를 보고, 어떤 행동을 하며, 어느 순간에 판단을
 멈추는지 확인한다.
 
@@ -299,7 +297,7 @@ Sprint 1에서 다음 문제를 확인했다.
 
 ## 12. Sprint 2 진입 조건
 
-Sprint 1.5는 다음 조건을 충족하면 완료한다.
+Sprint 02는 다음 조건을 충족하면 완료한다.
 
 - [x] 실제 문토의 핵심 여정이 클럽 탐색부터 가입·비가입 결정까지 연결되어 있다.
 - [x] 각 단계의 화면과 정보 제공 상태가 캡처 또는 확인 메모로 남아 있다.
@@ -316,13 +314,13 @@ Sprint 1.5는 다음 조건을 충족하면 완료한다.
 
 | 산출물 | 정본 위치 | 상태 |
 |---|---|---|
-| 조사 계획·목표·범위 | `current-state-audit.md` | 이 아카이브에 통합, 원본 유지 |
+| 조사 계획·목표·범위 | `sprint-02.md` | 이 문서에 통합 |
 | 참여 상태 분석 (핵심 발견) | `../../archive/design/flows/current-state-model-v2.md` | 이 아카이브에 통합, 원본 유지 |
 | 클럽 흐름 근거 매핑 | `../../archive/design/flows/flow-evidence-matrix.md` | 이 아카이브에 통합, 원본 유지 |
 | 진입점 인벤토리 | `../../archive/design/flows/entry-point-inventory.md` | 이 아카이브에 통합, 원본 유지 |
 | Current-State 다이어그램 | `../../archive/design/flows/current-state-socialing.mmd`, `current-state-club.mmd`, `current-state-challenge.mmd` | 로컬 Mermaid 정본 |
 | 화면 캡처 CS-01~62 (39장 확보) | `../../archive/research/data/current_state/screenshots/` | 보존 완료 |
-| Figma 정리본 | [Figma Index](../../archive/design/figma-index.md)의 "Sprint 1.5 Master Archive" 행 | 이 문서 기준으로 생성 |
+| Figma 정리본 | [Figma Index](../../archive/design/figma-index.md)의 "Sprint 02 Master Archive" 행 | 이 문서 기준으로 생성 |
 
 동일 내용이 로컬 문서와 Figma에 함께 있을 때는 로컬 문서(위 표)를 정본으로 하고, Figma는
 보존·열람용 사본으로 취급한다. 이 문서를 고치면 Figma도 함께 갱신하고, 반영 여부는
