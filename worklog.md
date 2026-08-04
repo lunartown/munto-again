@@ -69,6 +69,8 @@
 - 날짜별 작업 기록을 루트 `worklog.md`로 이동
 - `PROJECT-INDEX.md`를 새 폴더 구조 기준으로 재작성
 - `AGENTS.md`와 `CLAUDE.md` 생성
+- Sprint 01의 `SPRINT1-MASTER-ARCHIVE`, `decision-log`, `research-plan`을 `sprints/sprint-01/sprint-01.md`로 통합
+- 통합 후 중복된 Sprint 01 문서 삭제
 
 ## 현재 상태
 
