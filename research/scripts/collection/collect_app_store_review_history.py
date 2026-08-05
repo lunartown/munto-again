@@ -33,6 +33,10 @@ RAW_FIELDS = [
 ]
 
 
+def normalize_to_utc(date_text):
+    return datetime.fromisoformat(date_text).astimezone(timezone.utc).isoformat()
+
+
 def fetch_page(page, app_id, timeout):
     url = FEED_TEMPLATE.format(page=page, app_id=app_id)
     request = Request(
@@ -72,7 +76,7 @@ def collect(app_id, max_pages, delay, timeout):
                 {
                     "review_id": review_id,
                     "rating": int(entry["im:rating"]["label"]),
-                    "review_date_utc": entry["updated"]["label"],
+                    "review_date_utc": normalize_to_utc(entry["updated"]["label"]),
                     "review_text": entry["content"]["label"].strip(),
                     "review_title": entry["title"]["label"].strip(),
                     "app_version": entry.get("im:version", {}).get("label", ""),
