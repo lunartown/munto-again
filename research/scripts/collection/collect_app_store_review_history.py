@@ -14,8 +14,9 @@ APP_ID = "1535886772"
 STORE_URL = f"https://apps.apple.com/kr/app/id{APP_ID}"
 FEED_TEMPLATE = (
     "https://itunes.apple.com/kr/rss/customerreviews/"
-    "page={page}/id={app_id}/sortby=mostrecent/json"
+    "page={page}/id={app_id}/sortby={sort_key}/json"
 )
+SORT_KEYS = ("mostrecent", "mosthelpful")
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_OUTPUT = (
     PROJECT_ROOT / "research/data/reviews/app_store/raw/reviews_history.csv"
@@ -28,6 +29,7 @@ RAW_FIELDS = [
     "review_title",
     "app_version",
     "collected_date",
+    "source_sort",
     "source_page",
     "source_url",
 ]
@@ -37,8 +39,8 @@ def normalize_to_utc(date_text):
     return datetime.fromisoformat(date_text).astimezone(timezone.utc).isoformat()
 
 
-def fetch_page(page, app_id, timeout):
-    url = FEED_TEMPLATE.format(page=page, app_id=app_id)
+def fetch_page(page, app_id, sort_key, timeout):
+    url = FEED_TEMPLATE.format(page=page, app_id=app_id, sort_key=sort_key)
     request = Request(
         url,
         headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"},
@@ -52,46 +54,51 @@ def collect(app_id, max_pages, delay, timeout):
     rows = []
     seen = set()
 
-    for page in range(1, max_pages + 1):
-        last_error = None
-        for attempt in range(3):
-            try:
-                entries = fetch_page(page, app_id, timeout)
-                break
-            except Exception as error:
-                last_error = error
-                time.sleep(1 + attempt * 2)
-        else:
-            raise last_error
+    for sort_key in SORT_KEYS:
+        for page in range(1, max_pages + 1):
+            last_error = None
+            for attempt in range(3):
+                try:
+                    entries = fetch_page(page, app_id, sort_key, timeout)
+                    break
+                except Exception as error:
+                    last_error = error
+                    time.sleep(1 + attempt * 2)
+            else:
+                raise last_error
 
-        page_count = 0
-        for entry in entries:
-            if "im:rating" not in entry:
-                continue
-            review_id = entry["id"]["label"]
-            if review_id in seen:
-                continue
-            seen.add(review_id)
-            rows.append(
-                {
-                    "review_id": review_id,
-                    "rating": int(entry["im:rating"]["label"]),
-                    "review_date_utc": normalize_to_utc(entry["updated"]["label"]),
-                    "review_text": entry["content"]["label"].strip(),
-                    "review_title": entry["title"]["label"].strip(),
-                    "app_version": entry.get("im:version", {}).get("label", ""),
-                    "collected_date": collected_date,
-                    "source_page": page,
-                    "source_url": STORE_URL,
-                }
+            page_count = 0
+            for entry in entries:
+                if "im:rating" not in entry:
+                    continue
+                review_id = entry["id"]["label"]
+                if review_id in seen:
+                    continue
+                seen.add(review_id)
+                rows.append(
+                    {
+                        "review_id": review_id,
+                        "rating": int(entry["im:rating"]["label"]),
+                        "review_date_utc": normalize_to_utc(entry["updated"]["label"]),
+                        "review_text": entry["content"]["label"].strip(),
+                        "review_title": entry["title"]["label"].strip(),
+                        "app_version": entry.get("im:version", {}).get("label", ""),
+                        "collected_date": collected_date,
+                        "source_sort": sort_key,
+                        "source_page": page,
+                        "source_url": STORE_URL,
+                    }
+                )
+                page_count += 1
+
+            print(
+                f"sort={sort_key} page={page} new_reviews={page_count} total={len(rows)}",
+                flush=True,
             )
-            page_count += 1
-
-        print(f"page={page} new_reviews={page_count} total={len(rows)}", flush=True)
-        if page_count == 0:
-            break
-        if page < max_pages:
-            time.sleep(delay)
+            if page_count == 0:
+                break
+            if page < max_pages:
+                time.sleep(delay)
 
     rows.sort(key=lambda row: row["review_date_utc"], reverse=True)
     return rows
