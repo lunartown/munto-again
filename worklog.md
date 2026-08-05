@@ -243,3 +243,10 @@
 - 네 원본 모두 리뷰 ID 중복 0건, 필수 필드 누락 0건, 별점 1~5 범위를 확인함
 - 프립 App Store 도움순은 첫 페이지부터 최신순과 겹쳐 추가 리뷰가 없었음
 - 원본은 [`research/data/reviews/somoim/`](research/data/reviews/somoim/) 및 [`research/data/reviews/frip/`](research/data/reviews/frip/)에 저장하고, 재수집 스크립트는 [`research/scripts/collection/collect_competitor_reviews.py`](research/scripts/collection/collect_competitor_reviews.py)에 저장함
+
+### 2026-08-05 — 소셜링 목록 스냅샷 수집기 추가
+
+- 공개 소셜링 목록을 페이지 단위로 수집하는 [`collect_socialing_snapshots.py`](research/scripts/collection/collect_socialing_snapshots.py)를 추가함
+- 원본 응답은 실행 시각별 gzip JSON으로 보존하고, 주요 필드·원본 JSON·콘텐츠 해시·실행 메타데이터는 `research/data/socialing/socialing.sqlite`에 저장함
+- 기본 실행은 1페이지로 제한하고 `--max-pages 0`일 때만 `hasMore`를 따라 전체 목록을 수집하도록 설정함
+- 2026-08-05 첫 페이지 20건 수집과 SQLite 적재를 검증함
