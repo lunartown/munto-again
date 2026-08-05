@@ -250,3 +250,4 @@
 - 원본 응답은 실행 시각별 gzip JSON으로 보존하고, 주요 필드·원본 JSON·콘텐츠 해시·실행 메타데이터는 `research/data/socialing/socialing.sqlite`에 저장함
 - 기본 실행은 1페이지로 제한하고 `--max-pages 0`일 때만 `hasMore`를 따라 전체 목록을 수집하도록 설정함
 - 2026-08-05 첫 페이지 20건 수집과 SQLite 적재를 검증함
+- 이후 `--max-pages 0`으로 전체 페이지를 수집해 103페이지·2,022건을 적재함
