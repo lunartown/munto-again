@@ -29,3 +29,5 @@ __pycache__/
 tmp/
 .cache/
 
+
+research/data/socialing/*.sqlite-*
