@@ -1,0 +1,25 @@
+﻿platform,year,period_type,review_count,average_rating,low_rating_share
+Google Play,2021,평시,199,3.88,0.2814
+Google Play,2021,이벤트,0,,
+Google Play,2022,평시,420,4.14,0.2286
+Google Play,2022,이벤트,105,4.45,0.1238
+Google Play,2023,평시,215,3.85,0.3256
+Google Play,2023,이벤트,46,4.63,0.0652
+Google Play,2024,평시,66,3.39,0.4091
+Google Play,2024,이벤트,0,,
+Google Play,2025,평시,53,2.32,0.7547
+Google Play,2025,이벤트,24,4.58,0.0833
+Google Play,2026,평시,36,2.06,0.8333
+Google Play,2026,이벤트,36,4.61,0.1111
+App Store,2021,평시,86,4.67,0.0698
+App Store,2021,이벤트,0,,
+App Store,2022,평시,191,4.59,0.0942
+App Store,2022,이벤트,57,4.74,0.0526
+App Store,2023,평시,180,4.0,0.2667
+App Store,2023,이벤트,60,4.7,0.0833
+App Store,2024,평시,33,3.0,0.5152
+App Store,2024,이벤트,0,,
+App Store,2025,평시,39,2.54,0.6923
+App Store,2025,이벤트,39,4.92,0.0256
+App Store,2026,평시,27,1.81,0.8519
+App Store,2026,이벤트,21,4.62,0.0476
