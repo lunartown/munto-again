@@ -575,3 +575,10 @@
 - 저장소 루트에 있던 소모임 현재 화면 스크린샷 16장을 `research/data/current_state/screenshots/somoim/`으로 이동함
 - IA의 SM-01~SM-16 번호와 화면 내용을 기준으로 파일명을 통일하고, 중복 파일이 없음을 해시로 확인함
 - `ia-somoim-current-state-draft.md`, `decision-flow-somoim-boram-draft.md`, 작업 기록의 기존 파일명 참조를 새 경로와 이름으로 갱신함
+
+### 2026-08-19 — 삭제됐던 미션 1~10 원문 복원
+
+- 미션 원문이 저장소에 없다고 판단했으나, 2026-08-04 커밋 `545c59f`에서 `coursework/missions/` 전체가 삭제된 것을 git 히스토리에서 확인함
+- `545c59f^` 트리의 `coursework/missions/`를 `sprints/missions/`로 내용 변경 없이 복원함(미션 1~10 폴더 22개 파일 + 인덱스·제출 레지스트리)
+- `sprints/missions/README.md` 상단에 복원 기록을 추가함. `brief-verbatim.md`(미션 원문)만 현재 유효하고, 각 `README.md`·`submission-outline.md`·`submission-registry.md`의 상태·완료 판단과 `coursework/case-study/...` 경로는 2026-08-04 시점 기록이라 Sprint 01 부분 폐기·Sprint 02 전면 폐기·리뉴얼 대상 변경(문토 → 소모임)이 반영돼 있지 않음을 명시함
+- `PROJECT-INDEX.md`의 구조도와 링크에 `sprints/missions/`를 추가함
