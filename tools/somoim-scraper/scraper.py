@@ -129,40 +129,51 @@ def nate_post(s, url):
     return dict(title=title, body=body, comments=[], date="")
 
 
-def canonical_numeric_url(url, host):
-    m = re.search(r"/(\d{6,})(?:[/?#]|$)", url)
-    return f"https://{host}/{m.group(1)}" if m else ""
-
-
 def fmkorea_search(s, page, query):
-    url = ("https://www.fmkorea.com/index.php?act=IS&mid=home&where=document"
-           f"&is_keyword={up.quote(query)}&page={page}")
+    # 펨코 통합검색은 연속 페이지 요청에 430 제한을 걸어 검색엔진 색인으로 URL만 발견한다.
+    if page != 1:
+        return []
+    discovery_query = f'site:fmkorea.com "{query}"'
+    url = ("https://search.naver.com/search.naver?where=view&query=" +
+           up.quote(discovery_query))
     r = s.get(url, timeout=TIMEOUT); r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     urls = []
-    for a in soup.select("ul.searchResult a[href]"):
-        u = canonical_numeric_url(a.get("href", ""), "www.fmkorea.com")
-        if u:
-            urls.append(u)
+    for a in soup.select("a[href]"):
+        m = re.match(r"https?://(?:www\.)?fmkorea\.com/(\d{6,})(?:[/?#]|$)",
+                     a.get("href", ""))
+        if not m:
+            continue
+        post_url = f"https://www.fmkorea.com/{m.group(1)}"
+        root = a.find_parent(class_="fds-web-doc-root")
+        if not root:
+            continue
+        texts = []
+        for link in root.select(f'a[href*="fmkorea.com/{m.group(1)}"]'):
+            txt = link.get_text(" ", strip=True).replace(" 새 창 열림", "").strip()
+            if txt and txt not in texts:
+                texts.append(txt)
+        if len(texts) < 3:
+            continue
+        title, preview = texts[-2], texts[-1]
+        date_match = re.match(r"(\d{4}\.\d{2}\.\d{2}\.)\s*", preview)
+        date = date_match.group(1) if date_match else ""
+        if date_match:
+            preview = preview[date_match.end():]
+        preview = preview.removesuffix("...").strip()
+        SEARCH_META[post_url] = dict(
+            title=title, body=preview, comments=[], date=date,
+            source_kind="search_preview", access="rate_limited",
+        )
+        urls.append(post_url)
     return list(dict.fromkeys(urls))
 
 
 def fmkorea_post(s, url):
-    r = s.get(url, timeout=TIMEOUT); r.raise_for_status()
-    soup = BeautifulSoup(r.text, "lxml")
-    title = og(soup, "title").split(" - ")[0].strip()
-    if not title and soup.title:
-        title = soup.title.get_text(strip=True).split(" - ")[0]
-    body_el = (soup.select_one(".rd_body .xe_content") or
-               soup.select_one("article .xe_content") or
-               soup.select_one(".rd_body"))
-    body = clean(body_el)
-    comments = [clean(x) for x in soup.select(".fdb_lst .xe_content")]
-    d = soup.select_one(".date, .regdate, time")
-    return dict(title=title, body=body,
-                comments=[x for x in comments if x],
-                date=d.get_text(strip=True) if d else "",
-                source_kind="full_post")
+    # 연속 원문 요청이 430으로 제한되어 검색 미리보기만 저장한다.
+    return SEARCH_META.get(url, dict(title="", body="", comments=[], date="",
+                                     source_kind="search_preview",
+                                     access="rate_limited"))
 
 
 def theqoo_search(s, page, query):
@@ -277,7 +288,7 @@ def run(sites, pages, queries):
                     rec = post(s, u)
                 except Exception as e:
                     print(f"[{site}] post ERR {u[:50]} {e}", file=sys.stderr); continue
-                if site != "daum":
+                if rec.get("source_kind") != "search_preview":
                     time.sleep(DELAY)
                 ok, score = is_relevant(rec.get("title",""), rec.get("body",""))
                 if not ok or len(rec.get("body","")) < 20:
