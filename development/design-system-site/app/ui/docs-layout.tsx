@@ -4,7 +4,7 @@ import { SiteShell } from "./site-shell";
 const sections = [
   { href: "/foundations", label: "Foundations", children: ["Color", "Typography", "Spacing & radius", "Icons"] },
   { href: "/components", label: "Components", children: ["Core", "Supporting", "Usage map"] },
-  { href: "/roadmap", label: "Roadmap", children: ["Current gaps", "Next steps"] },
+  { href: "/roadmap", label: "Roadmap", children: ["Principles", "Phases", "Triggers"] },
 ];
 
 export function DocsLayout({ children, toc }: { children: React.ReactNode; toc?: { href: string; label: string }[] }) {
@@ -16,7 +16,7 @@ export function DocsLayout({ children, toc }: { children: React.ReactNode; toc?:
           {sections.map((section) => <div className="sidebar-group" key={section.label}><Link href={section.href}>{section.label}</Link>{section.children.map((item) => <span key={item}>{item}</span>)}</div>)}
         </aside>
         <main className="docs-main">{children}</main>
-        {toc && <aside className="docs-toc" aria-label="현재 페이지 목차"><strong>On this page</strong>{toc.map((item) => <a href={item.href} key={item.href}>{item.label}</a>)}</aside>}
+        {toc && <aside className="docs-toc" aria-label="페이지 목차"><strong>On this page</strong>{toc.map((item) => <a href={item.href} key={item.href}>{item.label}</a>)}</aside>}
       </div>
     </SiteShell>
   );

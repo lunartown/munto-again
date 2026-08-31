@@ -29,10 +29,12 @@ test("server-renders the core documentation routes", async () => {
     ["/foundations", "Typography"],
     ["/components", "Participated Gathering Card"],
     ["/components/textbox", "Variants &amp; states"],
-    ["/roadmap", "보강 원칙"],
+    ["/roadmap", "확장 원칙"],
   ]) {
     const response = await render(path);
     assert.equal(response.status, 200, path);
-    assert.match(await response.text(), new RegExp(expected));
+    const html = await response.text();
+    assert.match(html, new RegExp(expected));
+    assert.doesNotMatch(html, /현재 화면에서 확인된|1차 문서 범위|Figma에서 확인됨|작업형 문서/);
   }
 });

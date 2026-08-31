@@ -17,7 +17,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         <ThemeToggle />
       </header>
       {children}
-      <footer className="site-footer"><span>Somoim Design System · Draft 01</span><span>Figma source based · 2026</span></footer>
+      <footer className="site-footer"><span>Somoim Design System</span><span>Mobile community patterns · 2026</span></footer>
     </div>
   );
 }
