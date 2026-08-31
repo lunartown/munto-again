@@ -1,0 +1,125 @@
+﻿row,verdict,reason,date,title,url
+1,exclude,동일 본문 재게시물; 가장 이른 공개 원문 1건만 유지,2022-05-19,친구 사귀는데 소모임 어플 좋다해서 가입했다가 대략 15번 정도 당황한 썰,https://cafe.daum.net/subdued20club/ReHf/3863554
+2,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2024-01-22,소모임 어플의 특징,https://cafe.daum.net/rocksoccer/ADs1/1192208
+3,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2018-10-21,소모임 어플 정모 후기,https://cafe.daum.net/ssaumjil/EpQf/11641
+4,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2020-02-27,성남 따뜻한세상만들기,https://cafe.daum.net/snddase/NSMH/21
+5,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2026-02-20,● '초심으로 돌아가다',https://cafe.daum.net/ilovesanorg/qXLc/25
+6,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2017-05-11,소모임에서 레슨선생님 구합니다.,https://cafe.daum.net/pianolf/J0Kd/107671
+7,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2016-04-07,수원 소모임 어떻게 들어갈 수 있을까요?,https://cafe.daum.net/WorldcupLove/R6/1271427
+8,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2018-03-29,Show of the music 소모임 초대합니다ㅎ,https://cafe.daum.net/pianolf/J0Kd/117395
+9,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-02-26,아댄스 소모임을 아시나요?,https://cafe.daum.net/ilovedancesports/5jX/92677
+10,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2018-03-30,Show of the music 소모임 레슨생 모집합니다ㅎ,https://cafe.daum.net/pianolf/J0Kd/117436
+11,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2013-09-10,추천 어플입니다,https://cafe.daum.net/sbb88/EwCk/6906
+12,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-04-30,소모임 같이 갑시다,https://cafe.daum.net/tjmatzip/W1Y/1060
+13,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2020-12-05,오프라인에서 주식어플보는법 주식사는법 파는법 이런거 일대일로 배우고싶은데,https://cafe.daum.net/subdued20club/W1Lc/243892
+14,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2019-04-07,사당 플라워 레슨 후기,https://cafe.daum.net/subdued20club/LxCT/255512
+15,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2024-04-18,에버라틴댄스클럽,https://cafe.daum.net/kwbsht/K7X3/3074
+16,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2016-01-22,사진동호회 운영진하면서 울며 겨자먹기로 사진배우며 찍은 사진들 (유럽여행주의),https://cafe.daum.net/subdued20club/Scxl/52440
+17,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2023-05-10,에버라틴댄스클럽,https://cafe.daum.net/kwbsht/K7X3/2920
+18,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-08-04,어느 의상디자이너 이야기 4,https://cafe.daum.net/ok1221/9Zdf/1279317
+19,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-05-13,어느 의상디자이너 이야기 4,https://cafe.daum.net/ok1221/9Zdf/1179977
+20,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2020-07-11,비혼을 생각하고 있는 밀토 회원이라면 참고해볼 기사,https://cafe.daum.net/baemilytory/91cd/139881
+21,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2018-10-31,2018년 10월 누리사랑나눔 사진~~,https://cafe.daum.net/nurisarangcafe/IzQp/887
+22,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2017-03-20,상계동 피아노&악기&연습실대여로 유명한 교습소 팝니다 600/60/1500,https://cafe.daum.net/pianolf/1do/17847
+23,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2020-11-12,제1회 우리들이 만드는 캘리그라피 회원전 '안녕전',https://cafe.daum.net/gongjeon21c/XPfO/949
+24,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2019-01-06,[중국어회화][종로/회기]中韩语言交流会！중국인과 함께 하는 중국어 회화!!|◐,https://cafe.daum.net/zhaolaoshi/8lI4/1849
+25,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2023-06-21,대한민국 테니스계의 앞날은...(2편),https://cafe.daum.net/dhtennis7330/dgmb/77
+26,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2021-06-01,[모집중] 돈 버는 독서모임 함께 하실래요?,https://cafe.daum.net/wfwijs/AVeS/1300
+27,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2019-09-16,진실탁과 나그네탁의 2차 교류전 이야기,https://cafe.daum.net/bbabbabbatakgu/puPs/3
+28,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2021-01-07,2021년 1월~3월 SDA 운영방침 안내드립니다,https://cafe.daum.net/sdamu/1nCx/816
+29,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-10-12,2016. 10. 09 나라사랑 월례회,https://cafe.daum.net/inyec/kGsQ/92
+30,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2019-07-23,7월 20일 시간낭비+ 개인봉사자,https://cafe.daum.net/nurisarangcafe/2vwz/359
+31,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-03-12,3/11 정모후기,https://cafe.daum.net/ilketennis/1n0z/12518
+32,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2020-01-15,55기 청춘기타 강습반 모집합니다. 2020.01.17(1-11일 1차 수정),https://cafe.daum.net/busantongli/OoRF/37
+33,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2018-10-31,나눔을 전하는 사람들(봉사활동.자원봉사),https://cafe.daum.net/nanum36.5/M0Sp/436
+34,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2023-01-15,🧑🏻‍🎨대전 그림 모임 [차차 드로우] 모집해요! 초보자도 할 수 있다!,https://cafe.daum.net/gunsystem/3Vy/41431
+35,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-08-30,준회원 등급업 부탁드려여 ^^,https://cafe.daum.net/gloriousdays/ae5f/1486
+36,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2019-01-15,[중국어회화][종로/회기]中韩语言交流会！중국인과 함께 하는 중국어 회화!!,https://cafe.daum.net/zhaolaoshi/8lI4/1851
+37,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-05-13,준회원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/984
+38,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-03-14,3월11일 정모후기 늦었어요!ㅠㅠ,https://cafe.daum.net/ilketennis/1n0z/12525
+39,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-04-10,신청합니다,https://cafe.daum.net/gloriousdays/ae5f/953
+40,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2023-01-08,🧑🏻‍🎨대전 그림 모임 [차차 드로우] 모집해요! 생초보자 환영합니다~,https://cafe.daum.net/gunsystem/3Vy/41428
+41,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-11-16,준회원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1183
+42,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-12,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1018
+43,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-08-17,＜라틴로드＞ 9월 살사댄스 준중급 2 - 홍대 금요반 개강합니다,https://cafe.daum.net/salsai/VjuM/37
+44,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-08-17,＜라틴로드＞ 9월 라틴로드 2기 모집 살사댄스 초중급 개강 - 토요반,https://cafe.daum.net/salsai/VjuM/36
+45,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-14,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1020
+46,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-29,준회원 신청 합니다~,https://cafe.daum.net/gloriousdays/ae5f/1035
+47,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-03-27,준회원 신청,https://cafe.daum.net/gloriousdays/ae5f/416
+48,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-03-27,준회원신청합니당~~,https://cafe.daum.net/gloriousdays/ae5f/415
+49,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2019-03-17,3/11 감사일기,https://cafe.daum.net/counseling0511/IJfp/4880
+50,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-06-20,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1391
+51,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-18,준회원 신청합니다.^^,https://cafe.daum.net/gloriousdays/ae5f/1023
+52,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-04,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1008
+53,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-07-05,다시 작성해요~,https://cafe.daum.net/gloriousdays/ae5f/1402
+54,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-08-20,이태훈 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1077
+55,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-01-28,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1273
+56,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-02-19,준회원 신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/1292
+57,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-07-13,준회원 신청합니다..^^,https://cafe.daum.net/gloriousdays/ae5f/1050
+58,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-07-04,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1042
+59,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-11-06,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1171
+60,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-07-02,준회원 신청해용^^,https://cafe.daum.net/gloriousdays/ae5f/1038
+61,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2021-08-21,＞＞강서구 밤꽃클럽 회원모집＜＜,https://cafe.daum.net/hhjg/BF1b/2308
+62,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-11,준회원신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/1013
+63,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-04,준회원 신청합니다^^,https://cafe.daum.net/gloriousdays/ae5f/1006
+64,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-02-22,준회원 신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/304
+65,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-03-12,준회원 신청이요,https://cafe.daum.net/gloriousdays/ae5f/919
+66,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-07-05,준회원신청요,https://cafe.daum.net/gloriousdays/ae5f/1043
+67,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-05-21,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/2202
+68,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-05-22,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/2203
+69,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-05-28,준회원 신청요청 드립니다,https://cafe.daum.net/gloriousdays/ae5f/1375
+70,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-08-20,준회원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1479
+71,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-02-02,준회원 신청 합니다,https://cafe.daum.net/gloriousdays/ae5f/1283
+72,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-11-20,준회원 신청드립니다,https://cafe.daum.net/gloriousdays/ae5f/1188
+73,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-03-09,준회원 신청합니다~!^^,https://cafe.daum.net/gloriousdays/ae5f/2007
+74,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-06-17,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1388
+75,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-07-17,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1407
+76,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-01-14,준회원 신청합니다!!,https://cafe.daum.net/gloriousdays/ae5f/1907
+77,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-09-07,준회원 신청합니다. ^^,https://cafe.daum.net/gloriousdays/ae5f/1095
+78,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-04-13,신청합니다^^,https://cafe.daum.net/gloriousdays/ae5f/957
+79,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-09-26,준회원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1123
+80,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-06-04,준회원 신청합니다!!!,https://cafe.daum.net/gloriousdays/ae5f/2225
+81,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-03-11,준회원 신청함다^^,https://cafe.daum.net/gloriousdays/ae5f/1312
+82,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-10-01,준회원 신청해요.,https://cafe.daum.net/gloriousdays/ae5f/1559
+83,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-26,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1030
+84,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-06-08,준회원 신청해요,https://cafe.daum.net/gloriousdays/ae5f/1010
+85,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-10-05,준회원 신청입니다!,https://cafe.daum.net/gloriousdays/ae5f/1131
+86,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-02-18,준화원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1290
+87,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-07-08,신청,https://cafe.daum.net/gloriousdays/ae5f/1047
+88,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-02-26,안녕하세요,https://cafe.daum.net/gloriousdays/ae5f/1975
+89,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-09-15,안녕하세요,https://cafe.daum.net/gloriousdays/ae5f/1103
+90,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-02-19,준회원 신청합니다^^,https://cafe.daum.net/gloriousdays/ae5f/1293
+91,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-05-13,준회원 신청 합니다.,https://cafe.daum.net/gloriousdays/ae5f/983
+92,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-05-13,준회원 신청 드립니다,https://cafe.daum.net/gloriousdays/ae5f/2179
+93,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-03-12,준회원 신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1313
+94,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2018-06-23,신청합니다.,https://cafe.daum.net/gloriousdays/ae5f/1393
+95,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-05-16,신청이요,https://cafe.daum.net/gloriousdays/ae5f/988
+96,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-10-15,안녕하세요 준회원 신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/1146
+97,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2017-08-29,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/1084
+98,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2019-06-05,준회원신청합니다,https://cafe.daum.net/gloriousdays/ae5f/2228
+99,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2016-05-02,"취업뽀개기-NCS,공기업,인턴,취업,공모전,대학생,토익,이력서",https://cafe.daum.net/breakjob/8SIW/263538
+100,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-04-12,준회원 신청합니다!,https://cafe.daum.net/gloriousdays/ae5f/452
+101,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2020-08-03,[2020 지카] 소모임 앱 가입 이벤트!,https://cafe.daum.net/acaworcle/4SRW/431
+102,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2015-02-26,안녕하십니까~^^ 재능나눔 소모임 행사 홍보 합니다^^,https://cafe.daum.net/LawFamily/8Oex/778
+103,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2014-05-17,소모임,https://cafe.daum.net/stalking21/3wxi/11209
+104,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2025-05-08,[필독] 요즘 사람들은 다 한다는 SNS★ 오렌지도 한다!!,https://cafe.daum.net/orangeswing/B34t/1618
+105,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2018-05-03,[필독] 요즘 사람들은 다 한다는 SNS★ 오렌지도 한다!!,https://cafe.daum.net/orangeswing/B34t/1430
+106,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-09-03,THIS IS TOTAL WAR,https://cafe.daum.net/shogun/8jpK/106331
+107,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2023-06-15,[2023' 프로젝트 공연] 공연 공지 및 안내 (수정 - 뒷풀이장소 추가),https://cafe.daum.net/acaworcle/4SRW/460
+108,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2023-05-22,내가 겪어본 사이비 ssul.blind,https://cafe.daum.net/subdued20club/ReHf/4408851
+109,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2022-10-05,[2022 지카] 지카 온라인 플랫폼 다원화 관련 공지,https://cafe.daum.net/acaworcle/4SRW/445
+110,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2023-11-28,23' 지카파티,https://cafe.daum.net/acaworcle/4SRW/473
+111,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2019-03-10,◆ 2019년 3월 운영진회의 결과보고 ◆,https://cafe.daum.net/gloriousdays/ae6q/109
+112,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2017-07-07,■ 다음카페 마음을 나누는 이야기 운영회칙 ■ (2017.07),https://cafe.daum.net/gloriousdays/ae5E/45
+113,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-07-11,준회원 재신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/592
+114,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-08-09,준회원 신청입니다.,https://cafe.daum.net/gloriousdays/ae5f/627
+115,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-08-11,준회원 신청합니다,https://cafe.daum.net/gloriousdays/ae5f/630
+116,exclude,카페 준회원 가입 신청 양식; 앱은 가입 경로 선택지로만 등장,2016-06-05,준회원 신청합니다~,https://cafe.daum.net/gloriousdays/ae5f/547
+117,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2024-07-25,한국9인제배구연맹,https://cafe.daum.net/knvf/OsN4/434
+118,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-03-29,3월 11일 정모후기,https://cafe.daum.net/ilketennis/1n0z/12543
+119,exclude,회원 모집·홍보·운영 공지 또는 활동 보고,2022-10-10,[2022 지카] 2023 지카의 미래는 당신의 선택에!,https://cafe.daum.net/acaworcle/4SRW/447
+120,exclude,앱이 주변적으로만 언급되거나 일반 동호회·다른 주제가 본문 중심,2018-03-31,3월 18일 정모 후기,https://cafe.daum.net/ilketennis/1n0z/12546
+121,exclude,동일 본문 재게시물; 가장 이른 공개 원문 1건만 유지,2022-09-06,친구 사귀는데 소모임 어플 좋다해서 가입했다가 대략 15번 정도 당황한 썰,https://cafe.daum.net/subdued20club/ReHf/4029883
+122,exclude,동일 본문 재게시물; 가장 이른 공개 원문 1건만 유지,2022-06-20,친구 사귀는데 소모임 어플 좋다해서 가입했다가 대략 15번 정도 당황한 썰,https://cafe.daum.net/subdued20club/ReHf/3914729
+123,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2022-02-21,친구 사귀는데 소모임 어플 좋다해서 가입했다가 대략 15번 정도 당황한 썰,https://cafe.daum.net/subdued20club/ReHf/3702276
+124,include,소모임 앱 탐색·가입·참석·평가 경험이 원문의 실질적 맥락,2022-09-10,소모임어플 빌런이 꼭 한두명씩 있네요ㅋㅋ,https://cafe.daum.net/zoomin62/GN37/3055713
