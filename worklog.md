@@ -20,6 +20,17 @@
 
 ## 작업 기록
 
+### 2026-08-31 — 소모임 디자인 시스템 React 문서 사이트 초안 구현
+
+- Figma 컴포넌트·변수 페이지(node `617:578`)와 후기 프로토타입(node `551:6737`)을 기준으로 실제 자산과 사용 화면을 대조함
+- Figma에서 확인된 semantic color, typography, spacing, radius, shadow와 아이콘 일부를 `Foundations` 문서로 구성함
+- 후기 흐름에서 반복 사용되고 상태 정의가 분명한 `Participated Gathering Card`, `Textbox`, `Review Item`을 1차 상세 문서 대상으로 선정함
+- React 기반 문서 사이트를 `development/design-system-site/`에 구현함. 구조는 `Overview → Foundations → Components → Component detail → Roadmap`이며, 원티드 Montage의 상단 내비게이션·좌측 문서 메뉴·우측 페이지 목차 구조를 참고함
+- Figma에서 직접 확인한 값은 `확인됨`, 현재 문서 범위를 위한 우선순위는 `문서화 선택`, 정책·상태가 부족한 항목은 `보강 필요`로 구분함
+- 지원 컴포넌트는 개수를 채우기 위해 상세 문서로 확장하지 않고 인벤토리와 실제 사용 맵만 기록함
+- Apple SD Gothic Neo와 일부 Pretendard 직접 지정의 혼재, 다크 모드 semantic mapping, 웹 hover·focus, 접근성 기준을 다음 확인 대상으로 남김
+- 프로덕션 빌드가 성공하는 것을 확인함
+
 ### 2026-08-25 — 후기 작성자 익명 표시 검토와 닉네임 지속성 결정
 
 - 와이어프레임 섹션(`566:8449`) 전체 텍스트에 `익명`이 한 번도 등장하지 않음을 확인함. 작성 화면·목록·알림 어디에도 익명 게시라는 표시가 없고, 같은 상세 페이지의 모임 멤버 구간은 사람 이름으로 표시돼 후기의 동물 닉네임이 익명 처리가 아니라 개인 닉네임으로 읽힐 수 있음
