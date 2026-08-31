@@ -28,6 +28,8 @@ pip install requests beautifulsoup4 lxml
 python scraper.py --sites dogdrip,nate,dcinside --pages 8   # 수집(이어붙임)
 python scraper.py --sites theqoo --pages 3 \
   --queries "소모임 어플,소모임 앱,소모임 후기"
+python scraper.py --refresh-dates                           # 빈 날짜를 원문에서 다시 수집
+python scraper.py --export-csv                             # Excel 호환 CSV 생성
 python scraper.py --stats                                   # 누적 현황
 ```
 
@@ -37,13 +39,18 @@ python scraper.py --stats                                   # 누적 현황
 - `score`: 관련성 신호어 매칭 수(높을수록 모임 후기일 확률↑). 후처리 필터에 활용.
 - 본 데이터에는 검색 미리보기를 넣지 않는다.
 
+`data/records.csv` — JSONL 정본을 스프레드시트에서 읽기 쉽게 변환한 UTF-8 BOM CSV.
+- 열: `site, date, title, body, comments, comment_count, url, score, query, source_kind, access, retrieved_at`
+- 여러 댓글은 `---` 구분선으로 합치고, 본문과 댓글의 줄바꿈은 CSV 인용 필드 안에 보존한다.
+- `date`는 `YYYY-MM-DD HH:MM`을 기본으로 하며 원문이 날짜만 제공하거나 초까지 제공하면 해당 정밀도를 보존한다.
+
 ## 2026-08-31 전수 판정 결과
 
 - 원문 후보 439건을 개별 판정하고, 소모임 앱·플랫폼 사용 경험이 원문에서 확인되는 87건만 `data/records.jsonl`에 남김
 - 사이트별: 펨코 35 / 네이트판 26 / 더쿠 24 / 개드립 1 / 디시인사이드 1
 - 포함: 앱에서 모임을 탐색·가입·참여·탈퇴·운영한 경험, 앱을 실제 선택하거나 포기한 판단
 - 제외: 일반 동호회·학교·교회 소모임, 모집·공지·홍보, 다른 서비스 경험, 소모임 앱이 주변적으로만 언급된 글, 앱인지 확인할 수 없는 글
-- 검증: JSON 파싱 오류 0건, URL 중복 0건, 빈 본문 0건
+- 검증: JSON 파싱 오류 0건, URL 중복 0건, 빈 본문 0건, 빈 날짜 0건
 - 사용한 검색어: 소모임 어플·앱·후기·정모·가입·탈퇴·모임장·동호회·활동·운영·추천·다녀온
 
 사이트별 검색 방식이 다르고 확률 표본이 아니므로, 87건을 합쳐 사용자 전체의 불만 비율이나 사용자 비율을 계산하지 않는다. 감정·경험의 유형을 살피는 정성 코퍼스로 사용한다.

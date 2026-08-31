@@ -9,13 +9,14 @@
     python scraper.py --sites dogdrip,nate,dcinside --pages 3
     python scraper.py --stats
 """
-import argparse, json, os, re, time, sys
+import argparse, csv, json, os, re, time, sys
 import requests, urllib.parse as up
 from bs4 import BeautifulSoup
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 OUT = os.path.join(DATA, "records.jsonl")
+CSV_OUT = os.path.join(DATA, "records.csv")
 UA = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/126.0 Safari/537.36",
@@ -51,6 +52,33 @@ def clean(el):
     return re.sub(r"\n{3,}", "\n\n", el.get_text("\n", strip=True)).strip()
 
 
+DATE_RE = re.compile(r"(20\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})(?:\s+(\d{1,2}):(\d{2})(?::(\d{2}))?)?")
+
+
+def normalize_date(value):
+    """사이트별 날짜 표기를 시간 정밀도를 보존한 ISO 유사 형식으로 통일한다."""
+    match = DATE_RE.search(value or "")
+    if not match:
+        return ""
+    year, month, day, hour, minute, second = match.groups()
+    result = f"{year}-{int(month):02d}-{int(day):02d}"
+    if hour is not None:
+        result += f" {int(hour):02d}:{minute}"
+    if second is not None:
+        result += f":{second}"
+    return result
+
+
+def first_date(soup, selectors):
+    """선택자에 걸린 요소 중 실제 날짜 문자열이 있는 첫 값을 반환한다."""
+    for selector in selectors:
+        for element in soup.select(selector):
+            date = normalize_date(element.get("title") or element.get_text(" ", strip=True))
+            if date:
+                return date
+    return ""
+
+
 # ---------- adapters ----------
 def dogdrip_search(s, page, query):
     url = (f"https://www.dogdrip.net/index.php?mid=dogdrip"
@@ -70,9 +98,7 @@ def dogdrip_post(s, url):
     bodies = soup.select(".xe_content")
     comments = [clean(c) for c in soup.select(".comment .xe_content")]
     body = clean(bodies[0]) if bodies else ""
-    date = ""
-    d = soup.select_one(".date, .ed_time, time")
-    if d: date = d.get_text(strip=True)
+    date = first_date(soup, [".article-head .text-muted", ".date", ".ed_time", "time"])
     return dict(title=title, body=body, comments=[c for c in comments if c], date=date)
 
 
@@ -89,9 +115,7 @@ def dcinside_post(s, url):
     if t: title = t.get_text(strip=True)
     if not title and soup.title: title = soup.title.get_text(strip=True).split(" - ")[0]
     body = clean(soup.select_one(".write_div"))
-    date = ""
-    d = soup.select_one(".gall_date")
-    if d: date = d.get("title") or d.get_text(strip=True)
+    date = first_date(soup, [".gall_date"])
     return dict(title=title, body=body, comments=[], date=date)  # dc 댓글은 AJAX라 스킵
 
 
@@ -125,7 +149,8 @@ def nate_post(s, url):
         body = re.sub(r"\n{3,}", "\n\n", txt).strip()
     if len(body) < 20:
         body = og(soup, "description").split(":", 1)[-1].strip()
-    return dict(title=title, body=body, comments=[], date="")
+    date = first_date(soup, [".pann-title .sub .num", ".pann-title .writer .num"])
+    return dict(title=title, body=body, comments=[], date=date)
 
 
 def theqoo_search(s, page, query):
@@ -150,10 +175,9 @@ def theqoo_post(s, url):
                  soup.select_one(".xe_content") or
                  soup.select_one(".rd_body"))
     comments = [clean(x) for x in soup.select(".fdb_lst .xe_content")]
-    d = soup.select_one(".date, .regdate, time")
     return dict(title=title, body=body,
                 comments=[x for x in comments if x],
-                date=d.get_text(strip=True) if d else "",
+                date=first_date(soup, [".rd_hd .side", ".date", ".regdate", "time"]),
                 source_kind="full_post")
 
 
@@ -229,6 +253,70 @@ def stats():
     for k, v in sorted(by.items()): print(f"  {k:9} {v}")
 
 
+def refresh_dates():
+    """날짜가 비어 있는 저장 레코드만 원문에서 다시 읽어 보충한다."""
+    rows = [json.loads(line) for line in open(OUT, encoding="utf-8") if line.strip()]
+    s = sess()
+    updated = 0
+    failed = []
+    for row in rows:
+        current = normalize_date(str(row.get("date", "")))
+        if current:
+            row["date"] = current
+            continue
+        adapter = ADAPTERS.get(row.get("site"))
+        if not adapter:
+            failed.append(row["url"])
+            continue
+        try:
+            date = adapter[1](s, row["url"]).get("date", "")
+        except Exception as exc:
+            print(f"[date] ERR {row['url']} {exc}", file=sys.stderr)
+            failed.append(row["url"])
+            continue
+        if date:
+            row["date"] = normalize_date(date)
+            updated += 1
+        else:
+            failed.append(row["url"])
+        time.sleep(DELAY)
+    temp = OUT + ".tmp"
+    with open(temp, "w", encoding="utf-8") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    os.replace(temp, OUT)
+    print(f"날짜 보충 {updated}건, 미확보 {len(failed)}건")
+    for url in failed:
+        print(f"  {url}")
+
+
+def export_csv():
+    """현재 JSONL 정본을 Excel 호환 UTF-8 CSV로 내보낸다."""
+    rows = [json.loads(line) for line in open(OUT, encoding="utf-8") if line.strip()]
+    fields = ["site", "date", "title", "body", "comments", "comment_count",
+              "url", "score", "query", "source_kind", "access", "retrieved_at"]
+    with open(CSV_OUT, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for row in rows:
+            comments = row.get("comments") or []
+            writer.writerow({
+                "site": row.get("site", ""),
+                "date": normalize_date(str(row.get("date", ""))),
+                "title": row.get("title", ""),
+                "body": row.get("body", ""),
+                "comments": "\n\n---\n\n".join(comments),
+                "comment_count": len(comments),
+                "url": row.get("url", ""),
+                "score": row.get("score", ""),
+                "query": row.get("query", ""),
+                "source_kind": row.get("source_kind", ""),
+                "access": row.get("access", ""),
+                "retrieved_at": row.get("retrieved_at", ""),
+            })
+    print(f"CSV {len(rows)}건 → {CSV_OUT}")
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--sites", default="dogdrip,nate,dcinside")
@@ -236,8 +324,14 @@ if __name__ == "__main__":
     ap.add_argument("--queries", default=",".join(DEFAULT_QUERIES),
                     help="쉼표로 구분한 검색어")
     ap.add_argument("--stats", action="store_true")
+    ap.add_argument("--refresh-dates", action="store_true")
+    ap.add_argument("--export-csv", action="store_true")
     a = ap.parse_args()
-    if a.stats:
+    if a.refresh_dates:
+        refresh_dates()
+    elif a.export_csv:
+        export_csv()
+    elif a.stats:
         stats()
     else:
         run([x for x in a.sites.split(",") if x in ADAPTERS], a.pages,
