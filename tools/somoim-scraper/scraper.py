@@ -3,7 +3,7 @@
 
 사이트별 어댑터: 검색 → 글 URL 목록 → 본문/댓글 파싱 → 관련성 필터 → JSONL 적재.
 - 결과: data/records.jsonl (1줄 1글, url 기준 중복 제거, 재실행 시 이어붙임)
-- 다음카페 회원 전용 글은 검색결과에 공개된 미리보기만 저장.
+- 검색 미리보기는 저장하지 않고, 원문을 직접 가져올 수 있는 사이트만 지원.
 
 사용:
     python scraper.py --sites dogdrip,nate,dcinside --pages 3
@@ -24,7 +24,6 @@ UA = {
 DELAY = 0.5          # 요청 간 대기(초) — 사이트 부담/차단 방지
 TIMEOUT = 15
 DEFAULT_QUERIES = ["소모임"]
-SEARCH_META = {}
 
 # 관련성: '소모임/동호회' 포함 + 아래 신호어가 1개 이상. 수집 후 사람이 직접 걸러내는 전제.
 SIGNAL = ["동호회","정모","모임장","가입","성비","나갔","나가","후기","친목","어플","앱",
@@ -129,53 +128,6 @@ def nate_post(s, url):
     return dict(title=title, body=body, comments=[], date="")
 
 
-def fmkorea_search(s, page, query):
-    # 펨코 통합검색은 연속 페이지 요청에 430 제한을 걸어 검색엔진 색인으로 URL만 발견한다.
-    if page != 1:
-        return []
-    discovery_query = f'site:fmkorea.com "{query}"'
-    url = ("https://search.naver.com/search.naver?where=view&query=" +
-           up.quote(discovery_query))
-    r = s.get(url, timeout=TIMEOUT); r.raise_for_status()
-    soup = BeautifulSoup(r.text, "lxml")
-    urls = []
-    for a in soup.select("a[href]"):
-        m = re.match(r"https?://(?:www\.)?fmkorea\.com/(\d{6,})(?:[/?#]|$)",
-                     a.get("href", ""))
-        if not m:
-            continue
-        post_url = f"https://www.fmkorea.com/{m.group(1)}"
-        root = a.find_parent(class_="fds-web-doc-root")
-        if not root:
-            continue
-        texts = []
-        for link in root.select(f'a[href*="fmkorea.com/{m.group(1)}"]'):
-            txt = link.get_text(" ", strip=True).replace(" 새 창 열림", "").strip()
-            if txt and txt not in texts:
-                texts.append(txt)
-        if len(texts) < 3:
-            continue
-        title, preview = texts[-2], texts[-1]
-        date_match = re.match(r"(\d{4}\.\d{2}\.\d{2}\.)\s*", preview)
-        date = date_match.group(1) if date_match else ""
-        if date_match:
-            preview = preview[date_match.end():]
-        preview = preview.removesuffix("...").strip()
-        SEARCH_META[post_url] = dict(
-            title=title, body=preview, comments=[], date=date,
-            source_kind="search_preview", access="rate_limited",
-        )
-        urls.append(post_url)
-    return list(dict.fromkeys(urls))
-
-
-def fmkorea_post(s, url):
-    # 연속 원문 요청이 430으로 제한되어 검색 미리보기만 저장한다.
-    return SEARCH_META.get(url, dict(title="", body="", comments=[], date="",
-                                     source_kind="search_preview",
-                                     access="rate_limited"))
-
-
 def theqoo_search(s, page, query):
     # 더쿠에는 공개 전역검색이 없어 네이버 View 검색을 URL 발견용으로만 사용한다.
     if page != 1:
@@ -205,49 +157,11 @@ def theqoo_post(s, url):
                 source_kind="full_post")
 
 
-def canonical_daum_url(url):
-    m = re.match(r"https?://(?:m\.)?cafe\.daum\.net/([^/?#]+)/([^/?#]+)/(\d+)", url)
-    return f"https://cafe.daum.net/{m.group(1)}/{m.group(2)}/{m.group(3)}" if m else ""
-
-
-def daum_search(s, page, query):
-    url = ("https://top.cafe.daum.net/_c21_/search/cafe-table"
-           f"?searchOpt=CAFE_ARTICLE&articleSortType=ACCURACY&q={up.quote(query)}&p={page}")
-    r = s.get(url, timeout=TIMEOUT); r.raise_for_status()
-    soup = BeautifulSoup(r.text, "lxml")
-    urls = []
-    for item in soup.select("ul.list_scafe > li"):
-        a = item.select_one("a.link_tit[href]")
-        if not a:
-            continue
-        post_url = canonical_daum_url(a.get("href", ""))
-        if not post_url:
-            continue
-        desc = clean(item.select_one(".desc_scafe2"))
-        date_el = item.select_one(".tit_list .info_scafe")
-        cafe_el = item.select_one("a.link_cafe")
-        SEARCH_META[post_url] = dict(
-            title=a.get_text(" ", strip=True), body=desc, comments=[],
-            date=clean(date_el), source_kind="search_preview",
-            cafe=clean(cafe_el), access="unknown",
-        )
-        urls.append(post_url)
-    return list(dict.fromkeys(urls))
-
-
-def daum_post(s, url):
-    # 검색 미리보기는 회원가입 없이 공개되지만 원문은 카페별 등급 제한이 많다.
-    return SEARCH_META.get(url, dict(title="", body="", comments=[], date="",
-                                     source_kind="search_preview", access="unknown"))
-
-
 ADAPTERS = {
     "dogdrip":  (dogdrip_search, dogdrip_post),
     "dcinside": (dcinside_search, dcinside_post),
     "nate":     (nate_search, nate_post),
-    "fmkorea":  (fmkorea_search, fmkorea_post),
     "theqoo":   (theqoo_search, theqoo_post),
-    "daum":     (daum_search, daum_post),
 }
 
 
