@@ -38,6 +38,9 @@ python curate_daum_posts.py                                # 전수 판정 결�
 
 # 소모임 서울 웹 공개 모임 목록만 SQLite에 수집 (상세 페이지 미요청)
 python collect_group_list.py
+
+# 저장된 목록의 모임명·50자 소개·키워드만으로 명시적 목적 신호 분류
+python classify_group_list.py
 ```
 
 ## 출력
@@ -56,6 +59,19 @@ python collect_group_list.py
 - `groups`: `gid` 기준 최신 목록 요약. 목록 API의 약 50자 소개만 저장하며 상세 페이지는 요청하지 않음
 - `group_listings`: 수집 실행별 페이지와 노출 순서
 - `gid`가 있으므로 필요할 때만 `https://www.somoim.co.kr/{gid}`에서 상세를 확인할 수 있음
+- `classification_runs`: 사용한 분류기 버전과 범위
+- `group_classifications`: 이성 교류·가입자 선별·술자리·파티·주류 취미 신호와 판정 근거
+
+목록 분류는 실제 운영 목적을 확정하지 않는다. 모임명·약 50자 소개·키워드에 명시적으로
+드러난 표현만 집계하며, 와인·위스키 등 주류 자체 취미는 술자리형과 별도로 둔다.
+
+분류 라벨은 다음처럼 해석한다.
+- `direct_dating`: 소개팅·매칭·연애 등 직접적인 이성 만남 표현
+- `dating_selection_social`: 싱글 제한·성비 조절·성별 우대·외모 강조 표현. 스포츠팀 등의 운영상 성별 모집도 섞일 수 있어 소개팅형으로 확정하지 않음
+- `drinking_social`: 술자리·술벙·음주가무 또는 서비스 키워드 `술` 등 직접적인 술 중심 표현
+- `party_social`: 모임명·키워드에서 파티를 강조하지만 이성 만남·술자리 신호는 확인되지 않음
+- `alcohol_hobby`: 와인·위스키·전통주·시음 등 주류 자체 활동만 확인됨
+- `no_explicit_signal`: 위 표현이 목록 정보에 없음. 실제 상세 내용에도 없다는 뜻은 아님
 
 ## 2026-08-31 전수 판정 결과
 
