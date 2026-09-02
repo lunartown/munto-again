@@ -35,6 +35,9 @@ python scraper.py --stats                                   # 누적 현황
 
 python recover_daum_posts.py                               # 공개 다음카페 원문 수집
 python curate_daum_posts.py                                # 전수 판정 결과 통합
+
+# 소모임 서울 웹 공개 모임 목록만 SQLite에 수집 (상세 페이지 미요청)
+python collect_group_list.py
 ```
 
 ## 출력
@@ -47,6 +50,12 @@ python curate_daum_posts.py                                # 전수 판정 결�
 - 열: `site, date, title, body, comments, comment_count, url, score, query, source_kind, access, retrieved_at`
 - 여러 댓글은 `---` 구분선으로 합치고, 본문과 댓글의 줄바꿈은 CSV 인용 필드 안에 보존한다.
 - `date`는 `YYYY-MM-DD HH:MM`을 기본으로 하며 원문이 날짜만 제공하거나 초까지 제공하면 해당 정밀도를 보존한다.
+
+`data/somoim-groups.sqlite3` — 소모임 웹 공개 모임 목록 스냅샷.
+- `collection_runs`: 수집 조건·시각·완료 상태·건수
+- `groups`: `gid` 기준 최신 목록 요약. 목록 API의 약 50자 소개만 저장하며 상세 페이지는 요청하지 않음
+- `group_listings`: 수집 실행별 페이지와 노출 순서
+- `gid`가 있으므로 필요할 때만 `https://www.somoim.co.kr/{gid}`에서 상세를 확인할 수 있음
 
 ## 2026-08-31 전수 판정 결과
 
