@@ -89,7 +89,7 @@ export function DetailScreen({
 
   return (
     <>
-      <StatusBar time="3:01" />
+      <StatusBar time="3:01" island />
       <TitleBar
         title={gathering.navName}
         align="center"

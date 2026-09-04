@@ -17,11 +17,11 @@ import {
 } from "./icons";
 
 /* ── Status Bar ───────────────────────────── */
-export function StatusBar({ time = "3:31" }: { time?: string }) {
+export function StatusBar({ time = "3:31", island = false }: { time?: string; island?: boolean }) {
   return (
     <div className="sm-status">
       <span>{time}</span>
-      <span className="sm-dynamic-island" aria-hidden><i /></span>
+      {island && <span className="sm-dynamic-island" aria-hidden><i /></span>}
       <span className="sm-status-right">
         <svg width="18" height="12" viewBox="0 0 18 12" fill="none" aria-hidden>
           <rect x="0" y="7" width="3" height="5" rx="1" fill="currentColor" />

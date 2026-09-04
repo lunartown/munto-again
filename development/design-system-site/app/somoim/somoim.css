@@ -405,3 +405,7 @@ section > .sm-review + .sm-review { border-top: 1px solid var(--line-neutral); }
   .sm-stage { padding: 24px 0; }
   .sm-device { box-shadow: 0 18px 48px rgba(0,0,0,.14); }
 }
+
+@media (max-width: 520px) {
+  .sm-stage { justify-content: flex-start; }
+}
