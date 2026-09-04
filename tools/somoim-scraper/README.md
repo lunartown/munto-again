@@ -41,6 +41,9 @@ python collect_group_list.py
 
 # 저장된 목록의 모임명·50자 소개·키워드만으로 명시적 목적 신호 분류
 python classify_group_list.py
+
+# 선택한 공개 모임의 전체 소개와 정모 정보를 상세 페이지에서 수집
+python collect_group_details.py <gid> [<gid> ...]
 ```
 
 ## 출력
@@ -61,6 +64,11 @@ python classify_group_list.py
 - `gid`가 있으므로 필요할 때만 `https://www.somoim.co.kr/{gid}`에서 상세를 확인할 수 있음
 - `classification_runs`: 사용한 분류기 버전과 범위
 - `group_classifications`: 이성 교류·가입자 선별·술자리·파티·주류 취미 신호와 판정 근거
+- `group_details`: 선택한 모임의 공개 전체 소개·대표 이미지 URL·원본 URL
+- `group_events`: 선택한 모임의 공개 정모명·일시·장소·비용·정원·참석 인원·이미지 URL
+
+상세 수집은 명시한 `gid`만 요청합니다. 회원 목록·게시글은 저장하지 않고, 페이지 데이터에서도
+소개와 정모에 필요한 필드만 선별해 적재합니다.
 
 목록 분류는 실제 운영 목적을 확정하지 않는다. 모임명·약 50자 소개·키워드에 명시적으로
 드러난 표현만 집계하며, 와인·위스키 등 주류 자체 취미는 술자리형과 별도로 둔다.

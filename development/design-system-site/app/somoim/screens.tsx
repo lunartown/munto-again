@@ -35,8 +35,13 @@ export function ListScreen({
 }) {
   return (
     <>
-      <StatusBar />
-      <TitleBar title="서울 독서 모임" align="center" onBack={() => {}} />
+      <StatusBar time="8:58" />
+      <TitleBar title="맞춤 모임" align="center" onBack={() => {}} titleClassName="sm-title-s-medium" />
+      <div className="sm-category-tabs" role="tablist" aria-label="모임 카테고리">
+        {["맞춤추천", "인문학/책/글", "문화/공연/축제", "음악/악기"].map((label, index) => (
+          <button key={label} type="button" className="sm-category-tab" data-active={index === 0}>{label}</button>
+        ))}
+      </div>
       <div className="sm-scroll">
         <div className="sm-list">
           {gatherings.map((g) => (
@@ -44,6 +49,7 @@ export function ListScreen({
           ))}
         </div>
       </div>
+      <button type="button" className="sm-fab sm-fab-list" aria-label="모임 만들기">+</button>
     </>
   );
 }
@@ -127,7 +133,7 @@ export function DetailScreen({
                 정기모임
               </h2>
               {gathering.meetings.length > 0 ? gathering.meetings.map((m) => (
-                <MeetingCard key={m.name + m.when} meeting={m} thumb={gathering.thumb} />
+                <MeetingCard key={m.name + m.when} meeting={m} />
               )) : <p className="sm-empty sm-body-m-regular">예정된 정기모임이 없습니다.</p>}
             </section>
 
@@ -293,7 +299,7 @@ export function ReviewListScreen({
       <StatusBar />
       <TitleBar
         title={gathering.name}
-        align="left"
+        align="center"
         onBack={onBack}
         actions={
           <>
@@ -312,12 +318,13 @@ export function ReviewListScreen({
       <div className="sm-scroll">
         <ReviewListHeader count={gathering.reviewCount} trailing={<SortButton value={sort} onClick={() => setSheet(true)} />} />
         {reviews.map((r, i) => (
-          <div key={r.author} onClick={r.visibility === "public" ? onOpenPost : undefined}>
+          <div className="sm-review-wrap" key={r.author} onClick={r.visibility === "public" ? onOpenPost : undefined}>
             <ReviewItem review={r} thumb={gathering.thumb} index={i} onMenu={() => setMenu(true)} />
           </div>
         ))}
         {reviews.length === 0 && <p className="sm-empty sm-body-m-regular">아직 등록된 후기가 없습니다.</p>}
       </div>
+      <button type="button" className="sm-fab" aria-label="후기 작성"><span>＋</span><small>작성</small></button>
       {sheet && (
         <BottomSheet
           title="후기 정렬"
@@ -433,7 +440,7 @@ export function ReportScreen({
         onBack={onBack}
         actions={
           <IconContainer onClick={submit} type="text" state={reason ? "default" : "disabled"} label="신고 제출">
-            <span className="sm-body-m-medium">제출</span>
+            <span className="sm-body-m-medium">완료</span>
           </IconContainer>
         }
       />
@@ -452,6 +459,7 @@ export function ReportScreen({
           <span className="sm-label-s-regular" style={{ color: "var(--text-alternative)", textAlign: "right" }}>
             {detail.length}/500
           </span>
+          <button type="button" className="sm-photo-button" disabled>▧&nbsp; 사진 첨부 (0/5)</button>
         </div>
       </div>
       {toast && <Toast message={toast} />}

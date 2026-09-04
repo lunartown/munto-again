@@ -1,7 +1,6 @@
 "use client";
 
-// Figma 파일의 Components 페이지에 있는 컴포넌트를 그대로 옮긴 것.
-// 배리언트 이름은 Figma 속성명을 따름 (Title Align, Style, Visibility, State, Type 등).
+// 실제 소모임 앱 캡처에서 반복되는 UI 구조를 React 컴포넌트로 옮긴다.
 
 import { useState } from "react";
 import type { Gathering, Meeting, Review } from "./data";
@@ -22,6 +21,7 @@ export function StatusBar({ time = "3:31" }: { time?: string }) {
   return (
     <div className="sm-status">
       <span>{time}</span>
+      <span className="sm-dynamic-island" aria-hidden><i /></span>
       <span className="sm-status-right">
         <svg width="18" height="12" viewBox="0 0 18 12" fill="none" aria-hidden>
           <rect x="0" y="7" width="3" height="5" rx="1" fill="currentColor" />
@@ -172,12 +172,15 @@ export function Button({
 export function GatheringCard({ gathering, onClick }: { gathering: Gathering; onClick: () => void }) {
   return (
     <button type="button" className="sm-card" onClick={onClick}>
-      <img className="sm-card-thumb" src={gathering.thumb} alt="" />
+      <span className="sm-card-visual">
+        <img className="sm-card-thumb" src={gathering.thumb} alt="" />
+        <span className="sm-card-heart" aria-hidden><Heart size={26} /></span>
+      </span>
       <span className="sm-card-body">
-        <span className="sm-card-title sm-body-l-medium">{gathering.name}</span>
-        <span className="sm-card-desc sm-body-m-regular">{gathering.desc}</span>
-        <span className="sm-card-meta sm-label-s-regular">
-          {gathering.category} · {gathering.region} · 멤버 {gathering.members} <em>{gathering.recent}</em>
+        <span className="sm-card-title">{gathering.name}</span>
+        <span className="sm-card-desc">{gathering.desc}</span>
+        <span className="sm-card-meta">
+          ▣ {gathering.category} · {gathering.region} · 멤버 {gathering.members}
         </span>
       </span>
     </button>
@@ -185,7 +188,7 @@ export function GatheringCard({ gathering, onClick }: { gathering: Gathering; on
 }
 
 /* ── 정기모임 카드 ─────────────────────────── */
-export function MeetingCard({ meeting, thumb }: { meeting: Meeting; thumb: string }) {
+export function MeetingCard({ meeting }: { meeting: Meeting }) {
   const [liked, setLiked] = useState(false);
   return (
     <div className="sm-meeting">
@@ -218,7 +221,7 @@ export function MeetingCard({ meeting, thumb }: { meeting: Meeting; thumb: strin
             </div>
           )}
         </dl>
-        <img className="sm-meeting-thumb" src={thumb} alt="" />
+        <img className="sm-meeting-thumb" src={meeting.image} alt="" />
       </div>
       <div className="sm-meeting-actions">
         <IconContainer onClick={() => setLiked((v) => !v)} label="찜하기">

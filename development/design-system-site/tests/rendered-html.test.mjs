@@ -38,3 +38,13 @@ test("server-renders the core documentation routes", async () => {
     assert.doesNotMatch(html, /현재 화면에서 확인된|1차 문서 범위|Figma에서 확인됨|작업형 문서/);
   }
 });
+
+test("server-renders the somoim prototype with collected groups", async () => {
+  const response = await render("/somoim");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /맞춤 모임/);
+  assert.match(html, /잡학다食/);
+  assert.match(html, /사유식탁/);
+  assert.doesNotMatch(html, /자유독서단|책읽는 저녁/);
+});
