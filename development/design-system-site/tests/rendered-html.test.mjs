@@ -61,3 +61,13 @@ test("collected somoim data replaces board and gallery samples", async () => {
   const screens = await readFile(new URL("../app/somoim/screens.tsx", import.meta.url), "utf8");
   assert.doesNotMatch(screens, /즐거웠던 정기모임 후기|GALLERY_IMAGES/);
 });
+
+test("fills every gathering with balanced UT review fixtures", async () => {
+  const fixtures = await readFile(new URL("../app/somoim/ut-reviews.ts", import.meta.url), "utf8");
+  const groupIds = [...fixtures.matchAll(/^  "([0-9a-f-]+)": \{$/gm)].map((match) => match[1]);
+  assert.equal(groupIds.length, 16);
+  assert.equal(new Set(groupIds).size, 16);
+  assert.equal((fixtures.match(/^    variant: "mine",$/gm) ?? []).length, 4);
+  assert.equal((fixtures.match(/^    variant: "control",$/gm) ?? []).length, 12);
+  assert.equal((fixtures.match(/author: "익명 /g) ?? []).length, 32);
+});

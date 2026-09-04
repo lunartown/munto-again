@@ -1,4 +1,5 @@
 import sourceGroups from "./groups.json";
+import { UT_REVIEW_SETS } from "./ut-reviews";
 
 export type Review = {
   author: string;
@@ -82,7 +83,10 @@ function summarize(description: string): string {
   return compact.length > 74 ? `${compact.slice(0, 74)}…` : compact;
 }
 
-export const GATHERINGS: Gathering[] = sourceGroups.map((group, index) => ({
+export const GATHERINGS: Gathering[] = sourceGroups.map((group, index) => {
+  const reviewSet = UT_REVIEW_SETS[group.id];
+
+  return {
   id: group.id,
   name: group.name,
   navName: group.name,
@@ -92,8 +96,11 @@ export const GATHERINGS: Gathering[] = sourceGroups.map((group, index) => ({
   members: group.members,
   recent: group.events.length > 0 ? `정모 ${group.events.length}개` : "예정 정모 없음",
   intro: group.description,
-  reviewCount: 0,
-  reviews: [],
+  reviewCount: reviewSet?.reviews.length ?? 0,
+  reviews: (reviewSet?.reviews ?? []).map((review) => ({
+    ...review,
+    visibility: "public" as const,
+  })),
   meetings: group.events.map((event) => ({
     badge: "예정",
     name: event.name,
@@ -130,7 +137,8 @@ export const GATHERINGS: Gathering[] = sourceGroups.map((group, index) => ({
   banner: `/somoim/group_${String(index + 1).padStart(2, "0")}.png`,
   thumb: `/somoim/group_${String(index + 1).padStart(2, "0")}.png`,
   sourceUrl: group.source_url,
-}));
+  };
+});
 
 export function byId(id: string): Gathering | undefined {
   return GATHERINGS.find((g) => g.id === id);
