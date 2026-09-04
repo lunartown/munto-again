@@ -102,11 +102,27 @@ export function TitleBar({
 }
 
 /* ── Tabs ─────────────────────────────────── */
-export function Tabs({ items, active = 0 }: { items: string[]; active?: number }) {
+export function Tabs({
+  items,
+  active = 0,
+  onSelect,
+}: {
+  items: string[];
+  active?: number;
+  onSelect?: (index: number) => void;
+}) {
   return (
-    <div className="sm-tabs">
+    <div className="sm-tabs" role="tablist" aria-label="모임 메뉴">
       {items.map((it, i) => (
-        <button key={it} type="button" className="sm-tab sm-body-m-medium" data-active={i === active}>
+        <button
+          key={it}
+          type="button"
+          role="tab"
+          aria-selected={i === active}
+          className="sm-tab sm-body-m-medium"
+          data-active={i === active}
+          onClick={() => onSelect?.(i)}
+        >
           {it}
           <i />
         </button>
