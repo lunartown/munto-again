@@ -183,18 +183,24 @@ export function MeetingCard({ meeting, thumb }: { meeting: Meeting; thumb: strin
             <dt>일시</dt>
             <dd>{meeting.when}</dd>
           </div>
-          <div className="sm-meeting-row">
-            <dt>위치</dt>
-            <dd>{meeting.where}</dd>
-          </div>
-          <div className="sm-meeting-row">
-            <dt>비용</dt>
-            <dd>{meeting.cost}</dd>
-          </div>
-          <div className="sm-meeting-row">
-            <dt />
-            <dd>{meeting.attend}</dd>
-          </div>
+          {meeting.where && (
+            <div className="sm-meeting-row">
+              <dt>위치</dt>
+              <dd>{meeting.where}</dd>
+            </div>
+          )}
+          {meeting.cost && (
+            <div className="sm-meeting-row">
+              <dt>비용</dt>
+              <dd>{meeting.cost}</dd>
+            </div>
+          )}
+          {meeting.attend && (
+            <div className="sm-meeting-row">
+              <dt />
+              <dd>{meeting.attend}</dd>
+            </div>
+          )}
         </dl>
         <img className="sm-meeting-thumb" src={thumb} alt="" />
       </div>

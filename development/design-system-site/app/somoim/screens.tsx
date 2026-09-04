@@ -36,7 +36,7 @@ export function ListScreen({
   return (
     <>
       <StatusBar />
-      <TitleBar title="독서 모임" align="center" onBack={() => {}} />
+      <TitleBar title="서울 독서 모임" align="center" onBack={() => {}} />
       <div className="sm-scroll">
         <div className="sm-list">
           {gatherings.map((g) => (
@@ -92,9 +92,6 @@ export function DetailScreen({
           <h1 className="sm-title-m-bold" style={{ margin: 0 }}>
             {gathering.name}
           </h1>
-          <p className="sm-quote sm-body-m-regular" style={{ margin: 0 }}>
-            {gathering.quote}
-          </p>
           <p className="sm-intro sm-body-m-regular" style={{ margin: 0 }}>
             {gathering.intro}
           </p>
@@ -105,32 +102,26 @@ export function DetailScreen({
           <h2 className="sm-section-title sm-title-s-medium" style={{ margin: 0 }}>
             정기모임
           </h2>
-          {gathering.meetings.map((m) => (
+          {gathering.meetings.length > 0 ? gathering.meetings.map((m) => (
             <MeetingCard key={m.name + m.when} meeting={m} thumb={gathering.thumb} />
-          ))}
+          )) : <p className="sm-empty sm-body-m-regular">예정된 정기모임이 없습니다.</p>}
         </section>
 
         <div className="sm-band" />
         <section>
-          <ReviewListHeader count={gathering.reviewCount} trailing={<ViewAllButton onClick={onOpenReviews} />} />
+          <ReviewListHeader count={gathering.reviewCount} trailing={gathering.reviewCount > 0 ? <ViewAllButton onClick={onOpenReviews} /> : undefined} />
           {gathering.reviews.slice(0, 2).map((r, i) => (
             <ReviewItem key={r.author} review={r} thumb={gathering.thumb} index={i} />
           ))}
+          {gathering.reviews.length === 0 && <p className="sm-empty sm-body-m-regular">아직 등록된 후기가 없습니다.</p>}
         </section>
 
         <div className="sm-band" />
         <section className="sm-section">
-          <h2 className="sm-section-title sm-title-s-medium" style={{ margin: 0 }}>
-            모임 멤버 ({gathering.members})
-          </h2>
-          <div className="sm-members">
-            {["모임장 · 나무늘보", "책읽는곰", "조용한밤", "민트초코", "오래된책방"].map((n, i) => (
-              <div className="sm-member" key={n}>
-                <img src={`/somoim/avatar_${(i % 3) + 1}.png`} alt="" />
-                <span className="sm-body-m-regular">{n}</span>
-              </div>
-            ))}
-          </div>
+          <h2 className="sm-section-title sm-title-s-medium" style={{ margin: 0 }}>모임 멤버</h2>
+          <p className="sm-body-m-regular" style={{ margin: 0, color: "var(--text-neutral)" }}>
+            현재 {gathering.members.toLocaleString("ko-KR")}명이 함께하고 있습니다.
+          </p>
         </section>
       </div>
       <div className="sm-joinbar">
@@ -191,6 +182,7 @@ export function ReviewListScreen({
             <ReviewItem review={r} thumb={gathering.thumb} index={i} onMenu={() => setMenu(true)} />
           </div>
         ))}
+        {reviews.length === 0 && <p className="sm-empty sm-body-m-regular">아직 등록된 후기가 없습니다.</p>}
       </div>
       {sheet && (
         <BottomSheet

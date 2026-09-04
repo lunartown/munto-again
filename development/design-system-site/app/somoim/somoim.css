@@ -252,6 +252,7 @@
 
 /* ── 후기 ──────────────────────────────────── */
 .sm-review-head { display: flex; align-items: center; justify-content: space-between; padding: var(--spacing-16); }
+.sm-empty { margin: 0; padding: 4px var(--spacing-16) 24px; color: var(--text-alternative); }
 .sm-review-count { display: flex; align-items: baseline; gap: 4px; }
 .sm-review-count b { font-weight: 700; }
 .sm-review-count span { color: var(--text-alternative); }
