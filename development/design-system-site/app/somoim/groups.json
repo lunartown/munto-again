@@ -42,6 +42,180 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/0c8407e6-52ac-40cd-b751-af86c463ba811202610031100s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "0564f09e-8ff2-11ec-9ce2-0a85495c2cf31",
+        "name": "튼튼",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0564f09e-8ff2-11ec-9ce2-0a85495c2cf31.png",
+        "isManager": false
+      },
+      {
+        "id": "0748617c-c2e0-11ec-ada3-0a60ecf6d0471",
+        "name": "진수",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0748617c-c2e0-11ec-ada3-0a60ecf6d0471.png",
+        "isManager": false
+      },
+      {
+        "id": "2fd299e6-949f-40ef-99cb-f479cbe3b0db1",
+        "name": "Severa",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2fd299e6-949f-40ef-99cb-f479cbe3b0db1.png",
+        "isManager": false
+      },
+      {
+        "id": "5b63bd5b-21a1-49eb-a6e5-c1fae45df1d41",
+        "name": "조혜원",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5b63bd5b-21a1-49eb-a6e5-c1fae45df1d41.png",
+        "isManager": false
+      },
+      {
+        "id": "8be4b27f-d3e7-4029-bcf9-215f66f973901",
+        "name": "♡소망이♡",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8be4b27f-d3e7-4029-bcf9-215f66f973901.png",
+        "isManager": false
+      },
+      {
+        "id": "9091bfbe-a507-11ed-86cc-0aae14fbf9a11",
+        "name": "씽푸",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9091bfbe-a507-11ed-86cc-0aae14fbf9a11.png",
+        "isManager": false
+      },
+      {
+        "id": "d2a6aa57-3506-4d82-ae82-dc76f5f4623d1",
+        "name": "하주",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d2a6aa57-3506-4d82-ae82-dc76f5f4623d1.png",
+        "isManager": false
+      },
+      {
+        "id": "d73b4f2b-a22e-4cb3-9971-8c9aed803c091",
+        "name": "그린이",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d73b4f2b-a22e-4cb3-9971-8c9aed803c091.png",
+        "isManager": false
+      },
+      {
+        "id": "e2411f92-9249-4642-bf9e-5002fbf5fd041",
+        "name": "벨라리아",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e2411f92-9249-4642-bf9e-5002fbf5fd041.png",
+        "isManager": false
+      },
+      {
+        "id": "e5cd4132-cdf8-43e2-9216-11631cf9ac5f1",
+        "name": "이월",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e5cd4132-cdf8-43e2-9216-11631cf9ac5f1.png",
+        "isManager": false
+      },
+      {
+        "id": "f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1",
+        "name": "검제",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "isManager": true
+      }
+    ],
+    "articles": [
+      {
+        "id": "0c8407e6-52ac-40cd-b751-af86c463ba811202610031100",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "모임후기",
+        "title": "투명한 나선 - 히가시노 게이고",
+        "body": "투명한 나선 - 히가시노 게이고\n\n📌 정모 정보\n\n📅 10월 3일(토)\n\n📍 오버딥 연남점\n\n💰 각자음료값\n\n\n이쯤되면 제 마음이 아닌 주목받는 신간도 한번 해야 할 때가 아닌가 싶어서요.\n\n교보문고 소설 부문 베스",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "0c8407e6-52ac-40cd-b751-af86c463ba811202609191100",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "모임후기",
+        "title": "히스토리아 비테이 - 최재천",
+        "body": "히스토리아 비테이 - 최재천\n\n📌 정모 정보\n\n📅 9월 19일(토)\n\n📍 합정 어반플랜트\n\n💰 각자음료값\n\n\n9월 22일에 세계 차없는 날이 있더라구요 \n\n어떤 책을 맞춰서 고민 하던 중 최재천 교수가 여러가지 이야",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "0748617c-c2e0-11ec-ada3-0a60ecf6d0471787383532563",
+        "author": "진수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0748617c-c2e0-11ec-ada3-0a60ecf6d0471.png",
+        "category": "모임후기",
+        "title": "첫 모임 후기",
+        "body": "첫 모임 후기\n\n첫 독서모임 잘 마무리했습니다!\n투썸플레이스 서울역 YTN점에서 김영하 작가의 《여행의 이유》로 5명이 함께했는데, 첫 모임임에도 어색함 없이 깊이 있는 대화가 오가서 무척 유익한 시간이었습니다.\n다",
+        "likes": 6,
+        "comments": 1
+      },
+      {
+        "id": "2fd299e6-949f-40ef-99cb-f479cbe3b0db1787315883649",
+        "author": "Severa",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2fd299e6-949f-40ef-99cb-f479cbe3b0db1.png",
+        "category": "가입인사",
+        "title": "반갑습니다",
+        "body": "반갑습니다\n\n안녕하세요😃\n몇 분전 잡학다食, - 독서모임 에 가입한 Severa입니다 \n\n저는 직장인이고 \n책을 좋아하기는 하는데\n생각해보면 완독한 책은\n주로 소설이나 인문학 관련 책인 것 같아요\n\n제가 이 소모임에",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1787222894993",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "공지",
+        "title": "소통창구 안내",
+        "body": "소통창구 안내\n\n1. 모임 오픈카톡을 운영중이에요\nhttps://open.kakao.com/o/gCdKJpGi\n\n\n\n2. 각 모임마다 익명 오픈카톡을 만들어서 공유합니다.\n\n3. 소모임 , 문토, 당근, 오픈카톡 으",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1787221832553",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "공지",
+        "title": "[2026 일정 & 함께 읽을 책]",
+        "body": "[2026 일정 & 함께 읽을 책]\n\n1회차 (8월 22일): 《여행의 이유》 - 김영하 (에세이)\n여름휴가 시즌이기도 하고, 우리 모임의 첫 출발이라는 느낌과 딱 맞아서 골라봤어요\n\n2회차 (9월 5일): 《보건교",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "0c8407e6-52ac-40cd-b751-af86c463ba811202609051100",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "모임후기",
+        "title": "보건교사 안은영 - 정세랑",
+        "body": "보건교사 안은영 - 정세랑\n\n📌 정모 정보\n\n📅 9월 5일(토)\n\n📍 연남동 포아 \n\n💰 각자 음료 비용\n\n\n두 번째 정모 책을 어떤 것으로 할지 고민하던 중, 마침 저희 모임 당일에 '불꽃놀이'와 '포켓몬고 메가 ",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "0c8407e6-52ac-40cd-b751-af86c463ba811202608222300",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "모임후기",
+        "title": "여행의 이유",
+        "body": "여행의 이유\n\n📌 정모 정보\n\n📅 8월 22일(토)\n\n📍 투썸플레이스 중구 Ytn점\n\n💰 각자음료값\n\n\n여름 휴가가 끝나가는 시점에 하는 모임이기에 서로 휴가이야기나 이전 여행이야기를 나누기 좋은 시점이라고 생각해서",
+        "likes": 2,
+        "comments": 3
+      },
+      {
+        "id": "f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1785191601185",
+        "author": "검제",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f56e6748-ad3f-11ee-be3b-0a4a7a65b42b1.png",
+        "category": "공지",
+        "title": "공지사항",
+        "body": "공지사항\n\n📚 잡학다食\n\n책은 같이 읽으면 더 재밌고, 대화는 같이 하면 더 재밌잖아요.\n\n한 권의 책으로 시작해서 생각도 나누고, 잡담도 하고,\n어쩌면 전혀 다른 이야기로 샐 수도 있습니다.\n\n책을 핑계로 모여 편",
+        "likes": 3,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "69F61388-8330-4B7E-806C-CF46082054552",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/69F61388-8330-4B7E-806C-CF46082054552.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "69F61388-8330-4B7E-806C-CF46082054551",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/69F61388-8330-4B7E-806C-CF46082054551.png",
+        "likes": 2,
+        "comments": 0
+      }
     ]
   },
   {
@@ -76,6 +250,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/a7623880-14a0-11f0-895f-0a25e09d32091202609181930s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "06c84378-3cb7-11ee-a965-0aa4e1d78f811",
+        "name": "혜민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "isManager": true
+      },
+      {
+        "id": "161c9fa6-1733-11f0-a83f-0aa803d64c231",
+        "name": "정민지",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/161c9fa6-1733-11f0-a83f-0aa803d64c231.png",
+        "isManager": false
+      },
+      {
+        "id": "1968b2f6-d086-11ef-b4e1-0ad8cbda89f11",
+        "name": "찬석",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1968b2f6-d086-11ef-b4e1-0ad8cbda89f11.png",
+        "isManager": false
+      },
+      {
+        "id": "26492152-1287-11f0-a174-0adf624309a11",
+        "name": "승록",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/26492152-1287-11f0-a174-0adf624309a11.png",
+        "isManager": false
+      },
+      {
+        "id": "47025b22-296b-11ee-8dc3-0aff58a8e3211",
+        "name": "남준근",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/47025b22-296b-11ee-8dc3-0aff58a8e3211.png",
+        "isManager": false
+      },
+      {
+        "id": "61e3ab6e-9bed-11ed-a7f8-0a878d1369bd1",
+        "name": "전재욱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/61e3ab6e-9bed-11ed-a7f8-0a878d1369bd1.png",
+        "isManager": false
+      },
+      {
+        "id": "82b078de-27b6-11f0-8fd2-0a9bed8e7b351",
+        "name": ".",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/82b078de-27b6-11f0-8fd2-0a9bed8e7b351.png",
+        "isManager": false
+      },
+      {
+        "id": "8f9cef94-cfe3-11ef-9158-0a6021d183b31",
+        "name": "김보윤",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8f9cef94-cfe3-11ef-9158-0a6021d183b31.png",
+        "isManager": false
+      },
+      {
+        "id": "d7f60c32-0050-11ec-ab52-0a0892f3fcd11",
+        "name": "김윤정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d7f60c32-0050-11ec-ab52-0a0892f3fcd11.png",
+        "isManager": false
+      },
+      {
+        "id": "df29660c-1017-11ed-b144-0a148e3b9e6b1",
+        "name": "정덕성",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/df29660c-1017-11ed-b144-0a148e3b9e6b1.png",
+        "isManager": false
+      },
+      {
+        "id": "ec4e4404-791e-11ed-a279-0a1d0409ad091",
+        "name": "신선이",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ec4e4404-791e-11ed-a279-0a1d0409ad091.png",
+        "isManager": false
+      },
+      {
+        "id": "fefe2100-23ee-11f0-9a6a-0ae98dc792cf1",
+        "name": "허진",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fefe2100-23ee-11f0-9a6a-0ae98dc792cf1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "06c84378-3cb7-11ee-a965-0aa4e1d78f811744160356738",
+        "author": "혜민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "category": "공지",
+        "title": "💬 가입인사 양식",
+        "body": "💬 가입인사 양식\n\n1. 이름 : \n\n2. 생년 : \n\n3. 하는 일 : \n\n4. 주로 활동하는 지역\n(ex) 영등포\n\n5. 모임을 통해 얻고 싶은 것\n(2문장 이상! 성의 없는 글은 강퇴될 수 있어요.)\n\n6. 사",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "06c84378-3cb7-11ee-a965-0aa4e1d78f811744159958503",
+        "author": "혜민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "category": "공지",
+        "title": "👋 반갑습니다. 이 글을 먼저 읽어주세요!",
+        "body": "👋 반갑습니다. 이 글을 먼저 읽어주세요!\n\n🥳 처음 오신 분은 가입인사 먼저 부탁드려요.\n게시판 양식에 맞게 올려주시면 됩니다. \n\n가입인사 작성 후,\n원하는 일정 자유롭게 참석하시면 됩니다.\n모임 별 상세안내는 ",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "a7623880-14a0-11f0-895f-0a25e09d32091202609181930",
+        "author": "혜민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "category": "모임후기",
+        "title": "📖[도서] 지킬박사와 하이드 @다희",
+        "body": "📌 정모 정보\n📅 9월 18일(금)\n📍 영등포구청역 사유지\n💰 20000 (신청 후 24시간 내)\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "e7d3ec28-06ad-4291-9234-0b8aeb28c6241788054030445",
+        "author": "검고카",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e7d3ec28-06ad-4291-9234-0b8aeb28c6241.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 :  김상희 \n\n2. 생년 : 97년생\n\n3. 하는 일 : 사무직\n\n4. 주로 활동하는 지역\n염창\n\n5. 모임을 통해 얻고 싶은 것\n(2문장 이상! 성의 없는 글은 강퇴될 수 있어요.)\n꾸준히 ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "b502565a-1cd3-4f10-bd1a-68879aa400461787423406711",
+        "author": "문미선",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b502565a-1cd3-4f10-bd1a-68879aa400461.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 : 문미선\n\n2. 생년 : 94년\n\n3. 하는 일 : 서비스직\n\n4. 주로 활동하는 지역\n경기남부\n\n5. 모임을 통해 얻고 싶은 것\n저의 의견을 편하게 이야기하는 연습을 하고싶어요.\n관심사가 맞",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "31d06f3e-851d-11ed-8f7b-0a2d65ab9c17178692866877",
+        "author": "임국진",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/31d06f3e-851d-11ed-8f7b-0a2d65ab9c171.png",
+        "category": "가입인사",
+        "title": "반갑습니다",
+        "body": "반갑습니다\n\n1. 이름 : 임국진\n\n2. 생년 : 1993\n\n3. 하는 일 : 영상PD\n\n4. 주로 활동하는 지역\n당산, 문래, 망원\n\n5. 모임을 통해 얻고 싶은 것\n떠들썩한 성격이 아니다보니 차분한 느낌 풀풀 풍",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "1a6d8b68-2a29-451a-b7fa-e4f2ef735fd51786701080344",
+        "author": "지니",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1a6d8b68-2a29-451a-b7fa-e4f2ef735fd51.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 : 김예진\n\n2. 생년 : 1994\n\n3. 하는 일 : 사무직\n\n4. 주로 활동하는 지역 : 동작. 강남.\n(ex) 영등포\n\n5. 모임을 통해 얻고 싶은 것\n바쁘다는 이유로 책을 잘 안 읽게 되",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "78c92b2e-f8f0-11ec-b894-0a58707baa071786544286706",
+        "author": "담장",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/78c92b2e-f8f0-11ec-b894-0a58707baa071.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 :  이두나\n\n2. 생년 : 1993년\n\n3. 하는 일 : 사무직\n\n4. 주로 활동하는 지역 마포구, 인천\n(ex) 영등포\n\n5. 모임을 통해 얻고 싶은 것\n(2문장 이상! 성의 없는 글은 강퇴",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "06c84378-3cb7-11ee-a965-0aa4e1d78f811786266291511",
+        "author": "혜민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "category": "공지",
+        "title": "🗓️ 8,9월 독서&영화 모임 일정",
+        "body": "🗓️ 8,9월 독서&영화 모임 일정\n\n📚+🎬 \n운영진 다희님이랑 좋은 작품들 골라봤구요! <체호프 단편선>, <비눗방울 퐁> 두 책은 ‘유퀴즈’에서 민음사 김민경 편집자님, 조아란 부장님이 추천한 도서이기도 합니다.",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "a117cf3e-b48f-4d4b-beeb-7abab24cdc7b1786073945490",
+        "author": "양영훈",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a117cf3e-b48f-4d4b-beeb-7abab24cdc7b1.png",
+        "category": "가입인사",
+        "title": "가입인사 드려요",
+        "body": "가입인사 드려요\n\n1. 이름 : 양영훈\n\n2. 생년 : 83년생\n\n3. 하는 일 : 프리랜서 성우 & 캘리그라퍼\n\n4. 주로 활동하는 지역\n강서구 구로구 양천구\n\n5. 모임을 통해 얻고 싶은 것\n영화랑 전시 좋아하는",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "a7623880-14a0-11f0-895f-0a25e09d32091202609111930",
+        "author": "혜민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06c84378-3cb7-11ee-a965-0aa4e1d78f811.png",
+        "category": "모임후기",
+        "title": "🎬[영화] 애프터썬 @다희",
+        "body": "📌 정모 정보\n📅 9월 11일(금)\n📍 영등포구청역 사유지\n💰 20000 (신청 후 24시간 내)\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 1
+      },
+      {
+        "id": "0b43ea5a-0e78-11e9-91c6-0a1c3a8c8aea1785988615714",
+        "author": "장호원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b43ea5a-0e78-11e9-91c6-0a1c3a8c8aea1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 : 장호원\n\n2. 생년 : 1987년\n\n3. 하는 일 : 직장인\n\n4. 주로 활동하는 지역 연신내\n(ex) 영등포\n\n5. 모임을 통해 얻고 싶은 것\n(2문장 이상! 성의 없는 글은 강퇴될 수 있",
+        "likes": 1,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "7E684618-945C-4B9B-A20F-7C53853974F72",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E684618-945C-4B9B-A20F-7C53853974F72.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7E684618-945C-4B9B-A20F-7C53853974F71",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E684618-945C-4B9B-A20F-7C53853974F71.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7E053B64-EC38-4701-9551-898C271A0F084",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E053B64-EC38-4701-9551-898C271A0F084.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7E053B64-EC38-4701-9551-898C271A0F083",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E053B64-EC38-4701-9551-898C271A0F083.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7E053B64-EC38-4701-9551-898C271A0F082",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E053B64-EC38-4701-9551-898C271A0F082.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7E053B64-EC38-4701-9551-898C271A0F081",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7E053B64-EC38-4701-9551-898C271A0F081.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "CE171586-2794-4E30-B412-46320009E5931",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/CE171586-2794-4E30-B412-46320009E5931.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "68114CA0-0704-4638-AE79-168B9A8490731",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/68114CA0-0704-4638-AE79-168B9A8490731.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "A9F9E123-6254-40AA-B2C2-CB707F0E98D63",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/A9F9E123-6254-40AA-B2C2-CB707F0E98D63.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "A9F9E123-6254-40AA-B2C2-CB707F0E98D62",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/A9F9E123-6254-40AA-B2C2-CB707F0E98D62.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "A9F9E123-6254-40AA-B2C2-CB707F0E98D61",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/A9F9E123-6254-40AA-B2C2-CB707F0E98D61.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "FF7E589E-F1E6-49E2-962D-FF776F69B4EE2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/FF7E589E-F1E6-49E2-962D-FF776F69B4EE2.png",
+        "likes": 2,
+        "comments": 0
+      }
     ]
   },
   {
@@ -98,6 +542,264 @@
         "maxMembers": 8,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/e2bd3b80-47ba-43c0-b870-1c6065a6c8011202609051030s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "0b841534-d55d-4604-a546-d795e07f28321",
+        "name": "재인",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b841534-d55d-4604-a546-d795e07f28321.png",
+        "isManager": true
+      },
+      {
+        "id": "0e85596a-fba0-4bb5-902b-3bc1f6e10f2e1",
+        "name": "박준영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0e85596a-fba0-4bb5-902b-3bc1f6e10f2e1.png",
+        "isManager": false
+      },
+      {
+        "id": "125d2976-ef2c-4d26-98e2-d56672b72f811",
+        "name": "전지민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/125d2976-ef2c-4d26-98e2-d56672b72f811.png",
+        "isManager": false
+      },
+      {
+        "id": "22f6e086-d417-11ec-85f7-0ad80a27863d1",
+        "name": "박수연",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/22f6e086-d417-11ec-85f7-0ad80a27863d1.png",
+        "isManager": false
+      },
+      {
+        "id": "39137740-55b7-11ed-a938-0a669e09c2591",
+        "name": "준형",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/39137740-55b7-11ed-a938-0a669e09c2591.png",
+        "isManager": false
+      },
+      {
+        "id": "51194618-9be4-4781-b69d-f3406fe882ec1",
+        "name": "여엉우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/51194618-9be4-4781-b69d-f3406fe882ec1.png",
+        "isManager": false
+      },
+      {
+        "id": "842188ba-d6b4-11e9-a01b-0a583d786ca81",
+        "name": "살돌이푸우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/842188ba-d6b4-11e9-a01b-0a583d786ca81.png",
+        "isManager": false
+      },
+      {
+        "id": "b0003846-b018-40c8-b534-b7ad7e8e7e551",
+        "name": "닌히",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0003846-b018-40c8-b534-b7ad7e8e7e551.png",
+        "isManager": false
+      },
+      {
+        "id": "de55f1c4-a17e-4cf9-afdf-556bbf4511581",
+        "name": "이재철",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/de55f1c4-a17e-4cf9-afdf-556bbf4511581.png",
+        "isManager": false
+      },
+      {
+        "id": "e1a3c168-d521-11ee-a758-0a5ba6a727291",
+        "name": "엔딩요정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e1a3c168-d521-11ee-a758-0a5ba6a727291.png",
+        "isManager": false
+      },
+      {
+        "id": "f1a98534-67a4-11ed-8f4c-0aba644b74191",
+        "name": "이동녘",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1a98534-67a4-11ed-8f4c-0aba644b74191.png",
+        "isManager": false
+      },
+      {
+        "id": "f50598ca-19cd-11e6-a81e-22000aac81091",
+        "name": "현♡",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f50598ca-19cd-11e6-a81e-22000aac81091.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "0b841534-d55d-4604-a546-d795e07f28321783500076146",
+        "author": "재인",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b841534-d55d-4604-a546-d795e07f28321.png",
+        "category": "공지",
+        "title": "📢 독서모임 단톡방 운영 안내",
+        "body": "📢 독서모임 단톡방 운영 안내\n\n안녕하세요. 😊\n\n단톡방은 모임에 함께해 주신 분들과 조금 더 편하게 소통하기 위해 운영됩니다.\n\n📌 가입 대상\n\n* 정기모임(또는 번개모임) 1회 이상 참석한 분부터 초대드립니다.\n",
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "0b841534-d55d-4604-a546-d795e07f2832178152588834",
+        "author": "재인",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b841534-d55d-4604-a546-d795e07f28321.png",
+        "category": "가입인사",
+        "title": "가입인사 양식",
+        "body": "가입인사 양식\n\n안녕하세요. 반갑습니다😊\n\n1. 이름 :\n2. 출생연도 :\n3. 활동 가능 지역 (ex. 00역, 00구) :\n4. 좋아하는 책이나 작가 :\n5. 요즘 읽고 있는 책 :\n6. 책틈에 가입한 이유 :\n",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "d5874b9e-53ee-11ed-8d9a-0aa348a2d0c91788433416771",
+        "author": "보리",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d5874b9e-53ee-11ed-8d9a-0aa348a2d0c91.png",
+        "category": "가입인사",
+        "title": "안녕하세요. 반갑습니다😊",
+        "body": "안녕하세요. 반갑습니다😊\n\n안녕하세요. 반갑습니다😊\n\n1. 이름 : 권지혜\n2. 출생연도 : 1995\n3. 활동 가능 지역 (ex. 00역, 00구) : 서대문 종로 성북\n4. 좋아하는 책이나 작가 : 더글라스케네디",
+        "likes": 2,
+        "comments": 2
+      },
+      {
+        "id": "e2bd3b80-47ba-43c0-b870-1c6065a6c8011202609051030",
+        "author": "재인",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b841534-d55d-4604-a546-d795e07f28321.png",
+        "category": "모임후기",
+        "title": "토요 오전 독서모임",
+        "body": "📌 정모 정보\n📅 9월 5일(토)\n📍 카페 소요재\n💰 각자음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7e741e70-c7b8-11e8-9b25-0a29eae881341787729963975",
+        "author": "ho",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7e741e70-c7b8-11e8-9b25-0a29eae881341.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n안녕하세요. 반갑습니다😊\n\n1. 이름 : 호원균 \n2. 출생연도 : 94\n3. 활동 가능 지역 (ex. 00역, 00구) : 여러지역 가능해요\n4. 좋아하는 책이나 작가 : \n(좋아하는 작가)쯔진천,나카야",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "66c39410-fe6a-11ee-948b-0ada99d7719b1787708805275",
+        "author": "J",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66c39410-fe6a-11ee-948b-0ada99d7719b1.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n안녕하세요. 반갑습니다😊\n\n1. 이름 : 오정은\n2. 출생연도 : 89\n3. 활동 가능 지역 (ex. 00역, 00구) : 여러지역 가능해요\n4. 좋아하는 책이나 작가 : 가리지 않고 읽습니다\n5. 요즘",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "14edf3e5-b7e5-47d3-bd58-d82a530a10161787704708118",
+        "author": "김남주",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/14edf3e5-b7e5-47d3-bd58-d82a530a10161.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n안녕하세요.\n\n1. 이름 : 김남주\n2. 출생연도 : 1986\n3. 활동 가능 지역 : 중랑구\n4. 좋아하는 책이나 작가 : 소설, 에세이, 고전문학\n5. 요즘 읽고 있는 책 : 맨스필드파크\n6. 책틈에",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "21c5c03f-2566-4c65-86f5-840e210a05d31787305880882",
+        "author": "래리",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/21c5c03f-2566-4c65-86f5-840e210a05d31.png",
+        "category": "가입인사",
+        "title": "안녕하세여!!",
+        "body": "안녕하세여!!\n\n안녕하세요!!\n\n\n\n1. 이름 :고혜준\n2. 출생연도 :1989\n3. 활동 가능 지역 (ex. 00역, 00구) :성북구\n4. 좋아하는 책이나 작가 :서머싯몸\n5. 요즘 읽고 있는 책 :대중의반역\n6",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "3d7febea-5e6f-4eb4-864f-f54b08d871b01787044247928",
+        "author": "0704",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3d7febea-5e6f-4eb4-864f-f54b08d871b01.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름 : 김유정\n2. 출생연도 : 1996\n3. 활동 가능 지역 (ex. 00역, 00구) : 성북구 \n4. 좋아하는 책이나 작가 : 구의 증명\n5. 요즘 읽고 있는 책 : 나는 고양이로소이다\n6. ",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "e2bd3b80-47ba-43c0-b870-1c6065a6c8011202608171900",
+        "author": "준형",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/39137740-55b7-11ed-a938-0a669e09c2591.png",
+        "category": "모임후기",
+        "title": "지금 주식시장 관심 가져야하는 이유",
+        "body": "📌 정모 정보\n📅 8월 17일(월)\n📍 프롬하츠커피 대학로점\n💰 음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "3b7e2842-df0d-11ed-acbf-0a22f5c3a5971786614579918",
+        "author": "지민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3b7e2842-df0d-11ed-acbf-0a22f5c3a5971.png",
+        "category": "가입인사",
+        "title": "안녕하세요~",
+        "body": "안녕하세요~\n\n안녕하세요. 반갑습니다😊\n\n\n1. 이름 : 송지민\n2. 출생연도 : 1991\n3. 활동 가능 지역 : 성북\n4. 좋아하는 책이나 작가 : 자기계발&에세이, 김난도\n5. 요즘 읽고 있는 책 : 모순-양귀",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "e2bd3b80-47ba-43c0-b870-1c6065a6c8011202608081100",
+        "author": "재인",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b841534-d55d-4604-a546-d795e07f28321.png",
+        "category": "모임후기",
+        "title": "토요 오전 독서모임",
+        "body": "📌 정모 정보\n📅 8월 8일(토)\n📍 카페 까쉬\n💰 각자음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "E05669EF-4C8A-4011-8B71-311D7830AF8F2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/E05669EF-4C8A-4011-8B71-311D7830AF8F2.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "E05669EF-4C8A-4011-8B71-311D7830AF8F1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/E05669EF-4C8A-4011-8B71-311D7830AF8F1.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1CF254C6-25AE-43F4-931C-3093C6E0D0412",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1CF254C6-25AE-43F4-931C-3093C6E0D0412.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1CF254C6-25AE-43F4-931C-3093C6E0D0411",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1CF254C6-25AE-43F4-931C-3093C6E0D0411.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "F7969B47-A655-4C10-8CF8-202C13FC8E8E2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/F7969B47-A655-4C10-8CF8-202C13FC8E8E2.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "F7969B47-A655-4C10-8CF8-202C13FC8E8E1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/F7969B47-A655-4C10-8CF8-202C13FC8E8E1.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "97393EE5-FDCB-4E17-8E18-FD7B4DB7D5211",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/97393EE5-FDCB-4E17-8E18-FD7B4DB7D5211.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "3791BDD9-9FE2-4682-BD48-5BC1FD4AE8B31",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3791BDD9-9FE2-4682-BD48-5BC1FD4AE8B31.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "0F18CCFD-038A-400A-98C4-CD30804B1FF91",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0F18CCFD-038A-400A-98C4-CD30804B1FF91.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "4D2B2F8D-D93F-4E06-BDA0-025DFFCCCC7D1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4D2B2F8D-D93F-4E06-BDA0-025DFFCCCC7D1.png",
+        "likes": 0,
+        "comments": 0
       }
     ]
   },
@@ -155,6 +857,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/9a09f1ce-bc7a-4af2-9e29-51a70e79add01202609231930s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "011b151e-faee-11e8-8fff-0ace4612e5ba1",
+        "name": "경제",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/011b151e-faee-11e8-8fff-0ace4612e5ba1.png",
+        "isManager": false
+      },
+      {
+        "id": "0c9a4470-f3dd-49d1-bad4-795605e0a92a1",
+        "name": "김지수",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0c9a4470-f3dd-49d1-bad4-795605e0a92a1.png",
+        "isManager": false
+      },
+      {
+        "id": "140b17b3-2072-401a-846a-c5f66e1bdca61",
+        "name": "김선아",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/140b17b3-2072-401a-846a-c5f66e1bdca61.png",
+        "isManager": false
+      },
+      {
+        "id": "2e6255ba-f7e1-11ed-bed7-0ad65f88c29f1",
+        "name": "EL",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2e6255ba-f7e1-11ed-bed7-0ad65f88c29f1.png",
+        "isManager": false
+      },
+      {
+        "id": "4644a124-ab40-11ef-b533-0a06db17bc351",
+        "name": "주혜인",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4644a124-ab40-11ef-b533-0a06db17bc351.png",
+        "isManager": false
+      },
+      {
+        "id": "4d41f4e8-f61b-4a1f-a84b-36d31b32ee681",
+        "name": "sy",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4d41f4e8-f61b-4a1f-a84b-36d31b32ee681.png",
+        "isManager": false
+      },
+      {
+        "id": "66315168-2097-11f0-8f78-0aa8d9d4f1fd1",
+        "name": "송다솜",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "isManager": true
+      },
+      {
+        "id": "8bdbd0a8-e43c-11ed-83e4-0a9c04e95e511",
+        "name": "한예은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8bdbd0a8-e43c-11ed-83e4-0a9c04e95e511.png",
+        "isManager": false
+      },
+      {
+        "id": "8d916c97-6bb8-46ee-8807-b7e8a59ac0761",
+        "name": "이원희",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8d916c97-6bb8-46ee-8807-b7e8a59ac0761.png",
+        "isManager": false
+      },
+      {
+        "id": "8f276e22-3c9d-11ec-809a-0afaa2fa8bb51",
+        "name": "김효정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8f276e22-3c9d-11ec-809a-0afaa2fa8bb51.png",
+        "isManager": false
+      },
+      {
+        "id": "c0dce452-f269-4ec4-8ae7-1170f2af092a1",
+        "name": "박수빈",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/c0dce452-f269-4ec4-8ae7-1170f2af092a1.png",
+        "isManager": false
+      },
+      {
+        "id": "e66ff798-cb33-4d25-a300-7fc9f9dca3de1",
+        "name": "이나영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e66ff798-cb33-4d25-a300-7fc9f9dca3de1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "66315168-2097-11f0-8f78-0aa8d9d4f1fd1783911611382",
+        "author": "송다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "category": "공지",
+        "title": "📢 필독 [사유 운영 안내]",
+        "body": "📢 필독 [사유 운영 안내]\n\n\n✔️ 정기 모임 진행 방식\n- 주마다 읽을 책 1권 선정 \n- 각자 완독후, 짧은 독서록 바탕으로 이야기\n- 완독하지 못해도 읽은 만큼 편하게 참여 가능\n\n✔️ 월 회원비 3,000원",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "66315168-2097-11f0-8f78-0aa8d9d4f1fd1768897754735",
+        "author": "송다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "category": "공지",
+        "title": "⭐️오픈채팅 안내",
+        "body": "⭐️오픈채팅 안내\n\n공지 및 안내는 오픈 채팅방을 통해 공유되고 있습니다. 가입인사 작성 후 입장 부탁 드립니다.\n*미작성시 강퇴합니다.\n\n01. 참여 링크:\n\n https://han.gl/k4j51\n\n\n02. 비밀",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "66315168-2097-11f0-8f78-0aa8d9d4f1fd1768132446825",
+        "author": "송다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "category": "모임후기",
+        "title": "📌 짧은 독서록 (책 읽고 써주세요)",
+        "body": "📌 짧은 독서록 (책 읽고 써주세요)\n\n제목\n[몇월몇주차] 책 이름\n\n\n내용\n\n1. 짧은평\n\n\n2. 인상 깊은 문장 (페이지수 포함)\n- \n\n-\n\n-\n\n예시) 문단 밑단에 왜 인상 깊었는지 예시를 쓰셔도 됩니다.\n\n",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "66315168-2097-11f0-8f78-0aa8d9d4f1fd1767826883624",
+        "author": "송다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "category": "가입인사",
+        "title": "[필수 작성] 가입인사 양식 📚🏃🏃‍♀️",
+        "body": "[필수 작성] 가입인사 양식 📚🏃🏃‍♀️\n\n 1. 이름\n:\n 2. 최근에 읽은 책 한 권\n(완독이 아니어도 됩니다)\n:\n 3. 책을 읽는 이유\n:\n 4. 주로 읽는 장르\n(복수 선택 가능)\n:\n 5. 이 모임에 기대",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "16ce69de-21ea-4354-b485-80c5e9c5b1421788339337820",
+        "author": "임상욱",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/16ce69de-21ea-4354-b485-80c5e9c5b1421.png",
+        "category": "모임후기",
+        "title": "[9월1주차] 괴테는 모든 것을 말했다",
+        "body": "[9월1주차] 괴테는 모든 것을 말했다\n\n1. 짧은평\n\n출처가 모호한 명언, 맥락이 잘린 명언들을 자기 것으로 만드는 방법. 결국 명언의 권위나 말 뿐이 중요한 것이 아니다. 그것을 자기 안에서, 자기 삶에서 어떻게",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "eb4f8d5d-f422-40d7-995b-58b0436ba7191788337706250",
+        "author": "권채욱",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/eb4f8d5d-f422-40d7-995b-58b0436ba7191.png",
+        "category": "자유",
+        "title": "[9월 1주차] 괴테는 모든 것을 말했다",
+        "body": "[9월 1주차] 괴테는 모든 것을 말했다\n\n1. 짧은평\n모든 말이 적혔을 땐 나는 무슨 말을 해야하는가.\n\n2. 인상 깊은 문장 (이북이라 페이지를 모르겠어요ㅠㅠ)\n사랑은 모든 것을 혼동시키지 않고 혼연일체로 만든다",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "336b866e-9a30-4d9f-920f-4410e4ae9f971788178273192",
+        "author": "서정훈",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/336b866e-9a30-4d9f-920f-4410e4ae9f971.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n1. 이름\n: 서정훈\n 2. 최근에 읽은 책 한 권\n(완독이 아니어도 됩니다)\n: 1984\n 3. 책을 읽는 이유\n:  바쁜 삶에 여유를 갖기 위해서\n 4. 주로 읽는 장르\n(복수 선택 가능)\n: 고전,",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "2bed0443-8484-488b-a303-78a0dde6403f1788011885370",
+        "author": "제인",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2bed0443-8484-488b-a303-78a0dde6403f1.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n1. 이름\n:정소연\n 2. 최근에 읽은 책 한 권\n(완독이 아니어도 됩니다)\n:명상록\n 3. 책을 읽는 이유\n: 삶의 근간이 흔들려서\n 4. 주로 읽는 장르\n(복수 선택 가능)\n:경제 역사 과학 등\n 5",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "9a09f1ce-bc7a-4af2-9e29-51a70e79add01202609091930",
+        "author": "송다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/66315168-2097-11f0-8f78-0aa8d9d4f1fd1.png",
+        "category": "모임후기",
+        "title": "[정기] 상실의시대 - 무라카미하루키",
+        "body": "📌 정모 정보\n📅 9월 9일(수)\n📍 할리스 종각역점\n💰 각자 음료값\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "28400580-10f1-11eb-a4df-0acd3aef8e061787740209486",
+        "author": "이성민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/28400580-10f1-11eb-a4df-0acd3aef8e061.png",
+        "category": "모임후기",
+        "title": "[8월 4주차]도파민네이션",
+        "body": "[8월 4주차]도파민네이션\n\n1. 짧은평\n5년 전에 읽었을때 난 도대체 뭘했나?\n\n오랜만에 다시 읽으니 지금의 나에게 꼭 필요한 책이었다\n\n아무리 좋은 정보들도 받아들일 준비가 돼있지 않으면 스쳐지나가는 먼지와 다르",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1140c3c6-7bae-11ee-8a8c-0abb802da727178773770766",
+        "author": "양태경",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1140c3c6-7bae-11ee-8a8c-0abb802da7271.png",
+        "category": "모임후기",
+        "title": "[8월4주차]도파민네이션",
+        "body": "[8월4주차]도파민네이션\n\n1. 짧은평\n2021년 뉴욕타임즈 선정 베스트셀러. !?!?\n마약의 예시들은 우리 사회랑 동떨어져서 그런지, 잘 와닿지는 않았고 초장부터 등장한 자위 기계라니 너무 과격한 이야기처럼 들리는",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "e28e3369-b5a4-4426-8e2e-9a03ada966e11787718269889",
+        "author": "김다원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e28e3369-b5a4-4426-8e2e-9a03ada966e11.png",
+        "category": "모임후기",
+        "title": "[8월4주차] 도파민네이션",
+        "body": "[8월4주차] 도파민네이션\n\n1. 짧은평\n우리가 달의 뒷면을 볼 수 없듯이 쾌락의 이면에 고통이 있다는 것은 쉽게 생각하기 힘들다. 조금만 눈을 돌려도 자극적인 컨텐츠가 넘쳐나는 시대에 현대인이라면 한번쯤은 쾌락과 ",
+        "likes": 1,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "0D24F445-E798-4211-A9AD-9C3297A27DD81",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0D24F445-E798-4211-A9AD-9C3297A27DD81.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "FBCEDDE6-4C94-47A3-AE86-6D0AF66EC00F1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/FBCEDDE6-4C94-47A3-AE86-6D0AF66EC00F1.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "957AA948-1EBD-4324-B6C4-1E21E5FF80471",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/957AA948-1EBD-4324-B6C4-1E21E5FF80471.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "ac62e74d-c794-42dc-97ef-3cbe6045cacf1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ac62e74d-c794-42dc-97ef-3cbe6045cacf1.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "cbf341ca-68a5-4018-8647-023240dae6ab1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cbf341ca-68a5-4018-8647-023240dae6ab1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "D93E1FD4-DDBC-447A-A3F4-7C1A9130F6EA1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D93E1FD4-DDBC-447A-A3F4-7C1A9130F6EA1.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "BFF53E61-9A2F-42E9-92F6-FF015C49097E1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/BFF53E61-9A2F-42E9-92F6-FF015C49097E1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "95E24197-EBAF-4C5B-8DA4-1E8F3A827A481",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/95E24197-EBAF-4C5B-8DA4-1E8F3A827A481.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "1D3CB88F-C5C3-4E92-9F79-A9BAD00B211C1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1D3CB88F-C5C3-4E92-9F79-A9BAD00B211C1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "94c26d5d-aa59-406f-b5da-676159d1b7281",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/94c26d5d-aa59-406f-b5da-676159d1b7281.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "E9DAB3AD-FE78-4593-9EFE-8F4B36074FA81",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/E9DAB3AD-FE78-4593-9EFE-8F4B36074FA81.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "657A2026-A405-4191-AAEC-2F9C097994131",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/657A2026-A405-4191-AAEC-2F9C097994131.png",
+        "likes": 0,
+        "comments": 0
+      }
     ]
   },
   {
@@ -189,6 +1161,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202609061005s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "22a5b708-c0c8-11e8-93b7-0ab94bc077881",
+        "name": "이대화",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/22a5b708-c0c8-11e8-93b7-0ab94bc077881.png",
+        "isManager": false
+      },
+      {
+        "id": "3bcdcf06-8ac3-11ea-ae87-0a8b41fdc1a41",
+        "name": "이강현",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3bcdcf06-8ac3-11ea-ae87-0a8b41fdc1a41.png",
+        "isManager": false
+      },
+      {
+        "id": "4023c96a-f500-11e9-b5ba-0a221ff24a421",
+        "name": "슬",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4023c96a-f500-11e9-b5ba-0a221ff24a421.png",
+        "isManager": false
+      },
+      {
+        "id": "6c10ee66-c7cf-11ea-957c-0ab3f09153e01",
+        "name": "박경수",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "isManager": true
+      },
+      {
+        "id": "86fd9c12-b82e-11e4-84a1-22000aad85ef1",
+        "name": "김동현",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/86fd9c12-b82e-11e4-84a1-22000aad85ef1.png",
+        "isManager": false
+      },
+      {
+        "id": "9275d5c8-9952-11e9-b297-0aeaccd864261",
+        "name": "J",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9275d5c8-9952-11e9-b297-0aeaccd864261.png",
+        "isManager": false
+      },
+      {
+        "id": "a4d7ec54-91ae-11ec-8205-0aa0e60e251f1",
+        "name": "하리",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a4d7ec54-91ae-11ec-8205-0aa0e60e251f1.png",
+        "isManager": false
+      },
+      {
+        "id": "eb0eba8a-3aca-11ec-a826-0af70a32e5cd1",
+        "name": "정진욱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/eb0eba8a-3aca-11ec-a826-0af70a32e5cd1.png",
+        "isManager": false
+      },
+      {
+        "id": "f137b3d8-73e9-11eb-84f0-0ae491e220ac1",
+        "name": "로지",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f137b3d8-73e9-11eb-84f0-0ae491e220ac1.png",
+        "isManager": false
+      },
+      {
+        "id": "f6816d9c-c3cb-11ec-991b-0af919ce3c711",
+        "name": "서영임",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f6816d9c-c3cb-11ec-991b-0af919ce3c711.png",
+        "isManager": false
+      },
+      {
+        "id": "f7357486-75f1-11ec-ba2c-0a8713abf3e91",
+        "name": "송현경",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f7357486-75f1-11ec-ba2c-0a8713abf3e91.png",
+        "isManager": false
+      },
+      {
+        "id": "fa6d3658-c929-11ec-b0d6-0a51dc79c7491",
+        "name": "남궁일",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fa6d3658-c929-11ec-b0d6-0a51dc79c7491.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "6c10ee66-c7cf-11ea-957c-0ab3f09153e01673759468905",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "2026년 공지사항",
+        "body": "2026년 공지사항\n\n📌여러분들의 쾌적한 모임 생활을 위해\n공지사항을 몇가지 알려 드립니다.\n\n\n1. 모임은 얼마나 진행 하나요?🕰\n\n >  2~3시간 정도 진행 합니다. \n\n2. 모임은 어떻게 진행 하나요? 📑\n\n",
+        "likes": 159,
+        "comments": 0
+      },
+      {
+        "id": "d23a2660-2ed8-11eb-921e-0a38d987988c1788328976235",
+        "author": "김석준",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d23a2660-2ed8-11eb-921e-0a38d987988c1.png",
+        "category": "자유",
+        "title": "<오디세이아 읽어보기> #2: 오디세우스, 이름을 밝히다.",
+        "body": "<오디세이아 읽어보기> #2: 오디세우스, 이름을 밝히다.\n\n본 글은 새뮤얼 버틀러의 영역본 \"The Odyssey, Rendered into English Prose\"(1900)의 내용을 기반으로 하고 있습니다.\n",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "d23a2660-2ed8-11eb-921e-0a38d987988c1788318812230",
+        "author": "김석준",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d23a2660-2ed8-11eb-921e-0a38d987988c1.png",
+        "category": "자유",
+        "title": "<오디세이아 읽어보기>  #1: 텔레마키아",
+        "body": "<오디세이아 읽어보기>  #1: 텔레마키아\n\n본 글은 새뮤얼 버틀러의 영역본 \"The Odyssey, Rendered into English Prose\"(1900)의 내용을 기반으로 하고 있습니다.\n\n지금까지 스토리",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202609021930",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "9월2일(수) 저녁독서모임",
+        "body": "📌 정모 정보\n📅 9월 2일(수)\n📍 아차산 후문카페\n💰 개인음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202609061005",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "9월6일(일) 자유독서모임",
+        "body": "📌 정모 정보\n📅 9월 6일(일)\n📍 왕십리 뜨아아아\n💰 개인음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "d23a2660-2ed8-11eb-921e-0a38d987988c1787805995572",
+        "author": "김석준",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d23a2660-2ed8-11eb-921e-0a38d987988c1.png",
+        "category": "공지",
+        "title": "[윤슬 독서모임] 가을맞이 익선동 모임 안내",
+        "body": "[윤슬 독서모임] 가을맞이 익선동 모임 안내\n\n안녕하세요, 윤슬 회원 여러분.\n토요일 모임을 진행하고 있는 김석준입니다.\n\n무더웠던 여름이 지나가고 선선한 바람이 불며 가을 정취가 느껴지는 요즘입니다.\n\n가을 초입을",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "d23a2660-2ed8-11eb-921e-0a38d987988c178749047157",
+        "author": "김석준",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d23a2660-2ed8-11eb-921e-0a38d987988c1.png",
+        "category": "모임후기",
+        "title": "26. 08. 22 토요 독서 모임 후기",
+        "body": "26. 08. 22 토요 독서 모임 후기\n\n오늘 소개할 책은 ‘반 고흐, 영혼의 편지’ 입니다.\n\n『반 고흐, 영혼의 편지』는 빈센트 반 고흐가 생전에 동생 테오를 비롯해 화가 고갱, 가족, 동료들과 주고받은 편지 ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "6c10ee66-c7cf-11ea-957c-0ab3f09153e01787490469485",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "26.08.23(일) 독서모임 후기",
+        "body": "26.08.23(일) 독서모임 후기\n\n안녕하세요 여러분\n23일 (일) 독서모임 후기입니다.\n\n여러분들께 소개 할 책은 \n영재님의 ‘캉디드 혹은 낙관주의’ 입니다.\n\n<책 소개>\n가장 유명한 볼테르의 철학소설인 『캉디",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "6c10ee66-c7cf-11ea-957c-0ab3f09153e01787490174675",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "26.08.19(수) 저녁독서모임 후기",
+        "body": "26.08.19(수) 저녁독서모임 후기\n\n안녕하세요 여러분 \n19일(수) 저녁독서모임 후기 입니다.\n\n여러분들께 소개 해 드릴 책은 \n지원님의 ‘심리학으로 읽는 그리스신화’ 입니다.\n\n<책 소개>\n유튜브 [세상을 절",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202608261930",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "8월26일(수) 자유독서모임",
+        "body": "📌 정모 정보\n📅 8월 26일(수)\n📍 군자 사유카페\n💰 개인음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202608291005",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "8월29일(토) 자유독서모임",
+        "body": "📌 정모 정보\n📅 8월 29일(토)\n📍 왕십리 뜨아아아\n💰 개인음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "42d32030-7b8f-11ec-bd4f-0a4ecec0f57f1202608171000",
+        "author": "박경수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c10ee66-c7cf-11ea-957c-0ab3f09153e01.png",
+        "category": "모임후기",
+        "title": "8월17일(월) 단순책읽기 모임",
+        "body": "📌 정모 정보\n📅 8월 17일(월)\n📍 아차산 후문카페\n💰 개인음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "59654271-cd1f-4a0a-8b14-eb40a80bdb6b1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/59654271-cd1f-4a0a-8b14-eb40a80bdb6b1.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "b57c90aa-82d2-49d4-9f68-e5798fdd04e01",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b57c90aa-82d2-49d4-9f68-e5798fdd04e01.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "54793d16-4c5d-4209-9484-a483200141101",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54793d16-4c5d-4209-9484-a483200141101.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "d9bf10c2-f5a5-42d5-9f99-13397783e79b1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d9bf10c2-f5a5-42d5-9f99-13397783e79b1.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "92fe1a71-5b51-4252-8779-715663b28cfb1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/92fe1a71-5b51-4252-8779-715663b28cfb1.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "a78d0cbf-38c2-4f3b-9bb2-14c1221e37f01",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a78d0cbf-38c2-4f3b-9bb2-14c1221e37f01.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "176fbd59-fd37-40f4-892a-f7c1cd6df2801",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/176fbd59-fd37-40f4-892a-f7c1cd6df2801.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "f18071bc-f699-4969-b9d7-db234e7316981",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f18071bc-f699-4969-b9d7-db234e7316981.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "fcaaa6af-1e02-4959-bc75-3628f3421d821",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fcaaa6af-1e02-4959-bc75-3628f3421d821.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "b0663b30-06a0-4439-b476-8b5b03b4c7482",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0663b30-06a0-4439-b476-8b5b03b4c7482.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "b0663b30-06a0-4439-b476-8b5b03b4c7481",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0663b30-06a0-4439-b476-8b5b03b4c7481.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "fe70429c-e4b3-45e8-a7d8-53a9535e6ffc2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fe70429c-e4b3-45e8-a7d8-53a9535e6ffc2.png",
+        "likes": 2,
+        "comments": 0
+      }
     ]
   },
   {
@@ -200,7 +1442,277 @@
     "members": 70,
     "source_url": "https://www.somoim.co.kr/5f684fd2-39b9-11ef-ab2f-0ace312f98011",
     "image_url": "https://d228e474i2d5yf.cloudfront.net/5f684fd2-39b9-11ef-ab2f-0ace312f98011.png",
-    "events": []
+    "events": [],
+    "memberList": [
+      {
+        "id": "5702d55e-6deb-11ef-b8b6-0a8e69d540ef1",
+        "name": "whendy",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5702d55e-6deb-11ef-b8b6-0a8e69d540ef1.png",
+        "isManager": false
+      },
+      {
+        "id": "671be1d2-87c5-11e8-81e8-0aabff824e121",
+        "name": "남해석",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/671be1d2-87c5-11e8-81e8-0aabff824e121.png",
+        "isManager": false
+      },
+      {
+        "id": "698b9b60-9561-11ee-acf0-0accf0eaeda51",
+        "name": "김재진",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/698b9b60-9561-11ee-acf0-0accf0eaeda51.png",
+        "isManager": false
+      },
+      {
+        "id": "70587796-b813-11ed-9433-0a1b7fedc32b1",
+        "name": "박지은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/70587796-b813-11ed-9433-0a1b7fedc32b1.png",
+        "isManager": false
+      },
+      {
+        "id": "710bde54-417d-11ef-ae97-0a27e7afbb9b1",
+        "name": "지",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/710bde54-417d-11ef-ae97-0a27e7afbb9b1.png",
+        "isManager": false
+      },
+      {
+        "id": "715f3884-6040-11ee-9d34-0a4877bf6ad51",
+        "name": "김지은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/715f3884-6040-11ee-9d34-0a4877bf6ad51.png",
+        "isManager": false
+      },
+      {
+        "id": "76dac5b6-7a35-11ef-946f-0a2fb38b42d11",
+        "name": "우제인",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/76dac5b6-7a35-11ef-946f-0a2fb38b42d11.png",
+        "isManager": false
+      },
+      {
+        "id": "7dfeb686-c405-11ee-982b-0aca54fbf6ab1",
+        "name": "나현",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7dfeb686-c405-11ee-982b-0aca54fbf6ab1.png",
+        "isManager": false
+      },
+      {
+        "id": "b20eae5a-6a99-11ef-98e2-0a3bbb2ca7c51",
+        "name": "박주성",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b20eae5a-6a99-11ef-98e2-0a3bbb2ca7c51.png",
+        "isManager": false
+      },
+      {
+        "id": "c9cd179a-d041-11ee-a9b3-0a6c36b0a7f51",
+        "name": "박기태",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/c9cd179a-d041-11ee-a9b3-0a6c36b0a7f51.png",
+        "isManager": false
+      },
+      {
+        "id": "ee26767c-d5c9-11ed-a261-0a6906d4a5251",
+        "name": "공정민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ee26767c-d5c9-11ed-a261-0a6906d4a5251.png",
+        "isManager": false
+      },
+      {
+        "id": "fc44be1e-a666-11ec-8ad8-0af563953bb31",
+        "name": "김재환",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fc44be1e-a666-11ec-8ad8-0af563953bb31.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "44ba71fe-1cb7-46a6-8452-d7f9837040441771985512639",
+        "author": "이영수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/44ba71fe-1cb7-46a6-8452-d7f9837040441.png",
+        "category": "공지",
+        "title": "[모임 가입 전 확인해주세요]",
+        "body": "[모임 가입 전 확인해주세요]\n\n1)가입 후 가입인사 양식을 참고하여 가입인사를 남겨주세요(필수)\n2)참여신청 후 개인사정 상 참여가 어려운 경우 다른 분들의 참여를 위해 D-2 까지는 모임을 취소해주세요.\n3)모임",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "44ba71fe-1cb7-46a6-8452-d7f9837040441756016093615",
+        "author": "이영수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/44ba71fe-1cb7-46a6-8452-d7f9837040441.png",
+        "category": "공지",
+        "title": "🐶 소란 독서모임 시즌2 시작합니다",
+        "body": "🐶 소란 독서모임 시즌2 시작합니다\n\n \n\n 작년 함께했던 소란의 첫 시즌이 끝난 지 벌써 1년이 지났네요.\n\n쉬는 동안에도 \"다시 열리면 좋겠다\"는 이야기를 종종 들었는데, 드디어 시즌2로 돌아옵니다. 🐯\n\n이번 ",
+        "likes": 8,
+        "comments": 0
+      },
+      {
+        "id": "2ff75242-19fc-11eb-b262-0ae7f3e166f61734250283228",
+        "author": "이영수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2ff75242-19fc-11eb-b262-0ae7f3e166f61.png",
+        "category": "가입인사",
+        "title": "[가입인사 양식]",
+        "body": "[가입인사 양식]\n\n1. 이름: \n2. MBTI: \n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(1)집에서 가까운 곳이 짱이지\n(2)공간 분위기가 취향저격인 곳\n(3)맛있는 디저트의 유무\n(4)사장님이 친",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "44ba71fe-1cb7-46a6-8452-d7f9837040441787983694119",
+        "author": "이영수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/44ba71fe-1cb7-46a6-8452-d7f9837040441.png",
+        "category": "공지",
+        "title": "조금 긴 마지막 인사 🙇‍♂️",
+        "body": "조금 긴 마지막 인사 🙇‍♂️\n\n안녕하세요. \n오랜만에 글을 남기게 되었네요.\n다들 잘 지내셨나요? 😀\n\n마지막 모임 이후 어느덧 2개월 정도의 시간이 흘렀네요.\n그동안 모임이 언제 다시 열리는지 종종 쪽지를 보내주",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "1c236f07-dc39-4774-85cd-e5f672c07133178697763840",
+        "author": "생강",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1c236f07-dc39-4774-85cd-e5f672c071331.png",
+        "category": "가입인사",
+        "title": "안녕하세요!",
+        "body": "안녕하세요!\n\n1. 이름: 조창조\n2. MBTI: intj\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(1)집에서 가까운 곳이 짱이지\n(4)사장님이 친절한 곳\n4. 책을 고르는 나만의 기준이 있다면?\n(3",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "3ddb483e-ec1e-11ef-8326-0af72d885e1b1782822268853",
+        "author": "윤빛나",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3ddb483e-ec1e-11ef-8326-0af72d885e1b1.png",
+        "category": "가입인사",
+        "title": "안녕하세요😊",
+        "body": "안녕하세요😊\n\n1. 이름:  윤빛나\n2. MBTI: ENFP\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n\n(2)공간 분위기가 취향저격인 곳\n\n4. 책을 고르는 나만의 기준이 있다면?\n\n(2)주변에서 추천해",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "d2c64092-65fe-11e7-8c84-22000aafc06e1782114495235",
+        "author": "김미경",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d2c64092-65fe-11e7-8c84-22000aafc06e1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름: 김미경\n2. MBTI: infp\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(5)그런거 없슴 그냥 조용하면 돼요\n4. 책을 고르는 나만의 기준이 있다면?\n(2)주변에서 추천해줌\n(3",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "ebfb5180-8dd2-11ee-845f-0a402327de3f1780715071828",
+        "author": "HSM",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ebfb5180-8dd2-11ee-845f-0a402327de3f1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름: 허세민\n\n2. MBTI: ISFP\n\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(1)집에서 가까운 곳이 짱이지\n(2)공간 분위기가 취향저격인 곳\n\n4. 책을 고르는 나만의 기준이 있",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "a5ca3c0e-e4e2-4026-a43a-fe706539f0671780497654840",
+        "author": "이홍규",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a5ca3c0e-e4e2-4026-a43a-fe706539f0671.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 이름: 이홍규\n\n2. MBTI: INTJ\n\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(5)그런거 없슴 그냥 조용하면 돼요\n\n4. 책을 고르는 나만의 기준이 있다면?\n(1)책을 쓴 사람이 ",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "e70975ec-b441-4d60-af84-dcf7bbf7b0341780306166864",
+        "author": "piony",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e70975ec-b441-4d60-af84-dcf7bbf7b0341.png",
+        "category": "자유",
+        "title": "반가워요",
+        "body": "반가워요\n\n1. 이름: 김수지\n2.mbti: infp\n3. 책을 들고 카페 갈 때, 가장 중요한게 있다면?\n(2)공간 분위기가 취향저격인 곳\n(5)그런거 없슴 그냥 조용하면 돼요\n\n4. 책을 고르는 나만의 기준이 있",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "5f684fd2-39b9-11ef-ab2f-0ace312f98011202606281000",
+        "author": "유진",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/c499c56a-2f2a-11ee-938b-0ad57164f52b1.png",
+        "category": "모임후기",
+        "title": "소격동주민센터 제1애착책 투표소 📥",
+        "body": "📌 정모 정보\n📅 6월 28일(일)\n📍 테라로사 국립현대미술관서울점\n💰 2분기 애착책 자랑해주세요 -\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "5f684fd2-39b9-11ef-ab2f-0ace312f98011202606071100",
+        "author": "박지은",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/70587796-b813-11ed-9433-0a1b7fedc32b1.png",
+        "category": "모임후기",
+        "title": "6월의 쉼표, 안국에서⏳",
+        "body": "📌 정모 정보\n📅 6월 7일(일)\n📍 이오이(안국역)\n💰 독서1hr+대화1hr\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 10
+      }
+    ],
+    "photos": [
+      {
+        "id": "1A1B7479-D553-400F-A6BA-575B7EA34DCA1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1A1B7479-D553-400F-A6BA-575B7EA34DCA1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "C1A93A60-D400-415D-9680-6E20C80018DE1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/C1A93A60-D400-415D-9680-6E20C80018DE1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "089A918A-918D-4FD4-B153-A76A7D810B921",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/089A918A-918D-4FD4-B153-A76A7D810B921.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "39EB9B7E-4F6E-454B-AB87-D44D1EBDFC971",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/39EB9B7E-4F6E-454B-AB87-D44D1EBDFC971.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "A51773CA-02A9-46A2-A9D3-C039BF9CF1021",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/A51773CA-02A9-46A2-A9D3-C039BF9CF1021.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "F83196FA-80A7-42A7-95CC-A80B09D9C5661",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/F83196FA-80A7-42A7-95CC-A80B09D9C5661.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "d8c0880f-44a8-4cc4-b343-465504ad84c21",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d8c0880f-44a8-4cc4-b343-465504ad84c21.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "1c425c68-d979-4cbb-8027-8a714f804c8c1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1c425c68-d979-4cbb-8027-8a714f804c8c1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "BFE5E007-B492-4B98-A88A-E2593D6205F81",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/BFE5E007-B492-4B98-A88A-E2593D6205F81.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "255c8739-2ded-418d-9258-19896d9502d01",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/255c8739-2ded-418d-9258-19896d9502d01.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "8147B964-0984-40A2-A975-8FA5EFAEC3B21",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8147B964-0984-40A2-A975-8FA5EFAEC3B21.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "4D2B3208-F843-4BF1-86AE-F563FA4B52531",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4D2B3208-F843-4BF1-86AE-F563FA4B52531.png",
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   },
   {
     "id": "1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1",
@@ -233,6 +1745,276 @@
         "maxMembers": 4,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1202609122200s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "03916be4-b0da-11ed-8ad2-0acbdd58d0491",
+        "name": "현하영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/03916be4-b0da-11ed-8ad2-0acbdd58d0491.png",
+        "isManager": false
+      },
+      {
+        "id": "0b36c984-a225-4fe8-8dd1-b383821911331",
+        "name": "이지영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b36c984-a225-4fe8-8dd1-b383821911331.png",
+        "isManager": false
+      },
+      {
+        "id": "0e94a303-36be-4e42-8539-4ec965438d041",
+        "name": "anne",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0e94a303-36be-4e42-8539-4ec965438d041.png",
+        "isManager": false
+      },
+      {
+        "id": "131f1a44-4877-445e-a9cd-faf0afb652c81",
+        "name": "곰",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/131f1a44-4877-445e-a9cd-faf0afb652c81.png",
+        "isManager": false
+      },
+      {
+        "id": "36ec6423-3391-479d-8b2e-ae96cb88ccaa1",
+        "name": "김준엽",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36ec6423-3391-479d-8b2e-ae96cb88ccaa1.png",
+        "isManager": false
+      },
+      {
+        "id": "54ad658e-a6bc-49a6-afe3-454dac6e3e771",
+        "name": "김요셉",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54ad658e-a6bc-49a6-afe3-454dac6e3e771.png",
+        "isManager": false
+      },
+      {
+        "id": "54e66e13-cd74-4a25-9513-f34ff916107c1",
+        "name": "최인혁",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "isManager": true
+      },
+      {
+        "id": "94d2fd24-f0d7-4f40-924f-5bdadbfe7aae1",
+        "name": "이세라",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/94d2fd24-f0d7-4f40-924f-5bdadbfe7aae1.png",
+        "isManager": false
+      },
+      {
+        "id": "9d8eee11-b19b-4949-962d-4d8ae931eb331",
+        "name": "시골개",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d8eee11-b19b-4949-962d-4d8ae931eb331.png",
+        "isManager": false
+      },
+      {
+        "id": "b5fc1926-ba63-11ee-8839-0acefe4fb1311",
+        "name": "왕정호",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b5fc1926-ba63-11ee-8839-0acefe4fb1311.png",
+        "isManager": false
+      },
+      {
+        "id": "c173b45d-2875-4c3b-83ce-a3b3a45a3dec1",
+        "name": "얀얀",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/c173b45d-2875-4c3b-83ce-a3b3a45a3dec1.png",
+        "isManager": false
+      },
+      {
+        "id": "dc5c0c82-0100-11ef-9e72-0ac331d7d7c51",
+        "name": "박민경",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dc5c0c82-0100-11ef-9e72-0ac331d7d7c51.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "54e66e13-cd74-4a25-9513-f34ff916107c1788085693428",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "공지",
+        "title": "📚 포근북스 정기모임 운영",
+        "body": "📚 포근북스 정기모임 운영\n\n《 포근북스 정기모임 운영기준 》\n\n  ★ 운영방향 ★\n    - 독서·공부·문화활동을 균형 있게 운영하고, 기록·발제·의견공유를 통해 모임의 내실 강화\n\n  ○ 월요일 | 공부·자기계발",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "9d8eee11-b19b-4949-962d-4d8ae931eb331782059662563",
+        "author": "시골개",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d8eee11-b19b-4949-962d-4d8ae931eb331.png",
+        "category": "공지",
+        "title": "📌 포근북스 월 회비 안내",
+        "body": "📌 포근북스 월 회비 안내\n\n포근북스는 함께 책을 읽고 이야기를 나누는 공간을 지속적으로 운영하기 위해 월 회비 3,000원을 받고 있습니다.\n\n회비는 모임 운영과 커뮤니티 활동을 위해 사용됩니다.\n\n💳 모임통장\n ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "9d8eee11-b19b-4949-962d-4d8ae931eb331782052370626",
+        "author": "시골개",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d8eee11-b19b-4949-962d-4d8ae931eb331.png",
+        "category": "공지",
+        "title": "☁️ 포근북스 가입 및 인증 안내",
+        "body": "☁️ 포근북스 가입 및 인증 안내\n\n☁️ 포근북스 가입 및 인증 안내\n\n☁️포근북스는 편안하면서도 신뢰할 수 있는 모임을 지향합니다.\n가입인사와 직업·소속 인증은 회원 간 신뢰 형성과 건강한 모임 문화를 위한 최소한",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "9d8eee11-b19b-4949-962d-4d8ae931eb33178192015219",
+        "author": "시골개",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d8eee11-b19b-4949-962d-4d8ae931eb331.png",
+        "category": "공지",
+        "title": "☁️모임 회칙☁️",
+        "body": "☁️모임 회칙☁️\n\n☁️ 포근북스 회칙\n\n\n1. 모임 소개\n\n☁️포근북스☁️는 독서, 스터디, 자기계발을 통해\n서로의 생각을 나누고 함께 성장하는 모임입니다.\n\n모두가 편안하게 참여할 수 있도록\n아래 회칙을 반드시 ",
+        "likes": 8,
+        "comments": 0
+      },
+      {
+        "id": "9d8eee11-b19b-4949-962d-4d8ae931eb33178188726387",
+        "author": "시골개",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d8eee11-b19b-4949-962d-4d8ae931eb331.png",
+        "category": "가입인사",
+        "title": "☁️가입인사 양식☁️",
+        "body": "☁️가입인사 양식☁️\n\n⭐\n⭐\n⭐\n\n📌 가입인사 양식\n\n이름 :\n\n생년월일 :\n\n거주지 :\n\n직업 :\n\n인사 :)\n(가볍게 한 줄도 OK)\n\nMBTI :\n\n\n\n사진 첨부 :\n •📸 가입인사 사진은 본인 사진이 아니어",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "b4cd81c7-637c-49ac-add6-acb862df7d291788471866336",
+        "author": "송연희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b4cd81c7-637c-49ac-add6-acb862df7d291.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n이름 : 송연희\n\n생년월일 : 1991.04\n\n거주지 : 강동구\n\n직업 : 프리랜서\n\n인사 : 다방면으로 좋은 나눔 할 수 있음 좋겠어요\n(가볍게 한 줄도 OK)\n\nMBTI : ESTJ\n\n\n\n",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "54e66e13-cd74-4a25-9513-f34ff916107c1788307070111",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "공지",
+        "title": "🗒 포근북스 독서·토론 활동지 안내",
+        "body": "🗒 포근북스 독서·토론 활동지 안내\n\n★ 제작취지 ★\n포근북스 자유독서 및 지정독서 모임에서 공통으로 활용할 수 있도록 독서·토론 활동지 양식을 제작하였습니다.\n\n이번 활동지는 단순한 독서 기록을 넘어, 책의 내용을",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1202609122200",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "모임후기",
+        "title": "📷 사진전시《Martin Parr》",
+        "body": "📌 정모 정보\n📅 9월 12일(토)\n📍 서울시립 사진미술관\n💰 무료전시\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1202609021930",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "모임후기",
+        "title": "수요 자유독서",
+        "body": "📌 정모 정보\n📅 9월 2일(수)\n📍 Elephant Coffee(길동역)\n💰 개인음료\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1202609041930",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "모임후기",
+        "title": "금요 지정독서(싯다르타)",
+        "body": "📌 정모 정보\n📅 9월 4일(금)\n📍 온더브레드 강동점\n💰 개인음료\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "1eacdcc5-0cc2-4999-b6bf-a7c25e0661ea1202608311930",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "모임후기",
+        "title": "공부·업무·자기계발",
+        "body": "📌 정모 정보\n📅 8월 31일(월)\n📍 투썸플레이스 천호역점\n💰 개인음료\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "54e66e13-cd74-4a25-9513-f34ff916107c1787838218101",
+        "author": "최인혁",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/54e66e13-cd74-4a25-9513-f34ff916107c1.png",
+        "category": "자유",
+        "title": "26. 8. 27. 돼지고기  치이익 정산",
+        "body": "26. 8. 27. 돼지고기  치이익 정산\n\n📌 8/27 정산 안내\n  ○ 개인별 부담금\n    - 태영: 44,700원\n    - 인혁: 44,700원\n----------------------입금계좌--------",
+        "likes": 0,
+        "comments": 2
+      }
+    ],
+    "photos": [
+      {
+        "id": "bf9313ad-80fe-4a22-b4f2-e5bad7daec721",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/bf9313ad-80fe-4a22-b4f2-e5bad7daec721.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e57",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e57.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e56",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e56.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e54",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e54.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e53",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e53.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e52",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e52.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "36fd3b24-90f3-40da-8c19-471e976a17e51",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/36fd3b24-90f3-40da-8c19-471e976a17e51.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "fe5a4a5d-0f34-406e-a84b-b7b8926efb2e1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fe5a4a5d-0f34-406e-a84b-b7b8926efb2e1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "03c6dbc5-9e3e-4c96-b2f2-abe315eb157b1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/03c6dbc5-9e3e-4c96-b2f2-abe315eb157b1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "50edbcff-ebce-48c7-a6bc-d442671e388c1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/50edbcff-ebce-48c7-a6bc-d442671e388c1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "da7b57e1-3974-4a29-bce6-00bf35a5cf141",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/da7b57e1-3974-4a29-bce6-00bf35a5cf141.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "cfb8a4c6-11a3-48e9-b4bd-9e4f4fa9d0181",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cfb8a4c6-11a3-48e9-b4bd-9e4f4fa9d0181.png",
+        "likes": 2,
+        "comments": 0
       }
     ]
   },
@@ -290,6 +2072,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/642d3ea2-2c8d-413b-ad62-003012a2c9bb1202609221900s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "445e3b42-c95d-11ee-8808-0ae9d2257b2f1",
+        "name": "이연우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/445e3b42-c95d-11ee-8808-0ae9d2257b2f1.png",
+        "isManager": false
+      },
+      {
+        "id": "46b4174e-a05b-11ed-838c-0a50fe73ab711",
+        "name": "소소",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/46b4174e-a05b-11ed-838c-0a50fe73ab711.png",
+        "isManager": false
+      },
+      {
+        "id": "5a0e6c74-138a-11ef-a1b6-0a212680b6931",
+        "name": "홍감독",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5a0e6c74-138a-11ef-a1b6-0a212680b6931.png",
+        "isManager": false
+      },
+      {
+        "id": "6203dc08-d341-11ef-b599-0aa7c4da9f1d1",
+        "name": "나래",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6203dc08-d341-11ef-b599-0aa7c4da9f1d1.png",
+        "isManager": false
+      },
+      {
+        "id": "89991998-d6d1-11ef-96ca-0a644a5b85ff1",
+        "name": "이른봄",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/89991998-d6d1-11ef-96ca-0a644a5b85ff1.png",
+        "isManager": false
+      },
+      {
+        "id": "90b68522-69d4-11ef-bd16-0a8d06220c9b1",
+        "name": "징구",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/90b68522-69d4-11ef-bd16-0a8d06220c9b1.png",
+        "isManager": false
+      },
+      {
+        "id": "93471608-cead-11e3-b0e3-22000a7d85db1",
+        "name": "준",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/93471608-cead-11e3-b0e3-22000a7d85db1.png",
+        "isManager": false
+      },
+      {
+        "id": "9d6b64fc-ccfa-11ef-adcd-0a355efa7ab31",
+        "name": "김지혜",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d6b64fc-ccfa-11ef-adcd-0a355efa7ab31.png",
+        "isManager": true
+      },
+      {
+        "id": "afa37a57-6143-4805-b617-5f7b73f8eab61",
+        "name": "보리",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/afa37a57-6143-4805-b617-5f7b73f8eab61.png",
+        "isManager": false
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1",
+        "name": "오노레김",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "isManager": false
+      },
+      {
+        "id": "d2e247e6-c9a2-11ef-bb81-0aceff19684d1",
+        "name": "쿨쏭",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d2e247e6-c9a2-11ef-bb81-0aceff19684d1.png",
+        "isManager": false
+      },
+      {
+        "id": "dec7acca-5ea6-11ef-9b09-0afd35c1867b1",
+        "name": "그레이스킴",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dec7acca-5ea6-11ef-9b09-0afd35c1867b1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "dec7acca-5ea6-11ef-9b09-0afd35c1867b1783778620684",
+        "author": "그레이스킴",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dec7acca-5ea6-11ef-9b09-0afd35c1867b1.png",
+        "category": "공지",
+        "title": "🌎✨독서행성 SNS & 아카이브는 여기👉📖",
+        "body": "🌎✨독서행성 SNS & 아카이브는 여기👉📖\n\n🌍📚 독서행성이 더 넓은 세상으로 출발합니다! 🚀\n독서행성이 이제 소모임을 넘어 다양한 플랫폼에서 여러분을 만납니다! 😊\n\n📸 Instagram 인스타그램\n모임 스케치, ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1781089844669",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "공지",
+        "title": "<독서행성 2026년 3분기 일정 및 책> 20260610",
+        "body": "<독서행성 2026년 3분기 일정 및 책> 20260610\n\n<독서행성 2026년 3분기 일정 및 책> 20260610 \n\n“독서행성은 책을 함께 읽고 대화, 토론(자전과 공전)을 통해 꿈을 꾸거나 미래(항성)를 모",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1767227944277",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "공지",
+        "title": "<독서행성 개념어사전 2026>",
+        "body": "<독서행성 개념어사전 2026>\n\n<독서행성 개념어사전 2026>\n\n▶세미나\n격주 화요일마다 한권의 책을 중심으로 진행하는 독서 토론으로, 독서행성의 가장 대표적인 정모. 보통 시낭송-발제-자유 및 주제토론-날적이 ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1767011171103",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "공지",
+        "title": "<독서행성 팩트시트 2025(잠정)>",
+        "body": "<독서행성 팩트시트 2025(잠정)>\n\n\n독서행성 팩트시트 2025(잠정)\n\n<정모>\n▶59회의 탐험=독성행성이 2025년 오프라인에서 개최한 각종 정기모임의 횟수. \n*6개 형식=독서행성이 2025년 개최한 59개",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "9d6b64fc-ccfa-11ef-adcd-0a355efa7ab31747176423664",
+        "author": "김지혜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d6b64fc-ccfa-11ef-adcd-0a355efa7ab31.png",
+        "category": "공지",
+        "title": "<독서 행성> 회비 공지",
+        "body": "<독서 행성> 회비 공지\n\n<세미나 참석 컨펌=3일 전까지 회비 납부>\n모임 이틀전 최종 참석자가 확정되어야, 그에 맞는 세미나룸 예약& 확보가 원활해 집니다\n이에, 회비는 d-2까지 사전 납부가 원칙입니다\n세미나 ",
+        "likes": 10,
+        "comments": 1
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1788422668374",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "모임후기",
+        "title": "<발제문> 바이넘의 [과학의 역사] 제1회차 1~18장",
+        "body": "<발제문> 바이넘의 [과학의 역사] 제1회차 1~18장\n\n<발제문> 바이넘의 [과학의 역사] 제1회차 1~18장\n\n\n▶책의 의미와 특징\n-고대 문명부터 디지털 시대까지 인류 역사를 바꾼 핵심 과학 개념과 과학자들의 ",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "dec7acca-5ea6-11ef-9b09-0afd35c1867b1788230234349",
+        "author": "그레이스킴",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dec7acca-5ea6-11ef-9b09-0afd35c1867b1.png",
+        "category": "자유",
+        "title": "오딧세이: 인생의 가장 큰 유혹은? 안락함 by 칼립소",
+        "body": "오딧세이: 인생의 가장 큰 유혹은? 안락함 by 칼립소\n\n비오는 날 공감글!!\n\n\n",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1788072294150",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "모임후기",
+        "title": "<항해지도> 책토리 바이넘의 [과학의 역사]",
+        "body": "<항해지도> 책토리 바이넘의 [과학의 역사]\n\n<항해지도> 책토리 바이넘의 [과학의 역사]\n\n\n역사, 특히 세계사를 바꾸는 힘은 어디에서 오는 것일까요. 아마 사람들의 대답은 제각각일 겁니다. 어떤 사람들은 기후나 ",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "dec7acca-5ea6-11ef-9b09-0afd35c1867b1788008682343",
+        "author": "그레이스킴",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dec7acca-5ea6-11ef-9b09-0afd35c1867b1.png",
+        "category": "공지",
+        "title": "항해지도:9/5(토)오전10시 세계문화유산 \"남한산성\"으로 오세요!",
+        "body": "항해지도:9/5(토)오전10시 세계문화유산 \"남한산성\"으로 오세요!\n\n\n\n유네스코로부터 세계문화유산으로 인정받은 “남한산성”에 가보신 적 있으신가요?\n이곳은 신라시대부터 지형을 살려만든 산성으로 조선시대 안조때 계획",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1787805403196",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "모임후기",
+        "title": "<낭송시> 에밀리 디킨슨의 <성공>",
+        "body": "<낭송시> 에밀리 디킨슨의 <성공>\n\n<낭송시> 에밀리 디킨슨의 <성공>\n\n\n성공은 한 번도 성공하지 못한 사람에게\n가장 달콤하게 여겨지지\n과일즙의 참맛을 알려면 \n가장 쓰라린 허기가 필요하지\n\n오늘 깃발을 들고 있",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1787805374973",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "모임후기",
+        "title": "<탐험록> 카워딘의 [통합의 리더 대통령 링컨] 20260825",
+        "body": "<탐험록> 카워딘의 [통합의 리더 대통령 링컨] 20260825\n\n<탐험록> 카워딘의 [통합의 리더 대통령 링컨] 20260825\n\n\n...욕망의 세계에서는 결코 보이지 않지만 공감하고 연민하는 상상의 세계에선 무엇",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1787733410296",
+        "author": "오노레김",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1d3ad6e-9d65-11ee-8367-0abc4b62b63b1.png",
+        "category": "모임후기",
+        "title": "<낭송시> 쉼보르스카의 <인생이란... 기다림>",
+        "body": "<낭송시> 쉼보르스카의 <인생이란... 기다림>\n\n<낭송시> 쉼보르스카의 <인생이란... 기다림>\n\n\n인생이란... 기다림.\n리허설을 생략한 공연.\n사이즈 없는 몸.\n사고가 거세된 머리.\n\n내가 연기하고 있는 이 배",
+        "likes": 2,
+        "comments": 1
+      }
+    ],
+    "photos": [
+      {
+        "id": "8E0069F5-F551-4E4A-B56C-8CE2DBF8CCF42",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E0069F5-F551-4E4A-B56C-8CE2DBF8CCF42.png",
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "8E0069F5-F551-4E4A-B56C-8CE2DBF8CCF41",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E0069F5-F551-4E4A-B56C-8CE2DBF8CCF41.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "99785608-E6CD-4A26-BAB7-6AAE05E017793",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/99785608-E6CD-4A26-BAB7-6AAE05E017793.png",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "99785608-E6CD-4A26-BAB7-6AAE05E017792",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/99785608-E6CD-4A26-BAB7-6AAE05E017792.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "99785608-E6CD-4A26-BAB7-6AAE05E017791",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/99785608-E6CD-4A26-BAB7-6AAE05E017791.png",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "674169FC-41BC-46C6-A190-736D2AAE232E2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/674169FC-41BC-46C6-A190-736D2AAE232E2.png",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "674169FC-41BC-46C6-A190-736D2AAE232E1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/674169FC-41BC-46C6-A190-736D2AAE232E1.png",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "5c997fe1-d476-4578-94ec-e8f74799cd621",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5c997fe1-d476-4578-94ec-e8f74799cd621.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "291B47F3-3A46-4DED-88E4-865337271E1E1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/291B47F3-3A46-4DED-88E4-865337271E1E1.png",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "61298A20-296F-4CCB-A852-769A44954E683",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/61298A20-296F-4CCB-A852-769A44954E683.png",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "61298A20-296F-4CCB-A852-769A44954E682",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/61298A20-296F-4CCB-A852-769A44954E682.png",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "61298A20-296F-4CCB-A852-769A44954E681",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/61298A20-296F-4CCB-A852-769A44954E681.png",
+        "likes": 1,
+        "comments": 0
+      }
     ]
   },
   {
@@ -312,6 +2364,56 @@
         "maxMembers": 4,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/f58d6afd-7628-4eb3-b455-392951e12ae61202609062000s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "0f585126-5251-4a93-befd-3de8cea5358b1",
+        "name": "킵고잉",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0f585126-5251-4a93-befd-3de8cea5358b1.png",
+        "isManager": false
+      },
+      {
+        "id": "46fc4fe2-a697-4d61-9b20-61d0e1a87dd11",
+        "name": "Jo",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/46fc4fe2-a697-4d61-9b20-61d0e1a87dd11.png",
+        "isManager": true
+      },
+      {
+        "id": "de57ed32-b9d4-455b-82dd-b692423b76441",
+        "name": "김서림",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/de57ed32-b9d4-455b-82dd-b692423b76441.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "f58d6afd-7628-4eb3-b455-392951e12ae61202609062000",
+        "author": "Jo",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/46fc4fe2-a697-4d61-9b20-61d0e1a87dd11.png",
+        "category": "모임후기",
+        "title": "정규 모임",
+        "body": "📌 정모 정보\n📅 9월 6일(일)\n📍 메가커피 둔촌고사거리점\n💰 개인음료\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "f58d6afd-7628-4eb3-b455-392951e12ae6120260830930",
+        "author": "JO",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/46fc4fe2-a697-4d61-9b20-61d0e1a87dd11.png",
+        "category": "모임후기",
+        "title": "자유독서",
+        "body": "📌 정모 정보\n📅 8월 30일(일)\n📍 이디야커피 옥포점\n💰 개인음료\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      }
+    ],
+    "photos": [
+      {
+        "id": "a605803c-8a22-4e3b-9c1b-d0c2a1f6a9a11",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a605803c-8a22-4e3b-9c1b-d0c2a1f6a9a11.png",
+        "likes": 0,
+        "comments": 0
       }
     ]
   },
@@ -357,6 +2459,210 @@
         "maxMembers": 8,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/673a3b38-e813-465e-ab5e-54381028e2071202610031700s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "0b007e67-a20f-49a5-83be-cc31ec8b286c1",
+        "name": "박지영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0b007e67-a20f-49a5-83be-cc31ec8b286c1.png",
+        "isManager": false
+      },
+      {
+        "id": "340ee1fa-9519-402e-a985-2a0fa1e2fdfc1",
+        "name": "다솜",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/340ee1fa-9519-402e-a985-2a0fa1e2fdfc1.png",
+        "isManager": true
+      },
+      {
+        "id": "354d1c09-1f09-4758-8280-abee7a6d73851",
+        "name": "정창",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/354d1c09-1f09-4758-8280-abee7a6d73851.png",
+        "isManager": false
+      },
+      {
+        "id": "38c03ea4-ddd1-4bf7-8c8f-b3c86fa45ea21",
+        "name": "혜",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/38c03ea4-ddd1-4bf7-8c8f-b3c86fa45ea21.png",
+        "isManager": false
+      },
+      {
+        "id": "3ae5616a-faad-4746-a64b-217c3cb9b64b1",
+        "name": "김효정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3ae5616a-faad-4746-a64b-217c3cb9b64b1.png",
+        "isManager": false
+      },
+      {
+        "id": "4cf61f2b-7278-40fd-889c-fb8f0c0257991",
+        "name": "돌멩이",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4cf61f2b-7278-40fd-889c-fb8f0c0257991.png",
+        "isManager": false
+      },
+      {
+        "id": "5ddf3a6f-1d42-4057-b0fd-42bb6a9cc45b1",
+        "name": "김서영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5ddf3a6f-1d42-4057-b0fd-42bb6a9cc45b1.png",
+        "isManager": false
+      },
+      {
+        "id": "8cdf7d4c-9819-11ee-9dc6-0aeeadd7a50b1",
+        "name": "상현",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8cdf7d4c-9819-11ee-9dc6-0aeeadd7a50b1.png",
+        "isManager": false
+      },
+      {
+        "id": "d7174706-e409-11ed-94b3-0a8ff1270d491",
+        "name": "이민우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d7174706-e409-11ed-94b3-0a8ff1270d491.png",
+        "isManager": false
+      },
+      {
+        "id": "da4846e1-38e1-4f8e-a393-66eac36a626e1",
+        "name": "이지수",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/da4846e1-38e1-4f8e-a393-66eac36a626e1.png",
+        "isManager": false
+      },
+      {
+        "id": "db02c67a-86f2-47cd-a8b6-72384f963b0c1",
+        "name": "당나귀",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/db02c67a-86f2-47cd-a8b6-72384f963b0c1.png",
+        "isManager": false
+      },
+      {
+        "id": "ef9a4d1b-ebe6-4d92-9441-a103b6ae7c791",
+        "name": "도토리",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ef9a4d1b-ebe6-4d92-9441-a103b6ae7c791.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "4cf61f2b-7278-40fd-889c-fb8f0c0257991773449345102",
+        "author": "돌멩이",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4cf61f2b-7278-40fd-889c-fb8f0c0257991.png",
+        "category": "공지",
+        "title": "함께 읽고 싶은 책을 추천해 주세요 📚",
+        "body": "함께 읽고 싶은 책을 추천해 주세요 📚\n\n\n안녕하세요, ‘Mute’ 멤버 여러분!\n\n여러분들이 평소에 눈여겨보셨거나, \n혼자 읽기 아쉬워서 꼭 함께 이야기해 보고 싶었던 책을 직접 추천받아 보려고 합니다. \n\n장르나",
+        "likes": 5,
+        "comments": 9
+      },
+      {
+        "id": "340ee1fa-9519-402e-a985-2a0fa1e2fdfc1769669819718",
+        "author": "다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/340ee1fa-9519-402e-a985-2a0fa1e2fdfc1.png",
+        "category": "가입인사",
+        "title": "가입 신청 안내",
+        "body": "가입 신청 안내\n\n정기 모임에 참여하기 위해서는 먼저 아래의 양식에 따른 가입 신청을 필히 완료해 주셔야 합니다. 가입 신청을 해주신 분들에 한해 모임 참여가 가능합니다. \n\n가입 신청 양식\n아래의 항목을 작성하여 ",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "340ee1fa-9519-402e-a985-2a0fa1e2fdfc1769667615432",
+        "author": "다솜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/340ee1fa-9519-402e-a985-2a0fa1e2fdfc1.png",
+        "category": "공지",
+        "title": "모임 규칙",
+        "body": "모임 규칙\n\n안녕하세요. 뮤트 운영진입니다.\n\n우리는 각자 귀한 시간을 내어 책을 통해 소통하는 시간을 함께하고 있습니다. 모두가 편안하고 깊이 있는 대화에 몰입할 수 있도록, 운영진에서는 부득이하게 모임의 분위기를",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "db02c67a-86f2-47cd-a8b6-72384f963b0c1769597422902",
+        "author": "하늘",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/db02c67a-86f2-47cd-a8b6-72384f963b0c1.png",
+        "category": "공지",
+        "title": "현재까지 독서모임 책 리스트",
+        "body": "현재까지 독서모임 책 리스트\n\n1. 명인\n2. 남아 있는 나날\n3. 모비딕\n4. 달과 6펜스\n5. 면도날\n6. 색채가 없는 다자키 쓰쿠루와 그가 순례를 떠난 해\n7. 탕비실\n8. 축복을 비는 마음\n9. 당신의 이름을",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "673a3b38-e813-465e-ab5e-54381028e2071202610031700",
+        "author": "돌멩이",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4cf61f2b-7278-40fd-889c-fb8f0c0257991.png",
+        "category": "자유",
+        "title": "아베 코보 - 《모래의 여자》",
+        "body": "📌 정모 정보\n📅 10월 3일(토)\n📍 사당 카페이루\n💰 각자 음료 계산\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "673a3b38-e813-465e-ab5e-54381028e2071202609191900",
+        "author": "정창",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/354d1c09-1f09-4758-8280-abee7a6d73851.png",
+        "category": "자유",
+        "title": "좁은 문 - 앙드레 지드",
+        "body": "📌 정모 정보\n📅 9월 19일(토)\n📍 사당 카페 이루\n💰 각자 커피 계산\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7927405d-965c-46e2-8c00-bcee0ef9c8b11787544030705",
+        "author": "박소연",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7927405d-965c-46e2-8c00-bcee0ef9c8b11.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 닉네임: 소연\n2. 나이: 2000년생\n3. 1년 평균 독서량: 50권가량\n4. 독서 모임에서 가장 중요하게 생각하는 점은?: 독서모임이 처음이라 잘 모르겠습니다 책이 가장 중요하지 않을까요..?\n5",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "4cf61f2b-7278-40fd-889c-fb8f0c0257991787458321873",
+        "author": "돌멩이",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4cf61f2b-7278-40fd-889c-fb8f0c0257991.png",
+        "category": "모임후기",
+        "title": "📎 Mute vol.13  《향연》",
+        "body": "📎 Mute vol.13  《향연》\n\n\n📚 플라톤 - 《향연》\n\n📅 26.08.22 (토) - 사당 카페이루\n\n🎤 진행자: 당나귀\n\n👥 참석 멤버: 돌멩이, 지영, 민우, 다솜, 민경, 예지, 지수\n\n\n📝 모임 후기",
+        "likes": 8,
+        "comments": 2
+      },
+      {
+        "id": "12e0e8de-0816-11ee-8178-0a535384d88f1786629415595",
+        "author": "김기웅",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/12e0e8de-0816-11ee-8178-0a535384d88f1.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n1. 닉네임(모임에서 불리고 싶은 이름을 적어주세요.) : 기웅\n2. 나이: 1995년생\n3. 1년 평균 독서량: 10권 정도\n4. 독서 모임에서 가장 중요하게 생각하는 점은?\n:  지정독서 종류\n5. ",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "cb415fdb-a98d-42c5-afdb-09ccf66f63b61786615515858",
+        "author": "김혜진",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cb415fdb-a98d-42c5-afdb-09ccf66f63b61.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 나이 : 38살\n\n2. 닉네임 : 혜진\n\n3. 1년 평균 독서량 : 2주에 1권 정도..\n\n4. 독서모임에서 가장 중요하게 생각하는 점? 소통과 토론이라고 생각합니다.\n\n5. 독서모임을 통해 함께 읽",
+        "likes": 4,
+        "comments": 2
+      },
+      {
+        "id": "cd5e79d1-b7c2-4d92-bc1a-fff2ffbb38fe1786530811572",
+        "author": "다현",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cd5e79d1-b7c2-4d92-bc1a-fff2ffbb38fe1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 닉네임(모임에서 불리고 싶은 이름을 적어주세요.)\n다현\n\n2. 나이\n1996년생\n\n3. 1년 평균 독서량\n2권\n\n4. 독서 모임에서 가장 중요하게 생각하는 점은?\n솔직하게 자기의견을 표현하는것\n\n5.",
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "e09b3013-4d06-4e68-9bb4-46af241f5a591786529042363",
+        "author": "권예지",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e09b3013-4d06-4e68-9bb4-46af241f5a591.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 닉네임(모임에서 불리고 싶은 이름을 적어주세요.)\n예지\n\n2. 나이\n1997년생\n\n3. 1년 평균 독서량\n3권\n\n4. 독서 모임에서 가장 중요하게 생각하는 점은?\n본인의 생각을 각자 잘 말할 수 있는",
+        "likes": 3,
+        "comments": 3
+      }
+    ],
+    "photos": [
+      {
+        "id": "93362EB0-A463-4FFF-99D4-608502DC87781",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/93362EB0-A463-4FFF-99D4-608502DC87781.png",
+        "likes": 3,
+        "comments": 1
       }
     ]
   },
@@ -414,6 +2720,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/86916fce-b463-11ef-8b63-0a7bc75226211202609291930s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "00c56dd0-7699-11ef-81db-0aaea32bbd5d1",
+        "name": "횬지",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/00c56dd0-7699-11ef-81db-0aaea32bbd5d1.png",
+        "isManager": false
+      },
+      {
+        "id": "276fc2ac-b463-11ef-ad77-0aa790f9dced1",
+        "name": "희야",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/276fc2ac-b463-11ef-ad77-0aa790f9dced1.png",
+        "isManager": false
+      },
+      {
+        "id": "34372fda-b46d-11ee-80b7-0abdbb36b77f1",
+        "name": "유성욱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/34372fda-b46d-11ee-80b7-0abdbb36b77f1.png",
+        "isManager": false
+      },
+      {
+        "id": "570f8a90-a3e4-11ef-9bd6-0ac975383d951",
+        "name": "우지선",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/570f8a90-a3e4-11ef-9bd6-0ac975383d951.png",
+        "isManager": false
+      },
+      {
+        "id": "728c062a-cb00-11ef-97cb-0a9ec61c34431",
+        "name": "허정하",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/728c062a-cb00-11ef-97cb-0a9ec61c34431.png",
+        "isManager": false
+      },
+      {
+        "id": "77cc22b8-b45e-11ef-a455-0a7bc75226211",
+        "name": "오영민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/77cc22b8-b45e-11ef-a455-0a7bc75226211.png",
+        "isManager": false
+      },
+      {
+        "id": "8aad3b76-a3e5-11ef-af92-0aeecf6acce71",
+        "name": "김동욱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8aad3b76-a3e5-11ef-af92-0aeecf6acce71.png",
+        "isManager": true
+      },
+      {
+        "id": "a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451",
+        "name": "현정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "isManager": false
+      },
+      {
+        "id": "b4e505e4-d09b-11ef-9f8b-0a5f0dc91a911",
+        "name": "소녀소녀소녀",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b4e505e4-d09b-11ef-9f8b-0a5f0dc91a911.png",
+        "isManager": false
+      },
+      {
+        "id": "bc15193a-b179-11ef-8581-0a50c97ef84f1",
+        "name": "은뚱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/bc15193a-b179-11ef-8581-0a50c97ef84f1.png",
+        "isManager": false
+      },
+      {
+        "id": "f0bf92ea-683e-11ed-a1e9-0ac25e9bd28d1",
+        "name": "양지은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f0bf92ea-683e-11ed-a1e9-0ac25e9bd28d1.png",
+        "isManager": false
+      },
+      {
+        "id": "f44e1374-f9ff-11ee-94cb-0aec54f7df3f1",
+        "name": "한겨울",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f44e1374-f9ff-11ee-94cb-0aec54f7df3f1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451757477155146",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "공지",
+        "title": "회비계좌공지",
+        "body": "회비계좌공지\n\nKB국민은행 367202-04-036548\n\n예금주: 권*정\n\n\n소모임앱 운영비 입니다\n\n매달 천원씩 부탁드려요 🙏",
+        "likes": 6,
+        "comments": 3
+      },
+      {
+        "id": "8aad3b76-a3e5-11ef-af92-0aeecf6acce71747129587544",
+        "author": "김동욱",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8aad3b76-a3e5-11ef-af92-0aeecf6acce71.png",
+        "category": "공지",
+        "title": "📢 [북적북적 음료 마일리지 적립 안내]",
+        "body": "📢 [북적북적 음료 마일리지 적립 안내]\n\n안녕하세요, 북적북적 회원 여러분! \n\n모임 참석 시, 여러분께서 차를 주문하실 때 \"0601\" 번호로 마일리지를 적립해 주시면 감사하겠습니다.\n\n✅ 적립된 마일리지는 어떻",
+        "likes": 10,
+        "comments": 1
+      },
+      {
+        "id": "bc15193a-b179-11ef-8581-0a50c97ef84f173415602310",
+        "author": "은뚱",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/bc15193a-b179-11ef-8581-0a50c97ef84f1.png",
+        "category": "공지",
+        "title": "자기소개 양식",
+        "body": "자기소개 양식\n\n✏️이름 : \n✏️성별:\n✏️생년월일: \n✏️거주지/근무지: \n✏️좋아하는 문구 또는 나를 표현할 수 있는 한 줄은?",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "f0257e78-6c73-11e4-9abd-22000aac9da61788240854742",
+        "author": "이명준",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f0257e78-6c73-11e4-9abd-22000aac9da61.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n✏️이름 : 이명준\n✏️성별:남\n✏️생년월일: 81.11.27\n✏️거주지/근무지: 구디/인천\n✏️좋아하는 문구 또는 나를 표현할 수 있는 한 줄은? I don't know why but it sounds",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "2842d3b4-d070-43da-a9ec-3cb767fae4621788149649590",
+        "author": "샘송",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2842d3b4-d070-43da-a9ec-3cb767fae4621.png",
+        "category": "가입인사",
+        "title": "가입인사드립니다",
+        "body": "가입인사드립니다\n\n✏️이름 : 송형근\n✏️성별: 남\n✏️생년월일: 1986.01.12\n✏️거주지/근무지: 서울 중구\n✏️좋아하는 문구 또는 나를 표현할 수 있는 한 줄은?\n\n매사에서 배우고 범사에 감사하자",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "32d42916-5bec-11e8-ae11-0a552bf95cdc1787731494537",
+        "author": "Sophia",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/32d42916-5bec-11e8-ae11-0a552bf95cdc1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n이름 : 박범영 \n✏️성별: 여\n✏️생년월일: 80년 \n✏️거주지/근무지: 산본\n✏️좋아하는 문구 또는 나를 표현할 수 있는 한 줄은? \n       아모르 파티~!",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "86916fce-b463-11ef-8b63-0a7bc75226211202609291930",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "모임후기",
+        "title": "📕 자유도서",
+        "body": "📌 정모 정보\n📅 9월 29일(화)\n📍 카페이루 서울 관악구 남부순환로272\n💰 💰한달 회비 1000원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "86916fce-b463-11ef-8b63-0a7bc75226211202609221930",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "모임후기",
+        "title": "📙 자유도서",
+        "body": "📌 정모 정보\n📅 9월 22일(화)\n📍 카페이루 서울 관악구 남부순환로272\n💰 💰한달 회비 1000원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "88ec8bc0-c8ac-11ea-99f6-0ac2deb240361785840374651",
+        "author": "80김형민",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/88ec8bc0-c8ac-11ea-99f6-0ac2deb240361.png",
+        "category": "자유",
+        "title": "잘 부탁드립니다.",
+        "body": "잘 부탁드립니다.\n\n✏️이름 : 김형민\n✏️성별: 남\n✏️생년월일: 80.05.04\n✏️거주지/근무지: 안산/종로\n✏️좋아하는 문구 또는 나를 표현할 수 있는 한 줄은? \n    -무엇에 대해 꿈꿀 수 잇다면 그것을",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "86916fce-b463-11ef-8b63-0a7bc75226211202609151930",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "모임후기",
+        "title": "📙 자유도서",
+        "body": "📌 정모 정보\n📅 9월 15일(화)\n📍 카페이루 서울 관악구 남부순환로272\n💰 💰한달 회비 1000원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "86916fce-b463-11ef-8b63-0a7bc75226211202609081930",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "모임후기",
+        "title": "📘 자유도서",
+        "body": "📌 정모 정보\n📅 9월 8일(화)\n📍 카페이루 서울 관악구 남부순환로272\n💰 💰한달 회비 1000원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "86916fce-b463-11ef-8b63-0a7bc75226211202609011930",
+        "author": "현정",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a2bd859c-b9af-11ef-8f4e-0a41e9a6f9451.png",
+        "category": "모임후기",
+        "title": "📗 자유도서",
+        "body": "📌 정모 정보\n📅 9월 1일(화)\n📍 카페이루 서울 관악구 남부순환로272\n💰 💰한달 회비 1000원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 2,
+        "comments": 1
+      }
+    ],
+    "photos": [
+      {
+        "id": "6742819c-a6d2-42ff-b9e5-29c53f8c61062",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6742819c-a6d2-42ff-b9e5-29c53f8c61062.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6742819c-a6d2-42ff-b9e5-29c53f8c61061",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6742819c-a6d2-42ff-b9e5-29c53f8c61061.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D501DB5E-4A3B-4BEB-8725-7D992FEEA4111",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D501DB5E-4A3B-4BEB-8725-7D992FEEA4111.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "16E13C4C-64F1-4788-8A7B-EBDC2C7D6FD71",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/16E13C4C-64F1-4788-8A7B-EBDC2C7D6FD71.png",
+        "likes": 2,
+        "comments": 3
+      },
+      {
+        "id": "2df98d83-862c-468a-a209-65ff513d0dd52",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2df98d83-862c-468a-a209-65ff513d0dd52.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "2df98d83-862c-468a-a209-65ff513d0dd51",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2df98d83-862c-468a-a209-65ff513d0dd51.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "4b0d85a7-4166-458e-8e48-698c45d5a2672",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4b0d85a7-4166-458e-8e48-698c45d5a2672.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "4b0d85a7-4166-458e-8e48-698c45d5a2671",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4b0d85a7-4166-458e-8e48-698c45d5a2671.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "b0fe2710-1c6c-4666-af72-4e2324dcf1942",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0fe2710-1c6c-4666-af72-4e2324dcf1942.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "b0fe2710-1c6c-4666-af72-4e2324dcf1941",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0fe2710-1c6c-4666-af72-4e2324dcf1941.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "5B5A9551-6F23-400B-B4C3-502E504A29B11",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5B5A9551-6F23-400B-B4C3-502E504A29B11.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "e259076e-76e6-40a3-9d37-8e3c3344ef2a3",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e259076e-76e6-40a3-9d37-8e3c3344ef2a3.png",
+        "likes": 2,
+        "comments": 0
+      }
     ]
   },
   {
@@ -447,6 +3023,276 @@
         "maxMembers": 7,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/8c05e320-b603-11e6-a9a5-22000aac01431202609061030s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "06ed6286-ff0b-11e9-bdd4-0a0d30d966341",
+        "name": "이상훈",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06ed6286-ff0b-11e9-bdd4-0a0d30d966341.png",
+        "isManager": true
+      },
+      {
+        "id": "0dca88dc-829a-11e5-9f57-22000ad915621",
+        "name": "한선미",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/0dca88dc-829a-11e5-9f57-22000ad915621.png",
+        "isManager": false
+      },
+      {
+        "id": "112888f0-a5cb-11e9-8b7f-0af47a1ef8f81",
+        "name": "정석교",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/112888f0-a5cb-11e9-8b7f-0af47a1ef8f81.png",
+        "isManager": false
+      },
+      {
+        "id": "25b9c55a-d1bf-11e6-a6e9-22000a7d878c1",
+        "name": "이범석",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/25b9c55a-d1bf-11e6-a6e9-22000a7d878c1.png",
+        "isManager": false
+      },
+      {
+        "id": "3ef63aae-759c-11ec-a173-0afd4eda51571",
+        "name": "정혜진",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3ef63aae-759c-11ec-a173-0afd4eda51571.png",
+        "isManager": false
+      },
+      {
+        "id": "4009aa06-ad06-11e7-b51f-22000a7f94c31",
+        "name": "박규욱",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4009aa06-ad06-11e7-b51f-22000a7f94c31.png",
+        "isManager": false
+      },
+      {
+        "id": "60bbeb02-8c78-11ea-97e8-0a36e429f35e1",
+        "name": "이규민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/60bbeb02-8c78-11ea-97e8-0a36e429f35e1.png",
+        "isManager": false
+      },
+      {
+        "id": "8f8bba32-ed44-11e7-9238-22000aac80431",
+        "name": "이상은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8f8bba32-ed44-11e7-9238-22000aac80431.png",
+        "isManager": false
+      },
+      {
+        "id": "9059cea2-546e-11e5-801b-22000ad897c71",
+        "name": "박기준",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9059cea2-546e-11e5-801b-22000ad897c71.png",
+        "isManager": false
+      },
+      {
+        "id": "a1d1b9e0-4113-11ec-a110-0a57439c9a0b1",
+        "name": "어메이지밍",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a1d1b9e0-4113-11ec-a110-0a57439c9a0b1.png",
+        "isManager": false
+      },
+      {
+        "id": "cf4454c4-2d54-11eb-8612-0ae0784af34c1",
+        "name": "임수인",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cf4454c4-2d54-11eb-8612-0ae0784af34c1.png",
+        "isManager": false
+      },
+      {
+        "id": "e688d2b6-81b0-11ec-8a8f-0abb65c60d371",
+        "name": "송지원",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e688d2b6-81b0-11ec-8a8f-0abb65c60d371.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "06ed6286-ff0b-11e9-bdd4-0a0d30d96634177772476347",
+        "author": "이상훈",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06ed6286-ff0b-11e9-bdd4-0a0d30d966341.png",
+        "category": "공지",
+        "title": "■■꾸준히독서하기 운영규칙 (Renew)",
+        "body": "■■꾸준히독서하기 운영규칙 (Renew)\n\n°급격히 변화 하는 Ai 시대,\n독서 와 환경설정이 해법° (사색&글쓰기&깊은토론)\n\n\n안녕하세요 꾸독 운영진입니다. 🥰\n\n원활한 운영을 위해 정해진 몇가지 규칙을 공지하고",
+        "likes": 2,
+        "comments": 2
+      },
+      {
+        "id": "06ed6286-ff0b-11e9-bdd4-0a0d30d966341775716277973",
+        "author": "이상훈",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/06ed6286-ff0b-11e9-bdd4-0a0d30d966341.png",
+        "category": "공지",
+        "title": "■꾸준히독서하기 와 함께한 시간",
+        "body": "■꾸준히독서하기 와 함께한 시간\n\n■꾸준히독서하기 와 함께한 시간 \n\n그동안 함께 읽었던 책을 기록합니다.☺️☺️\n\n ▪︎탁월함은 훈련과 반복을 통해 얻어지는 예술 ▪︎\n-------------------------",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "cfb6f974-a109-11eb-ade4-0a127a9d1b3d1740794507523",
+        "author": "양세리",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cfb6f974-a109-11eb-ade4-0a127a9d1b3d1.png",
+        "category": "공지",
+        "title": "가입인사 양식🩷  필수!!",
+        "body": "가입인사 양식🩷  필수!!\n\n1) 성함 / 업무 : \n\n2) 가입 이유 : \n\n3) 좋아하는 책 또는 장르 :\n\n4) 회원님 사진 :  \n미리보기 방지용 사진 한 장  +  회원님 사진 한 장 \n부탁드립니다.\n - ",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "112888f0-a5cb-11e9-8b7f-0af47a1ef8f8170389097213",
+        "author": "정석교",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/112888f0-a5cb-11e9-8b7f-0af47a1ef8f81.png",
+        "category": "공지",
+        "title": "🏷꾸독 모임 속 모임 소개",
+        "body": "🏷꾸독 모임 속 모임 소개\n\n🏷꾸독 모임속 모임 \n(※. 자율책이나 지정책 1회 참석 이후 가입 가능)\n\n1. 💰경제 꾸독 - 경꾸 \n< 월 1회 양질의 엄선된 경제서 읽기 & 피크닉(상황에 따라)>\n - 100세 ",
+        "likes": 5,
+        "comments": 5
+      },
+      {
+        "id": "f5bfbfae-e046-4ef4-b060-470cc5d934431788436642911",
+        "author": "수혜",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f5bfbfae-e046-4ef4-b060-470cc5d934431.png",
+        "category": "가입인사",
+        "title": "안녕하세요👋🏻",
+        "body": "안녕하세요👋🏻\n\n1) 성함 / 업무 : 정수혜 / 직장인 \n2) 가입 이유 : 책 읽는 습관도 기르고 책 내용에 대해 이야기도 함께 나누며 배우고 싶어요.\n3) 좋아하는 책 또는 장르 : 자기계발, 에세이, 소설\n4",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "8c05e320-b603-11e6-a9a5-22000aac01431202609061030",
+        "author": "이현경",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5625b924-bc21-11ea-a233-0a1fa7709aba1.png",
+        "category": "모임후기",
+        "title": "<자율책>후 사당 비건맛집 🦧",
+        "body": "<자율책>후 사당 비건맛집 🦧\n\n📌 정모 정보\n\n📅 9월 6일(일)  자율책\n\n📍 투썸플레이스 사당역로데오점\n\n💰 1000\n\n\n💓 사당역에 있는 <남미플랜트랩>\n\n비건맛집 7명 2시 예약해놨어요\n\n\n꼭 참석하실수 있",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "2cdd1ffa-a102-11eb-adb4-0aeb5a90847b178806991979",
+        "author": "주철용",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2cdd1ffa-a102-11eb-adb4-0aeb5a90847b1.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n성함 / 업무 : 주철용 / 유치원 교사\n2) 가입 이유 : 경제적 자유\n3) 좋아하는 책 또는 장르 : 인문/경제\n4) 회원님 사진 :",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "8c05e320-b603-11e6-a9a5-22000aac01431202608301300",
+        "author": "쎄냥",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6974a168-0caa-11ec-81bb-0aacbb09dff51.png",
+        "category": "모임후기",
+        "title": "[지정책] 인생에 한번은 오디세이아",
+        "body": "[지정책] 인생에 한번은 오디세이아\n\n📌 정모 정보\n\n📅 8월 30일(일)\n\n📍 [네이버지도] 파스쿠찌 신논현역점 서\n\n💰 2000\n\n\n\n요즘 핫한 오디세이의 영향력에 힘입어 관련도서를 찾고 있었는데 매대에 나와 있",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6974a168-0caa-11ec-81bb-0aacbb09dff51788003730295",
+        "author": "쎄냥",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6974a168-0caa-11ec-81bb-0aacbb09dff51.png",
+        "category": "자유",
+        "title": "발제 < 인생에 한번은 오디세이아 >",
+        "body": "발제 < 인생에 한번은 오디세이아 >\n\n< 인생에 한번은 오디세이아 >\n\n이번 책의 발제는 거의 이 책의 연습문제들 사이에서 뽑았습니다. \n아닌 것은 딱 2개입니다. 책에서 발췌한 연습문제는 페이지수를 첨부합니다. ",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1787965489341",
+        "author": "권성일",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1.png",
+        "category": "가입인사",
+        "title": "반갑습니다",
+        "body": "반갑습니다\n\n1) 성함 / 업무 : 권성일 / 자영업\n2) 가입 이유 : 인식의 지평을 확장\n3) 좋아하는 책 또는 장르 : 인문/철학\n4) 회원님 사진 :",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "edf668f2-b934-11ee-bba6-0a85269398d71787742787339",
+        "author": "황재형",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/edf668f2-b934-11ee-bba6-0a85269398d71.png",
+        "category": "가입인사",
+        "title": "가입인사!",
+        "body": "가입인사!\n\n1) 성함 / 업무 : 황재형 / 회사원\n2) 가입 이유 : 내가 읽은 책 내용을 공유하고 싶어서\n3) 좋아하는 책 또는 장르 : 인문/역사\n4) 회원님 사진 :\n\n\n\n\n\n\n\n",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "02c27511-0e88-49f8-bee9-3f39294964ba1787549917163",
+        "author": "고기",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/02c27511-0e88-49f8-bee9-3f39294964ba1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1) 성함 / 업무 : 박승빈 / 직장인\n2) 가입 이유 : 다양한 책을 알고싶습니다\n3) 좋아하는 책 또는 장르 : 심리/소설, 만화\n4) 회원님 사진 :",
+        "likes": 1,
+        "comments": 2
+      }
+    ],
+    "photos": [
+      {
+        "id": "478d2c67-8ef7-4b8d-a282-718a7e0603295",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/478d2c67-8ef7-4b8d-a282-718a7e0603295.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "478d2c67-8ef7-4b8d-a282-718a7e0603294",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/478d2c67-8ef7-4b8d-a282-718a7e0603294.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "478d2c67-8ef7-4b8d-a282-718a7e0603293",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/478d2c67-8ef7-4b8d-a282-718a7e0603293.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "478d2c67-8ef7-4b8d-a282-718a7e0603292",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/478d2c67-8ef7-4b8d-a282-718a7e0603292.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "478d2c67-8ef7-4b8d-a282-718a7e0603291",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/478d2c67-8ef7-4b8d-a282-718a7e0603291.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "790fe63d-3601-41f9-ae71-defd3b8345371",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/790fe63d-3601-41f9-ae71-defd3b8345371.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "1245de25-87a1-4ee6-9c56-ce5e058e04b11",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1245de25-87a1-4ee6-9c56-ce5e058e04b11.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "e685d40a-e8c2-444e-a798-7031c00cfb086",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e685d40a-e8c2-444e-a798-7031c00cfb086.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "e685d40a-e8c2-444e-a798-7031c00cfb085",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e685d40a-e8c2-444e-a798-7031c00cfb085.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "e685d40a-e8c2-444e-a798-7031c00cfb084",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e685d40a-e8c2-444e-a798-7031c00cfb084.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "e685d40a-e8c2-444e-a798-7031c00cfb083",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e685d40a-e8c2-444e-a798-7031c00cfb083.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "154178a3-e3d5-4b9f-ab15-a2f89fe0bcbb1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/154178a3-e3d5-4b9f-ab15-a2f89fe0bcbb1.png",
+        "likes": 0,
+        "comments": 0
       }
     ]
   },
@@ -492,6 +3338,276 @@
         "maxMembers": 1,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/fdf75162-4d06-11e3-a21b-1231500688731202610071925s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "280c014c-729c-11e6-a620-22000ad842a81",
+        "name": "김선영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/280c014c-729c-11e6-a620-22000ad842a81.png",
+        "isManager": false
+      },
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e21",
+        "name": "라비아",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "isManager": true
+      },
+      {
+        "id": "384a8e60-8e9c-11e4-8a17-22000a7f20bd1",
+        "name": "김현식",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/384a8e60-8e9c-11e4-8a17-22000a7f20bd1.png",
+        "isManager": false
+      },
+      {
+        "id": "467880b4-810f-11e3-8859-123150021d141",
+        "name": "최병인",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/467880b4-810f-11e3-8859-123150021d141.png",
+        "isManager": false
+      },
+      {
+        "id": "6800ffa8-2085-11e8-a621-22000aad847d1",
+        "name": "한현수",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6800ffa8-2085-11e8-a621-22000aad847d1.png",
+        "isManager": false
+      },
+      {
+        "id": "6c54fe2c-db95-11e2-8668-1231500030411",
+        "name": "세영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6c54fe2c-db95-11e2-8668-1231500030411.png",
+        "isManager": false
+      },
+      {
+        "id": "a81e133c-c658-11e2-9f39-123150068c801",
+        "name": "모모랑경애",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a81e133c-c658-11e2-9f39-123150068c801.png",
+        "isManager": false
+      },
+      {
+        "id": "b4101172-a753-11e3-b12b-22000a7d05921",
+        "name": "나그네🤠",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b4101172-a753-11e3-b12b-22000a7d05921.png",
+        "isManager": false
+      },
+      {
+        "id": "d250b424-9c81-11e4-b614-22000aac81111",
+        "name": "윤재",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d250b424-9c81-11e4-b614-22000aac81111.png",
+        "isManager": false
+      },
+      {
+        "id": "d3dd28e4-97a5-11e4-b6f1-22000aae05041",
+        "name": "김승기",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d3dd28e4-97a5-11e4-b6f1-22000aae05041.png",
+        "isManager": false
+      },
+      {
+        "id": "dcf7070c-53d1-11e7-a5eb-22000aa99a4d1",
+        "name": "정천용",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dcf7070c-53d1-11e7-a5eb-22000aa99a4d1.png",
+        "isManager": false
+      },
+      {
+        "id": "f59cfb86-f614-11e3-a2b0-22000a7f04701",
+        "name": "손수민",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f59cfb86-f614-11e3-a2b0-22000a7f04701.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e2178124592030",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "공지",
+        "title": "📌2026년 공지사항(필독요망)",
+        "body": "📌2026년 공지사항(필독요망)\n\n 수요일엔 책이랑 2026년 공지사항입니다. 긴글이지만 필독해주시면 감사하겠습니다.\n\n여러분, 저에게 수책은 삶의 일부입니다. 그렇게 이어져 왔으며, 또 그렇게 물려받았습니다. \n\n",
+        "likes": 22,
+        "comments": 1
+      },
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e21742808313752",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "공지",
+        "title": "2025년 봄날의 공지글(필독요망)",
+        "body": "2025년 봄날의 공지글(필독요망)\n\n2025년도 봄맞이 공지글 \n\n 여러분, 잘 지내셨나요? 날이 조금씩 따뜻해지고 있어요. 저는 이제야 해가 바뀌었다는 기분이 드네요. 2025 봄을 맞이하여 모임장이 이런저런 당",
+        "likes": 30,
+        "comments": 9
+      },
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e21788418149971",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "공지",
+        "title": "수책에게 하고 싶은 이야기",
+        "body": "수책에게 하고 싶은 이야기\n\n안녕하세요. 라비아입니다. 읽어주시고 함께해 주시면 감사하겠습니다.\n\n10년이 넘는 시간 동안 수요일엔 책이랑은 참 많은 사람들과 많은 책을 만나왔습니다.\n\n누군가에게는 오래된 익숙한 자",
+        "likes": 12,
+        "comments": 4
+      },
+      {
+        "id": "fdf75162-4d06-11e3-a21b-1231500688731202609161935",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "모임후기",
+        "title": "2025.9.1 이후 가입자 전용",
+        "body": "📌 정모 정보\n📅 9월 16일(수)\n📍 지오북카페(서울대입구역)\n💰 개인찻값\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "fdf75162-4d06-11e3-a21b-1231500688731202609161930",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "모임후기",
+        "title": "주제:그때 내가 이 책을 읽었다면",
+        "body": "📌 정모 정보\n📅 9월 16일(수)\n📍 지오북카페(서울대입구역)\n💰 개인찻값+참가비 3천원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1788274457410",
+        "author": "권성일",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1.png",
+        "category": "가입인사",
+        "title": "반갑습니다",
+        "body": "반갑습니다\n\n책을 좋아합니다.\n그리고 책을 통한 사유와 통찰이 제게는\n너무나 고맙습니다.\n더구나 이 세상에는 배울 것이 너무나 많습니다. 감사합니다.",
+        "likes": 7,
+        "comments": 4
+      },
+      {
+        "id": "fdf75162-4d06-11e3-a21b-1231500688731202610071925",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "모임후기",
+        "title": "예)10월지정책:압록강은 흐른다",
+        "body": "📌 정모 정보\n📅 10월 7일(수)\n📍 지오북카페(서울대입구역)\n💰 개인찻값+참가비3천원\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "6e715930-9362-4a04-93ef-b364f43963d91788087165518",
+        "author": "에이제이",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6e715930-9362-4a04-93ef-b364f43963d91.png",
+        "category": "가입인사",
+        "title": "안녕하세여",
+        "body": "안녕하세여\n\n안녕하세요\n\n가입해놓고 모임신청해놓고 인사도 못했네요\n책 추천받고 싶고\n책도 읽고 싶어서 가입했습니다 \n\n앞으로 많은도움부탁드려요~",
+        "likes": 6,
+        "comments": 7
+      },
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e21788084013756",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "공지",
+        "title": "9월 지정책 공지글",
+        "body": "9월 지정책 공지글\n\n우리라는 말은\n너와 나 사이에 놓이는 말입니다.\n\n혼자일 때보다\n누군가와 함께할 때 비로소 생겨나는 말이기도 하지요.\n\n그러나 ‘우리’가 되는 순간\n누군가는 그 안에 있고, 누군가는 그 밖을 서",
+        "likes": 12,
+        "comments": 6
+      },
+      {
+        "id": "283a9a56-9df6-11e4-93c6-22000a7f88e21788006654784",
+        "author": "라비아",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/283a9a56-9df6-11e4-93c6-22000a7f88e21.png",
+        "category": "공지",
+        "title": "2026. 8월의 졸업공지글입니다.",
+        "body": "2026. 8월의 졸업공지글입니다.\n\n\n안녕하세요. 수요일엔 책이랑의 모임장을 맡고 있는 라비아입니다.\n\n오늘은 아쉬운 졸업 소식을 전하려 합니다.\n\n이번 달을 마지막으로 유진초이 님이 수요일엔 책이랑 운영진을 내려",
+        "likes": 18,
+        "comments": 13
+      },
+      {
+        "id": "6800ffa8-2085-11e8-a621-22000aad847d1787669785121",
+        "author": "한현수",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6800ffa8-2085-11e8-a621-22000aad847d1.png",
+        "category": "자유",
+        "title": "26년8월28일 금요일 치맥벙개 (훌랄라치킨)",
+        "body": "26년8월28일 금요일 치맥벙개 (훌랄라치킨)\n\n안녕하세요, 친애하는 수책 여러분\n\n지난 정모 뒤풀이때 내기의 결과로 치맥벙개를 하게되었습니다. \n\n회비는 N분의 1로 후정산인데요, 내기에 함께 했던 분들은 제가 회",
+        "likes": 8,
+        "comments": 34
+      },
+      {
+        "id": "6b6f8c0d-2dc5-4c58-a6a2-fdb22678a0511787640719299",
+        "author": "데미안",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6b6f8c0d-2dc5-4c58-a6a2-fdb22678a0511.png",
+        "category": "가입인사",
+        "title": "책 좋아합니다^^",
+        "body": "책 좋아합니다^^\n\n안녕하세요~ 책 좋아해서 가입했습니다.\n^^",
+        "likes": 8,
+        "comments": 4
+      }
+    ],
+    "photos": [
+      {
+        "id": "37B59935-767F-4C5D-8401-508242557A481",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/37B59935-767F-4C5D-8401-508242557A481.png",
+        "likes": 7,
+        "comments": 0
+      },
+      {
+        "id": "1b75c348-4665-44ec-a4ef-99a4b327f2c62",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1b75c348-4665-44ec-a4ef-99a4b327f2c62.png",
+        "likes": 8,
+        "comments": 0
+      },
+      {
+        "id": "1b75c348-4665-44ec-a4ef-99a4b327f2c61",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1b75c348-4665-44ec-a4ef-99a4b327f2c61.png",
+        "likes": 8,
+        "comments": 1
+      },
+      {
+        "id": "d6bac1e2-34b9-40ba-aaa2-df9ddd781b1e1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d6bac1e2-34b9-40ba-aaa2-df9ddd781b1e1.png",
+        "likes": 8,
+        "comments": 3
+      },
+      {
+        "id": "2f600341-edef-4b21-bedb-6d4cc5e48bd21",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/2f600341-edef-4b21-bedb-6d4cc5e48bd21.png",
+        "likes": 8,
+        "comments": 2
+      },
+      {
+        "id": "AC129887-BF50-4EB6-8E54-A72B684441301",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/AC129887-BF50-4EB6-8E54-A72B684441301.png",
+        "likes": 6,
+        "comments": 0
+      },
+      {
+        "id": "75FBB29C-D3B9-42D6-994F-D6E9AF00FA1D1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/75FBB29C-D3B9-42D6-994F-D6E9AF00FA1D1.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "E4602CFF-CA51-4B60-9FBA-D56A78DED3841",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/E4602CFF-CA51-4B60-9FBA-D56A78DED3841.png",
+        "likes": 8,
+        "comments": 2
+      },
+      {
+        "id": "C0BDED29-4EC0-4DD9-BACD-34500FCB82F38",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/C0BDED29-4EC0-4DD9-BACD-34500FCB82F38.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "C0BDED29-4EC0-4DD9-BACD-34500FCB82F37",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/C0BDED29-4EC0-4DD9-BACD-34500FCB82F37.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "C0BDED29-4EC0-4DD9-BACD-34500FCB82F36",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/C0BDED29-4EC0-4DD9-BACD-34500FCB82F36.png",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "C0BDED29-4EC0-4DD9-BACD-34500FCB82F35",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/C0BDED29-4EC0-4DD9-BACD-34500FCB82F35.png",
+        "likes": 5,
+        "comments": 4
       }
     ]
   },
@@ -549,6 +3665,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/be4e600c-bad0-11ef-90bc-0a0dab7805851202610011900s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "09311924-6807-11ef-90e0-0a2c8ac3a2a91",
+        "name": "현정",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/09311924-6807-11ef-90e0-0a2c8ac3a2a91.png",
+        "isManager": false
+      },
+      {
+        "id": "137349b4-12f9-11f0-ab00-0a3e34536fcd1",
+        "name": "백요",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/137349b4-12f9-11f0-ab00-0a3e34536fcd1.png",
+        "isManager": false
+      },
+      {
+        "id": "322f2cf6-c341-11ed-87aa-0a939a4aff211",
+        "name": "정진영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/322f2cf6-c341-11ed-87aa-0a939a4aff211.png",
+        "isManager": false
+      },
+      {
+        "id": "69e9c424-907e-11ef-a138-0a49fa9a9ce31",
+        "name": "이득은",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/69e9c424-907e-11ef-a138-0a49fa9a9ce31.png",
+        "isManager": false
+      },
+      {
+        "id": "8dcce090-187f-11f0-a0e4-0aa63238079b1",
+        "name": "모지",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8dcce090-187f-11f0-a0e4-0aa63238079b1.png",
+        "isManager": false
+      },
+      {
+        "id": "a3495e2a-67a3-11e2-ace5-1231500082d01",
+        "name": "으니",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/a3495e2a-67a3-11e2-ace5-1231500082d01.png",
+        "isManager": false
+      },
+      {
+        "id": "d033f83c-f5ad-11ef-836b-0a0dc8d67b891",
+        "name": "홍홍홍",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d033f83c-f5ad-11ef-836b-0a0dc8d67b891.png",
+        "isManager": false
+      },
+      {
+        "id": "d1592cf0-c4fc-11ef-ad14-0af3fa7b7a211",
+        "name": "서이영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1592cf0-c4fc-11ef-ad14-0af3fa7b7a211.png",
+        "isManager": false
+      },
+      {
+        "id": "e6c1401a-e769-11e6-ae86-22000b05a07a1",
+        "name": "성현",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e6c1401a-e769-11e6-ae86-22000b05a07a1.png",
+        "isManager": false
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1",
+        "name": "Ryan",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "isManager": true
+      },
+      {
+        "id": "f36acde0-ddd9-11ee-8767-0a032ec29f711",
+        "name": "채승우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f36acde0-ddd9-11ee-8767-0a032ec29f711.png",
+        "isManager": false
+      },
+      {
+        "id": "fceb6870-de48-11ed-bd6b-0af85594cb0d1",
+        "name": "진이",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/fceb6870-de48-11ed-bd6b-0af85594cb0d1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1788305960769",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "북포레 활동 통계(~2026년 8월)",
+        "body": "북포레 활동 통계(~2026년 8월)\n\n북포레 활동 통계(~2026년 8월)\n※ 활동 기간 : 2026년 1.1~8.31.\n\n각 활동별 상위 10위까지 표시하였습니다.\n(운영진분들은 순위에서 제외하였습니다)\n\n매월 ",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1788159085136",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "북포레 길라잡이 – 정기모임 운영 규정",
+        "body": "북포레 길라잡이 – 정기모임 운영 규정\n\n📚 북포레 길라잡이 – 정기모임 운영 규정\n(2026. 10. 1. 부 적용 / 정기모임 공통 회칙)\n\n회원 여러분의 꾸준한 관심과 참여에 감사드립니다 😊\n\n북포레는 서로 다",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1757743917517",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "앞서 진행한 독서모임 도서 목록 안내",
+        "body": "앞서 진행한 독서모임 도서 목록 안내\n\n북포레 가족 여러분, 안녕하세요 :)\n지금까지 우리 독서모임에서 함께 읽고 토론한 도서 목록을 공유드립니다. 앞으로 도서 선정이나 토론 주제 참고에 도움이 되시길 바랍니다 (회",
+        "likes": 20,
+        "comments": 3
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1734260166500",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "가입인사",
+        "title": "가입인사 양식",
+        "body": "가입인사 양식\n\n다음 양식을 복사해서 사용해 주세요 ^^\n\n‐‐-------‐-------------------------------------------------\n\n1. 자기소개 (이름, 나이, 직업 등 자유롭게",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "be4e600c-bad0-11ef-90bc-0a0dab7805851202610081900",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "모임후기",
+        "title": "[인문] 데일 카네기 인간관계론(데일",
+        "body": "📌 정모 정보\n📅 10월 8일(목)\n📍 마인드 비\n💰 각자 음료비\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "3968e9f8-2aa3-4f53-bb9f-08958bc5faf5178833770933",
+        "author": "정윤환",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/3968e9f8-2aa3-4f53-bb9f-08958bc5faf51.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 자기소개 \n   정윤환 , 77년생, 회사원입니다.\n2. 최근 읽은 책과 간단한 소감\n   데일카네기의 자기관리론 \n   삶의 지침이 될만한 책이라고 생각합니다.\n3. 독서모임에 기대하는 점\n  다양",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "11a97d8a-eb5c-11ee-88f4-0a2b2606610b1788314807226",
+        "author": "이지현",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/11a97d8a-eb5c-11ee-88f4-0a2b2606610b1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n1. 자기소개 (이름, 나이, 직업 등 자유롭게)\n이지현, 85년생이구요 회사원입니다\n\n2. 최근 읽은 책과 간단한 소감\n에크하르트 톨레, 마이클 싱어 책 좋아합니다.\n\n3. 독서모임에 기대하는 점\n다양함",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1788219803843",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "9월 3일 정기모임《악마와 함께 춤을》발제",
+        "body": "9월 3일 정기모임《악마와 함께 춤을》발제\n\n📘 『악마와 함께 춤을』 독서토론 발제문\n1. 좋은 삶이란 나쁜 감정이 없는 삶일까\n“이 세상을 충분히 인간적으로 살아간다면 마음이 항상 평온하고 평화로울 수 없다.”\n〈",
+        "likes": 10,
+        "comments": 2
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d1788219537721",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "10월 8일 《데일 카네기 인간관계론》정기모임 공지",
+        "body": "10월 8일 《데일 카네기 인간관계론》정기모임 공지\n\n📘 북포레 10월 8일 정기모임 공지\n《데일 카네기 인간관계론》 – 우리는 왜 다른 사람의 마음을 얻고 싶어 하는가\n\n북포레 가족 여러분, 안녕하세요. 🌿\n우리는",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "f1ea792a-b90c-11ef-8d72-0ac7f129378d178815885751",
+        "author": "Ryan",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f1ea792a-b90c-11ef-8d72-0ac7f129378d1.png",
+        "category": "공지",
+        "title": "북포레 정기모임 운영방식 변경 안내",
+        "body": "북포레 정기모임 운영방식 변경 안내\n\n📢 북포레 정기모임 운영방식 변경 안내\n\n북포레 가족 여러분, 안녕하세요 🌿\n\n오는 2026년 10월 1일부터 정기모임 운영방식이 일부 변경되어 그 내용과 배경을 안내드립니다.\n",
+        "likes": 15,
+        "comments": 2
+      },
+      {
+        "id": "b0edb4b0-7ffe-4b2d-a90b-c6cf3ce519a31788107112336",
+        "author": "Martin",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b0edb4b0-7ffe-4b2d-a90b-c6cf3ce519a31.png",
+        "category": "가입인사",
+        "title": "빈갑습니다.",
+        "body": "빈갑습니다.\n\n1. 자기소개 (이름, 나이, 직업 등 자유롭게)\n양병윤, 51세입니다.\n\n2. 최근 읽은 책과 간단한 소감\n최근에 읽은 책이 없습니다.\n\n3. 독서모임에 기대하는 점\n다양한 서적을 읽어보고 싶습니다.",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "4e5739a2-52c7-11ea-8ac2-0a2ae13f17221788093685598",
+        "author": "정혜연",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4e5739a2-52c7-11ea-8ac2-0a2ae13f17221.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n1. 자기소개 (이름, 나이, 직업 등 자유롭게)\n정혜연, 41세\n\n2. 최근 읽은 책과 간단한 소감\n홀로사는즐거움, 담백한 에세이\n\n3. 독서모임에 기대하는 점\n주기적으로 책 읽는 좋은 습관이 생기길 ",
+        "likes": 3,
+        "comments": 1
+      }
+    ],
+    "photos": [
+      {
+        "id": "996317b9-43e6-441a-85d6-88e787e4c4991",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/996317b9-43e6-441a-85d6-88e787e4c4991.png",
+        "likes": 5,
+        "comments": 3
+      },
+      {
+        "id": "b582fc2e-0e51-49b3-98f9-58089a2390cd1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b582fc2e-0e51-49b3-98f9-58089a2390cd1.png",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "df935a92-9164-49bd-9d18-af4a1f4860de1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/df935a92-9164-49bd-9d18-af4a1f4860de1.png",
+        "likes": 9,
+        "comments": 1
+      },
+      {
+        "id": "74e2840a-64f0-44f6-87be-3d37c8eda2c51",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/74e2840a-64f0-44f6-87be-3d37c8eda2c51.png",
+        "likes": 5,
+        "comments": 1
+      },
+      {
+        "id": "4296895c-8142-40b0-bef4-fff120a2393e1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/4296895c-8142-40b0-bef4-fff120a2393e1.png",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "084e21a9-b69a-4547-bd57-4fbf177726da1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/084e21a9-b69a-4547-bd57-4fbf177726da1.png",
+        "likes": 6,
+        "comments": 1
+      },
+      {
+        "id": "22939b34-81bb-4226-bd70-66a575e270f31",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/22939b34-81bb-4226-bd70-66a575e270f31.png",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "9d3d88e4-0d16-450d-b7ae-7b66ad74397f1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9d3d88e4-0d16-450d-b7ae-7b66ad74397f1.png",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "bd9b0809-5473-44e7-93ab-d19f9f7a66c11",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/bd9b0809-5473-44e7-93ab-d19f9f7a66c11.png",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "70cffc36-9a80-4bf0-a6a0-9b78c3984c6d1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/70cffc36-9a80-4bf0-a6a0-9b78c3984c6d1.png",
+        "likes": 6,
+        "comments": 3
+      },
+      {
+        "id": "8157fe56-8e47-416e-9ef4-53759264a8a11",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8157fe56-8e47-416e-9ef4-53759264a8a11.png",
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "6cf6fc86-b6a4-4f87-ac2b-a15b4209f88a1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6cf6fc86-b6a4-4f87-ac2b-a15b4209f88a1.png",
+        "likes": 3,
+        "comments": 1
+      }
     ]
   },
   {
@@ -572,6 +3958,276 @@
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/8153bff4-7e17-11ee-a7a9-0a10caceebb91202609101900s1.png"
       }
+    ],
+    "memberList": [
+      {
+        "id": "365593c2-c4a2-11ec-b8b7-0a2dc7f2efff1",
+        "name": "정소영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/365593c2-c4a2-11ec-b8b7-0a2dc7f2efff1.png",
+        "isManager": false
+      },
+      {
+        "id": "649628be-1f13-11ef-9e4d-0a721e31af531",
+        "name": "이다샘",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/649628be-1f13-11ef-9e4d-0a721e31af531.png",
+        "isManager": false
+      },
+      {
+        "id": "8148cd28-5df2-11ee-9f53-0a7d2ebf80151",
+        "name": "학동84",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8148cd28-5df2-11ee-9f53-0a7d2ebf80151.png",
+        "isManager": false
+      },
+      {
+        "id": "9fbc9780-4e09-11e7-b24d-22000ad842b81",
+        "name": "강승일",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9fbc9780-4e09-11e7-b24d-22000ad842b81.png",
+        "isManager": false
+      },
+      {
+        "id": "bdf4bccc-ae36-11ec-995e-0a1f08fad2551",
+        "name": "비뉴",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/bdf4bccc-ae36-11ec-995e-0a1f08fad2551.png",
+        "isManager": false
+      },
+      {
+        "id": "be6f24f6-c576-11ec-9a2b-0afa433d7b871",
+        "name": "지효리",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/be6f24f6-c576-11ec-9a2b-0afa433d7b871.png",
+        "isManager": false
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41",
+        "name": "이진희",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "isManager": true
+      },
+      {
+        "id": "d3fa3b34-93e9-11ed-b3d7-0a6c8c2612f31",
+        "name": "강지우",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d3fa3b34-93e9-11ed-b3d7-0a6c8c2612f31.png",
+        "isManager": false
+      },
+      {
+        "id": "e1cb78f2-c62c-11ed-800c-0a52b80e466b1",
+        "name": "하늘연",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e1cb78f2-c62c-11ed-800c-0a52b80e466b1.png",
+        "isManager": false
+      },
+      {
+        "id": "ee88348a-8c0e-11e7-97e6-22000aaf8aa11",
+        "name": "한은자",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ee88348a-8c0e-11e7-97e6-22000aaf8aa11.png",
+        "isManager": false
+      },
+      {
+        "id": "f8b4daa2-db54-11ee-8bd0-0a679fb463251",
+        "name": "Tony",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f8b4daa2-db54-11ee-8bd0-0a679fb463251.png",
+        "isManager": false
+      },
+      {
+        "id": "f9b48f0a-054e-11ef-a784-0a2f405d0f4b1",
+        "name": "구름",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f9b48f0a-054e-11ef-a784-0a2f405d0f4b1.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41737685693365",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "🐳북스런에서는 이런분들 모셔요🐳",
+        "body": "🐳북스런에서는 이런분들 모셔요🐳\n\n🌳북스런에서는 이런분들 환영합니다🌳\n\n➡️ 화요일 저녁 7시 : 치유 글쓰기\n➡️ 목요일 저녁 7시 : 주마다 달라요\n                          (그림책 힐링,자",
+        "likes": 10,
+        "comments": 0
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd4169943526158",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "💚가입인사 양식💚",
+        "body": "💚가입인사 양식💚\n\n💚자소서 양식-복사 후 사용해주세요💚\n\n> 성함 : \n\n> 생년월일 :\n\n> 성별 :\n\n> 하시는 일 : \n\n> 활동지역 :\n\n> 모임에 바라는 점 : \n\n> 오프라인 참석 여부 : \n\n> 감명깊",
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41788448422627",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "🌸new topic🌸",
+        "body": "🌸new topic🌸\n\n새로 생긴 프로그램이에요!! \n\n도담님이 준비해주시는 시간으로🎉 \n\n도담님이 준비패주신 영상을 보고\n\n각자 질문을 1-2개정도 생각해 오시고 \n\n북스런에 나오셔서 얘기를 나누는 시간을 갖어요!",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "8153bff4-7e17-11ee-a7a9-0a10caceebb91202609101900",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "모임후기",
+        "title": "🌸 NEW TOPIC 🌸",
+        "body": "📌 정모 정보\n📅 9월 10일(목)\n📍 🎈 게시판 참고 🎈\n💰 🎈 게시판 참고 🎈\n\n이 게시글에서 정모에 대한 이야기를 나눠보세요.",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "8aeb494c-ce56-11eb-befd-0a2eb19195bf1788342366963",
+        "author": "박혜선",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8aeb494c-ce56-11eb-befd-0a2eb19195bf1.png",
+        "category": "가입인사",
+        "title": "가입인사",
+        "body": "가입인사\n\n💚자소서 양식-복사 후 사용해주세요💚\n\n> 성함 : 박혜선\n\n> 생년월일 : 821219\n\n> 성별 : 여\n\n> 하시는 일 : 교육\n\n> 활동지역 : 마포\n\n> 모임에 바라는 점 : 나눔\n\n> 오프라인 참",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41788246342175",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "✅ 북스런_그림책 힐링 ✅",
+        "body": "✅ 북스런_그림책 힐링 ✅\n\n안녕하세요♥️\n\n한주의 어려움이나 슬픔, 기쁨을 함께 나눠요😀\n\n어렵게 생각하지 마세요!! \n\n처음의 어색함을 이겨내고 오시면 아무것도 아니에요\n\n따뜻한 차와 편안하게 얘기 나누는 시간 ",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41788169195556",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "✅ 북스런_지정도서 공지 ✅",
+        "body": "✅ 북스런_지정도서 공지 ✅\n\n\n\n\n9월엔 목요일이 3번밖에 없어서 \n\n지정도서 지나갑니다^^ (좋은가요? ㅎㅎ)\n\n10월 지정도서!! \n\n“손절사회” \n\n많은 분들이 많이 읽기 시작했나봐요!! \n\n저도 기대하고 있",
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "8148cd28-5df2-11ee-9f53-0a7d2ebf80151788095383951",
+        "author": "학동84",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8148cd28-5df2-11ee-9f53-0a7d2ebf80151.png",
+        "category": "관심사",
+        "title": "《손절사회》 | 이승연 지정도서를 시작하며",
+        "body": "《손절사회》 | 이승연 지정도서를 시작하며\n\n《손절사회》 | 이승연\nCASE 00. 서론\n\n《손절사회》의 서론을 읽으며\n이 책이 단순히\n“요즘 사람들은 왜 쉽게 손절할까?”를 묻는 책은 아니라는 생각이 들었다.\n\n오",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41787994700130",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "🎉 북스런_나만의 책만들기 2기 책 나왔어요🎉",
+        "body": "🎉 북스런_나만의 책만들기 2기 책 나왔어요🎉\n\n\n\n북스런 나만의 책 만들기 2기❤️ 완료!!! \n\n드디어 책이 나왔습니다!!! \n\n많은 일이 있었던 지난 날들.. 을 뒤로 하고!! \n\n책이 나와 마냥 신난 오늘입니",
+        "likes": 5,
+        "comments": 5
+      },
+      {
+        "id": "17763a29-9c3e-4d98-9821-e84cbe061bb3178796434779",
+        "author": "그린",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/17763a29-9c3e-4d98-9821-e84cbe061bb31.png",
+        "category": "가입인사",
+        "title": "안녕하세요",
+        "body": "안녕하세요\n\n💚자소서 양식-복사 후 사용해주세요💚\n\n> 성함 : 김도연\n\n> 생년월일 : 830407\n\n> 성별 : 여\n\n> 하시는 일 : 직장인\n\n> 활동지역 : 부천 서울\n\n> 모임에 바라는 점 : 치유 성장 소",
+        "likes": 1,
+        "comments": 2
+      },
+      {
+        "id": "8148cd28-5df2-11ee-9f53-0a7d2ebf80151787911472135",
+        "author": "학동84",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8148cd28-5df2-11ee-9f53-0a7d2ebf80151.png",
+        "category": "모임후기",
+        "title": "사피엔스 모임후기",
+        "body": "사피엔스 모임후기\n\n사피엔스의 진짜 무기는 무엇이었을까\n\n— 《사피엔스》 유발 하라리\n\n《사피엔스》 모임 후기\n모임에서 나눈 대화를 되짚어보며, 그때 느낀 점을 다시 생각해보고 정리했습니다.\n\n지금의 인간과 수만 년",
+        "likes": 2,
+        "comments": 2
+      },
+      {
+        "id": "cc41874c-0635-11eb-9436-0ac1ae89fbd41787873451147",
+        "author": "이진희",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/cc41874c-0635-11eb-9436-0ac1ae89fbd41.png",
+        "category": "공지",
+        "title": "🩷성장하는 북스런💜",
+        "body": "🩷성장하는 북스런💜\n\n처음 북스런 독서모임을 시작했을때가 생각납니다. \n\n한명이 두명이 되고, 두명이 세명이 됐던 그때가.\n\n각자의 소중한 경험과 솔직한 이야기들 덕분에 \n\n서로 이해하고 공감하며 가까워 질 수 있었",
+        "likes": 9,
+        "comments": 1
+      }
+    ],
+    "photos": [
+      {
+        "id": "D3243EA5-0140-4B9E-9B3D-BA1937CACFBF1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D3243EA5-0140-4B9E-9B3D-BA1937CACFBF1.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D5C22125-88D1-495F-AD45-F1A90081BDF53",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D5C22125-88D1-495F-AD45-F1A90081BDF53.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D5C22125-88D1-495F-AD45-F1A90081BDF52",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D5C22125-88D1-495F-AD45-F1A90081BDF52.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D5C22125-88D1-495F-AD45-F1A90081BDF51",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D5C22125-88D1-495F-AD45-F1A90081BDF51.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B6",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B6.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B5",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B5.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B4",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B4.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B3",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B3.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B2",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B2.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8E7DC596-23A3-4F2E-8CF6-D2C8F857884B1",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/8E7DC596-23A3-4F2E-8CF6-D2C8F857884B1.png",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "D3121A49-1A71-40AF-8B78-F7F048CC16356",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D3121A49-1A71-40AF-8B78-F7F048CC16356.png",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D3121A49-1A71-40AF-8B78-F7F048CC16355",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/D3121A49-1A71-40AF-8B78-F7F048CC16355.png",
+        "likes": 0,
+        "comments": 0
+      }
     ]
   },
   {
@@ -594,6 +4250,276 @@
         "maxMembers": 9,
         "currentMembers": 0,
         "imageUrl": "https://d228e474i2d5yf.cloudfront.net/4cd18c1a-e2e9-11ef-843c-0a7994fa3be51202609131500s1.png"
+      }
+    ],
+    "memberList": [
+      {
+        "id": "036a40c6-085e-11e7-9818-22000b05052b1",
+        "name": "woo🪡",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/036a40c6-085e-11e7-9818-22000b05052b1.png",
+        "isManager": false
+      },
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1",
+        "name": "혜원",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "isManager": true
+      },
+      {
+        "id": "09fe4754-03c6-11f0-9ec6-0abfa236eacf1",
+        "name": "김혜영",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/09fe4754-03c6-11f0-9ec6-0abfa236eacf1.png",
+        "isManager": false
+      },
+      {
+        "id": "1ffdd68c-80ae-11ef-92a5-0a83c7959ad51",
+        "name": "웃자",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/1ffdd68c-80ae-11ef-92a5-0a83c7959ad51.png",
+        "isManager": false
+      },
+      {
+        "id": "479342c6-0efb-11e8-ac53-22000aae096f1",
+        "name": "jsg",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/479342c6-0efb-11e8-ac53-22000aae096f1.png",
+        "isManager": false
+      },
+      {
+        "id": "72e3968a-9012-11e9-adb3-0aafad116bbe1",
+        "name": "연보라",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/72e3968a-9012-11e9-adb3-0aafad116bbe1.png",
+        "isManager": false
+      },
+      {
+        "id": "736af60c-f6b5-11ee-983f-0a88ae7c91ad1",
+        "name": "케이",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/736af60c-f6b5-11ee-983f-0a88ae7c91ad1.png",
+        "isManager": false
+      },
+      {
+        "id": "7d08f74a-4bb5-11ef-978e-0aa928bffa431",
+        "name": "성룡",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/7d08f74a-4bb5-11ef-978e-0aa928bffa431.png",
+        "isManager": false
+      },
+      {
+        "id": "96e5f236-eecf-11ef-a2b5-0a95f90bcf4f1",
+        "name": "케이트",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/96e5f236-eecf-11ef-a2b5-0a95f90bcf4f1.png",
+        "isManager": false
+      },
+      {
+        "id": "ae2d0f64-fadb-11ec-b68e-0a81290c77c71",
+        "name": "송주희",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ae2d0f64-fadb-11ec-b68e-0a81290c77c71.png",
+        "isManager": false
+      },
+      {
+        "id": "dc2b5e1a-26cd-11ee-89b0-0a65ce71d6a31",
+        "name": "민아",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/dc2b5e1a-26cd-11ee-89b0-0a65ce71d6a31.png",
+        "isManager": false
+      },
+      {
+        "id": "e0f440c0-ede1-11ee-92e3-0a01ecee5fa71",
+        "name": "♡민정♡",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/e0f440c0-ede1-11ee-92e3-0a01ecee5fa71.png",
+        "isManager": false
+      }
+    ],
+    "articles": [
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1779966467417",
+        "author": "혜원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "category": "공지",
+        "title": "🛎️골디락스 후반기 독토일정 공지",
+        "body": "🛎️골디락스 후반기 독토일정 공지\n\n🔸8월부터 12월까지의 독토일정과 추가되는 진행방식 공지드립니다.\n🔸한달에 두번 총 4시간동안 우리가 나눌 수 있는 이야기의 밀도를 높이고자, 한 사람의 주관자가 중심이 되어 완결",
+        "likes": 9,
+        "comments": 5
+      },
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1738823194219",
+        "author": "혜원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "category": "공지",
+        "title": "🔔골디락스 회칙",
+        "body": "🔔골디락스 회칙\n\n 골디락스 운영회칙\n\n제 1 조    운 영 \n\n제 1항 : 회원 자격 - 자소서는 정해진 양식에 따라 가입 당일 작성해야 합니다.최초 가입 후 2달 이내 독서모임에 참가해야 회원자격이 유지됩니다.",
+        "likes": 10,
+        "comments": 17
+      },
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1738820276598",
+        "author": "혜원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "category": "공지",
+        "title": "🔔가입인사 양식(편집x,그대로 복사!)",
+        "body": "🔔가입인사 양식(편집x,그대로 복사!)\n\n자기소개서 양식입니다. \n편집하지 마시고 맨 처음부터 그대로 복사해서 붙여넣기 해주세요.\n본인사진 필수입니다. 오프중심 모임이므로 알아볼 수 있어야하고 최소한의 확인 의미이므",
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "d1ffc706-a94d-11ef-9664-0a67d4aa41251787653713689",
+        "author": "이승철",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1ffc706-a94d-11ef-9664-0a67d4aa41251.png",
+        "category": "자유",
+        "title": "mbti",
+        "body": "mbti\n\n제목 : mbti\n\n혹시 mbti 가 뭐세요? 이런 질문을 가끔 받는다. 아마 기억을 더듬어 보면\n물어보았던 분들이 대부분 여성이었던거 같다. \n남자는 남자 따위의 mbti가 당연 안궁금하다. \n\n돼지눈에",
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1787638748280",
+        "author": "혜원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "category": "관심사",
+        "title": "[가난한 사람들] 참석자 발제문",
+        "body": "[가난한 사람들] 참석자 발제문\n\n그동안 이루어진 모든 독토는 리더가 작성한 발제문을 중심으로 이야기 나누었습니다.\n9월에 있을 도스토예프스키의 \"가난한 사람들\"은 처음으로 참석자들의 질문을 모아 진행할 예정입니다.",
+        "likes": 5,
+        "comments": 9
+      },
+      {
+        "id": "6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1787406134910",
+        "author": "권성일",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/6019e5f6-c9f8-11ef-aca3-0af5462f3dcb1.png",
+        "category": "가입인사",
+        "title": "반갑습니다",
+        "body": "반갑습니다\n\n자기소개서 양식입니다. \n편집하지 마시고 맨 처음부터 그대로 복사해서 붙여넣기 해주세요.\n본인사진 필수입니다. 오프중심 모임이므로 알아볼 수 있어야하고 최소한의 확인 의미이므로 예외는 두지 않습니다.\n\n",
+        "likes": 5,
+        "comments": 8
+      },
+      {
+        "id": "d1ffc706-a94d-11ef-9664-0a67d4aa41251787286675955",
+        "author": "이승철",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1ffc706-a94d-11ef-9664-0a67d4aa41251.png",
+        "category": "자유",
+        "title": "똥이",
+        "body": "똥이\n\n똥이\n\n뭔가 평소와는 다른 느낌에 깨었다.\n창 쪽의 햇빛을 보니 벌써 날이 밝은 지 오래다.\n출근해야 되는데 늦잠을 자버렸다.\n알람시계를 꺼놓고 잤나 보다.\n어제 과음한 탓에 갈증이 몰려왔다.\n침대에서 방바닥",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1787103872247",
+        "author": "혜원",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/05b0122c-2c1e-11ed-a4f8-0ad0e4a668cd1.png",
+        "category": "공지",
+        "title": "📚9/13(일)매디슨 카운티의 다리 독토 공지",
+        "body": "📚9/13(일)매디슨 카운티의 다리 독토 공지\n\n9월 13일 지정도서 ‘매디슨 카운티의 다리’ 독토 공지드립니다.\n\n1.일시 : 9월 13일(일) 3~5시\n\n2.장소 : 투썸플레이스 파이낸셜뉴스빌딩점\n(목요독토 투썸",
+        "likes": 1,
+        "comments": 5
+      },
+      {
+        "id": "d1ffc706-a94d-11ef-9664-0a67d4aa41251786936017680",
+        "author": "이승철",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1ffc706-a94d-11ef-9664-0a67d4aa41251.png",
+        "category": "자유",
+        "title": "풍경추",
+        "body": "풍경추\n\n제목 : 풍경추\n\n\n심장은 멈췄는데 계획대로 된 건가요?\n\n응. 지금 제세동기가 준비되어 있네.\n시간만 맞는다면.\n\n\n그는 넋이 나간 사람처럼 형태만 겨우 알아볼 수 있는 산 아래 도시를 바라보고 있다.\n\n",
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "d1ffc706-a94d-11ef-9664-0a67d4aa4125178684710794",
+        "author": "이승철",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/d1ffc706-a94d-11ef-9664-0a67d4aa41251.png",
+        "category": "자유",
+        "title": "dust",
+        "body": "dust\n\n제목 : dust\n\n만약 신이 있다면 이녀석들에게 두손 두발 다 들었을 것이다.\n\n자기를 믿든 믿지않던 아주 냉정하다. \n절대 기만할 수 없으며 일말의 자비도 없다.\n\n피도 눈물도 감정도 없다.\n믿음을 따",
+        "likes": 4,
+        "comments": 2
+      },
+      {
+        "id": "f65dfc3e-24bf-11ea-9c5e-0ad03ed379841786644572407",
+        "author": "바우와우",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/f65dfc3e-24bf-11ea-9c5e-0ad03ed379841.png",
+        "category": "자유",
+        "title": "아렌트의 책임과 판단",
+        "body": "아렌트의 책임과 판단\n\n오랫 동안 나는 정의가 무엇인지 물으며 살았다. 대단한 답을 찾았다고는 말할 수 없지만 적어도 그 물음 앞에서 비겁하지는 않으려 했다. 스스로를 저울에 올릴 때마다 나는 늘 같은 기준을 들이댔",
+        "likes": 9,
+        "comments": 6
+      },
+      {
+        "id": "b76a60b7-b7cc-4103-90e2-d7f3febe38c31786514577973",
+        "author": "편준우",
+        "authorImageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/b76a60b7-b7cc-4103-90e2-d7f3febe38c31.png",
+        "category": "자유",
+        "title": "백년허리",
+        "body": "백년허리\n\n제목 : 백년허리(정선근)\n\n최근 지인이 허리 통증으로 걸어서 병원으로 들어갔는데 뜻하지 않게 허리수술을 받았는데 안타깝게도 기어서 병원밖으로 나오게 됐어요.ㅠㅠ 제 와이프도 운동하면서 허리를 삐긋하면서 ",
+        "likes": 5,
+        "comments": 4
+      }
+    ],
+    "photos": [
+      {
+        "id": "5E1D80C3-7816-4167-B6B6-B5BC77D9DAA51",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/5E1D80C3-7816-4167-B6B6-B5BC77D9DAA51.png",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "ed2d0c7b-42e3-4849-8721-54b8eb75bca61",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/ed2d0c7b-42e3-4849-8721-54b8eb75bca61.png",
+        "likes": 7,
+        "comments": 2
+      },
+      {
+        "id": "310EB6E6-09E4-47D3-9371-9C6648367E464",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/310EB6E6-09E4-47D3-9371-9C6648367E464.png",
+        "likes": 5,
+        "comments": 1
+      },
+      {
+        "id": "310EB6E6-09E4-47D3-9371-9C6648367E463",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/310EB6E6-09E4-47D3-9371-9C6648367E463.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "310EB6E6-09E4-47D3-9371-9C6648367E462",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/310EB6E6-09E4-47D3-9371-9C6648367E462.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "310EB6E6-09E4-47D3-9371-9C6648367E461",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/310EB6E6-09E4-47D3-9371-9C6648367E461.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD4670510",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD4670510.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD467059",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD467059.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD467058",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD467058.png",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD467057",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD467057.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD467056",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD467056.png",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "9E575E6E-7971-4AD3-8499-9678FCD467055",
+        "imageUrl": "https://d3vo2hyhx9t76k.cloudfront.net/9E575E6E-7971-4AD3-8499-9678FCD467055.png",
+        "likes": 4,
+        "comments": 0
       }
     ]
   }

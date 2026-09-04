@@ -149,8 +149,18 @@ export function DetailScreen({
             <div className="sm-band" />
             <section className="sm-section">
               <h2 className="sm-section-title sm-title-s-medium" style={{ margin: 0 }}>모임 멤버</h2>
-              <p className="sm-body-m-regular" style={{ margin: 0, color: "var(--text-neutral)" }}>
-                현재 {gathering.members.toLocaleString("ko-KR")}명이 함께하고 있습니다.
+              <div className="sm-members">
+                {gathering.memberList.slice(0, 5).map((member) => (
+                  <div className="sm-member" key={member.id}>
+                    <img src={member.image} alt="" />
+                    <span className="sm-body-m-regular">
+                      {member.isManager ? `모임장 · ${member.name}` : member.name}
+                    </span>
+                  </div>
+                ))}
+              </div>
+              <p className="sm-label-s-regular" style={{ margin: 0, color: "var(--text-alternative)" }}>
+                전체 멤버 {gathering.members.toLocaleString("ko-KR")}명
               </p>
             </section>
           </>
@@ -162,7 +172,7 @@ export function DetailScreen({
         <IconContainer onClick={() => setLiked((v) => !v)} label="찜하기" tone="filled">
           <Heart selected={liked} />
         </IconContainer>
-        <Button full>모임 가입하기</Button>
+        <Button full onClick={() => window.open(gathering.sourceUrl, "_blank", "noopener,noreferrer")}>모임 가입하기</Button>
       </div>
       {toast && <Toast message={toast} />}
     </>
@@ -180,12 +190,7 @@ function CommunityBoard({
 }) {
   const [filter, setFilter] = useState("전체");
   const meeting = gathering.meetings[0];
-  const posts = [
-    { category: "공지", author: "모임장", when: "", title: "모임 활동 및 게시판 이용 안내", body: "새로 오신 분들은 공지와 가입인사를 확인해주세요.", likes: 8, comments: 3, pinned: true },
-    { category: "가입인사", author: "새 멤버", when: "방금 전", title: "안녕하세요! 잘 부탁드립니다", body: `${gathering.category}를 좋아해서 가입했습니다. 반갑습니다.`, likes: 1, comments: 1 },
-    { category: "모임후기", author: "모임 멤버", when: "어제", title: "즐거웠던 정기모임 후기", body: "함께 이야기 나눌 수 있어 즐거웠어요. 다음 모임도 기대됩니다.", likes: 3, comments: 2 },
-    { category: "가입인사", author: "새 멤버", when: "2일 전", title: "가입인사 드립니다", body: "처음 참여합니다. 모임에서 뵙겠습니다!", likes: 2, comments: 1 },
-  ];
+  const posts = gathering.articles;
   const visiblePosts = filter === "전체" ? posts : posts.filter((post) => post.category === filter);
 
   return (
@@ -215,16 +220,17 @@ function CommunityBoard({
       )}
       <div className="sm-board-posts">
         {visiblePosts.map((post) => (
-          <button key={post.title} type="button" className="sm-board-post" onClick={onRestricted}>
+          <button key={post.id} type="button" className="sm-board-post" onClick={onRestricted}>
             <span className="sm-board-post-head">
-              <span className="sm-board-avatar" aria-hidden>{post.author.slice(0, 1)}</span>
+              {post.authorImage ? <img className="sm-board-avatar" src={post.authorImage} alt="" /> : <span className="sm-board-avatar" aria-hidden>{post.author.slice(0, 1)}</span>}
               <span className="sm-body-m-medium">{post.author}</span>
-              <time className="sm-label-s-regular">{post.when}</time>
             </span>
             <span className="sm-board-post-title sm-body-m-medium">
-              {post.pinned && <em>필독</em>}{post.title}
+              {post.category === "공지" && <em>필독</em>}{post.title}
             </span>
-            <span className="sm-board-post-body sm-body-m-regular">{post.body}</span>
+            <span className="sm-board-post-body sm-body-m-regular">
+              {post.body.replace(/\s+/g, " ").slice(0, 110)}{post.body.length > 110 ? "…" : ""}
+            </span>
             <span className="sm-board-post-meta sm-label-s-regular">♡ 좋아요 {post.likes}　▢ 댓글 {post.comments}<i>{post.category}</i></span>
           </button>
         ))}
@@ -233,21 +239,6 @@ function CommunityBoard({
     </section>
   );
 }
-
-const GALLERY_IMAGES = [
-  "/somoim/banner_c1.png",
-  "/somoim/thumb_c2.png",
-  "/somoim/banner_c3.png",
-  "/somoim/thumb_c4.png",
-  "/somoim/banner_c2.png",
-  "/somoim/thumb_c1.png",
-  "/somoim/banner_c4.png",
-  "/somoim/thumb_c3.png",
-  "/somoim/thumb_c1.png",
-  "/somoim/banner_c3.png",
-  "/somoim/thumb_c2.png",
-  "/somoim/banner_c4.png",
-];
 
 function PhotoGallery({
   gathering,
@@ -258,18 +249,19 @@ function PhotoGallery({
 }) {
   return (
     <section className="sm-gallery" aria-label="사진첩">
-      {GALLERY_IMAGES.map((image, index) => (
+      {gathering.photos.map((photo, index) => (
         <button
-          key={`${image}-${index}`}
+          key={photo.id}
           type="button"
           className="sm-gallery-item"
           onClick={onRestricted}
           aria-label={`${gathering.name} 활동 사진 ${index + 1}`}
         >
-          <img src={index === 0 ? gathering.banner : image} alt="" />
-          <span className="sm-label-s-medium">♡ {index % 3 + 1}　▢ {index % 2 + 1}</span>
+          <img src={photo.image} alt="" />
+          <span className="sm-label-s-medium">♡ {photo.likes}　▢ {photo.comments}</span>
         </button>
       ))}
+      {gathering.photos.length === 0 && <p className="sm-empty sm-body-m-regular">등록된 사진이 없습니다.</p>}
     </section>
   );
 }

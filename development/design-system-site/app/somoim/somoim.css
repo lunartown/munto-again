@@ -298,7 +298,8 @@
 .sm-board-post-head time { margin-left: auto; color: var(--text-alternative); }
 .sm-board-avatar {
   width: 28px; height: 28px; display: grid; place-items: center;
-  border-radius: var(--radius-full); background: #e8f3ff; color: var(--primary-normal); font-size: 12px;
+  flex: none; border-radius: var(--radius-full); background: #e8f3ff; color: var(--primary-normal);
+  font-size: 12px; object-fit: cover;
 }
 .sm-board-post-title { display: flex; align-items: center; gap: 6px; }
 .sm-board-post-title em {
@@ -321,6 +322,7 @@
   position: absolute; right: 5px; bottom: 5px; padding: 3px 6px;
   border-radius: var(--radius-full); background: rgba(255,255,255,0.9); color: var(--text-normal);
 }
+.sm-gallery > .sm-empty { grid-column: 1 / -1; }
 
 /* ── 후기 ──────────────────────────────────── */
 .sm-review-head { display: flex; align-items: center; justify-content: space-between; padding: var(--spacing-16); }

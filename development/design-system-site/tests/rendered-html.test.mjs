@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
 
 async function render(pathname = "/") {
@@ -47,4 +48,16 @@ test("server-renders the somoim prototype with collected groups", async () => {
   assert.match(html, /잡학다食/);
   assert.match(html, /사유식탁/);
   assert.doesNotMatch(html, /자유독서단|책읽는 저녁/);
+});
+
+test("collected somoim data replaces board and gallery samples", async () => {
+  const source = JSON.parse(await readFile(new URL("../app/somoim/groups.json", import.meta.url), "utf8"));
+  assert.equal(source.length, 16);
+  assert.equal(source.reduce((sum, group) => sum + group.events.length, 0), 37);
+  assert.ok(source.reduce((sum, group) => sum + group.memberList.length, 0) > 0);
+  assert.ok(source.reduce((sum, group) => sum + group.articles.length, 0) > 0);
+  assert.ok(source.reduce((sum, group) => sum + group.photos.length, 0) > 0);
+
+  const screens = await readFile(new URL("../app/somoim/screens.tsx", import.meta.url), "utf8");
+  assert.doesNotMatch(screens, /즐거웠던 정기모임 후기|GALLERY_IMAGES/);
 });

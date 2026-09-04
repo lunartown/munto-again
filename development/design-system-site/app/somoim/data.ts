@@ -24,6 +24,31 @@ export type Meeting = {
   full?: boolean;
 };
 
+export type Member = {
+  id: string;
+  name: string;
+  image: string;
+  isManager: boolean;
+};
+
+export type Article = {
+  id: string;
+  author: string;
+  authorImage?: string;
+  category: string;
+  title: string;
+  body: string;
+  likes: number;
+  comments: number;
+};
+
+export type Photo = {
+  id: string;
+  image: string;
+  likes: number;
+  comments: number;
+};
+
 export type Gathering = {
   id: string;
   name: string;
@@ -36,6 +61,9 @@ export type Gathering = {
   intro: string;
   reviewCount: number;
   meetings: Meeting[];
+  memberList: Member[];
+  articles: Article[];
+  photos: Photo[];
   reviews: Review[];
   banner: string;
   thumb: string;
@@ -76,6 +104,28 @@ export const GATHERINGS: Gathering[] = sourceGroups.map((group, index) => ({
     cta: event.currentMembers >= event.maxMembers ? "빈자리 알림 받기" : "참석",
     full: event.currentMembers >= event.maxMembers,
     image: `/somoim/events/${event.id}.png`,
+  })),
+  memberList: group.memberList.map((member) => ({
+    id: member.id,
+    name: member.name,
+    image: member.imageUrl,
+    isManager: member.isManager,
+  })),
+  articles: group.articles.map((article) => ({
+    id: article.id,
+    author: article.author,
+    authorImage: article.authorImageUrl ?? undefined,
+    category: article.category,
+    title: article.title,
+    body: article.body,
+    likes: article.likes,
+    comments: article.comments,
+  })),
+  photos: group.photos.map((photo) => ({
+    id: photo.id,
+    image: photo.imageUrl,
+    likes: photo.likes,
+    comments: photo.comments,
   })),
   banner: `/somoim/group_${String(index + 1).padStart(2, "0")}.png`,
   thumb: `/somoim/group_${String(index + 1).padStart(2, "0")}.png`,
