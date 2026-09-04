@@ -36,4 +36,5 @@
 
 - [기존 리서치](archive/research/)
 - [기존 디자인 문서·다이어그램](archive/design/)
+- [Sprint 02 이전 초안](archive/sprint-02/)
 - [기존 Sprint 통합 정리 작업 로그](archive/case-study/)
